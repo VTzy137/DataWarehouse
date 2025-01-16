@@ -1,0 +1,50 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-provenance-repository-nar
+
+
+From: 'an unknown organization'
+
+  - Apache Lucene (module: backward-codecs) (https://lucene.apache.org/) org.apache.lucene:lucene-backward-codecs:jar:9.11.0
+    License: Apache 2  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Apache Lucene (module: core) (https://lucene.apache.org/) org.apache.lucene:lucene-core:jar:9.11.0
+    License: Apache 2  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Bouncy Castle Provider (https://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk18on:jar:1.78.1
+    License: Bouncy Castle Licence  (https://www.bouncycastle.org/licence.html)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-data-provenance-utils (https://nifi.apache.org/nifi-commons/nifi-data-provenance-utils) org.apache.nifi:nifi-data-provenance-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-persistent-provenance-repository (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-provenance-repository-bundle/nifi-persistent-provenance-repository) org.apache.nifi:nifi-persistent-provenance-repository:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-repository-encryption (https://nifi.apache.org/nifi-commons/nifi-repository-encryption) org.apache.nifi:nifi-repository-encryption:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-schema-utils (https://nifi.apache.org/nifi-commons/nifi-schema-utils) org.apache.nifi:nifi-schema-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-security-kms (https://nifi.apache.org/nifi-commons/nifi-security-kms) org.apache.nifi:nifi-security-kms:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-security-utils-api (https://nifi.apache.org/nifi-commons/nifi-security-utils-api) org.apache.nifi:nifi-security-utils-api:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-volatile-provenance-repository (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-provenance-repository-bundle/nifi-volatile-provenance-repository) org.apache.nifi:nifi-volatile-provenance-repository:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

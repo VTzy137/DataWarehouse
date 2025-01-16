@@ -1,0 +1,76 @@
+CREATE TABLE Employee_Dim (
+    EmployeeKey SERIAL PRIMARY KEY,
+    EmployeeID INT,
+    LastName VARCHAR(100),
+    FirstName VARCHAR(100),
+    Birthdate DATE,
+    Region VARCHAR(100),
+    Country VARCHAR(100)
+);
+CREATE TABLE Customer_Dim (
+    CustomerKey SERIAL PRIMARY KEY,
+    CustomerID VARCHAR(100),
+    ContactName VARCHAR(100),
+    CompanyName VARCHAR(100),
+    Address VARCHAR(255),
+    City VARCHAR(100),
+    Region VARCHAR(100),
+    PostalCode VARCHAR(20),
+    Phone VARCHAR(20),
+    Country VARCHAR(100)
+);
+CREATE TABLE CustomerEmployeeBridge (
+    CustomerKey INT REFERENCES Customer_Dim(CustomerKey),
+    EmployeeKey INT REFERENCES Employee_Dim(EmployeeKey),
+    CalendarKey INT,
+    OrderID VARCHAR(100),
+    Sales INT,
+    PRIMARY KEY (CustomerKey, EmployeeKey, CalendarKey)
+);
+CREATE TABLE CustomerEmployee_Fact (
+    CustomerKey INT REFERENCES Customer_Dim(CustomerKey),
+    EmployeeKey INT REFERENCES Employee_Dim(EmployeeKey),
+    CalendarKey INT,
+    OrderID VARCHAR(100),
+    Sales INT,
+    PRIMARY KEY (CustomerKey, EmployeeKey, CalendarKey)
+);
+CREATE TABLE Product_Dim (
+    ProductKey SERIAL PRIMARY KEY,
+    ProductID VARCHAR(100),
+    ProductName VARCHAR(255),
+    UnitPrice INT
+);
+CREATE TABLE Supplier_Dim (
+    SupplierKey SERIAL PRIMARY KEY,
+    CompanyName VARCHAR(100),
+    ContactName VARCHAR(100),
+    City VARCHAR(100),
+    Region VARCHAR(100),
+    PostalCode VARCHAR(20),
+    Country VARCHAR(100),
+    Phone VARCHAR(20)
+);
+CREATE TABLE Categories_Dim (
+    CategoriesKey SERIAL PRIMARY KEY,
+    CategoryName VARCHAR(100),
+    Description TEXT
+);
+CREATE TABLE Calendar_Dim (
+    CalendarKey SERIAL PRIMARY KEY,
+    Date DATE,
+    DayOfWeek CHAR(10),
+    DayOfMonth CHAR(10),
+    Month CHAR(10),
+    Quarter CHAR(10),
+    Year BIGINT
+);
+CREATE TABLE ProductStock_Fact (
+    CalendarKey INT REFERENCES Calendar_Dim(CalendarKey),
+    ProductKey INT REFERENCES Product_Dim(ProductKey),
+    CategoriesKey INT REFERENCES Categories_Dim(CategoriesKey),
+    SupplierKey INT REFERENCES Supplier_Dim(SupplierKey),
+    Record BIGINT,
+    OrderID BIGINT,
+    PRIMARY KEY (CalendarKey, ProductKey, CategoriesKey, SupplierKey)
+);

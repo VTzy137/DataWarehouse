@@ -1,0 +1,53 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-github-nar
+
+
+From: 'an unknown organization'
+
+  - GitHub API for Java (https://github-api.kohsuke.org/) org.kohsuke:github-api:jar:1.322
+    License: The MIT license  (https://www.opensource.org/licenses/mit-license.php)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-github-extensions (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-github-bundle/nifi-github-extensions) org.apache.nifi:nifi-github-extensions:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-standard-shared-nar (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-standard-shared-nar) org.apache.nifi:nifi-standard-shared-nar:nar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Eclipse Foundation' (https://www.eclipse.org)
+
+  - Jakarta Activation API (https://github.com/eclipse-ee4j/jaf) jakarta.activation:jakarta.activation-api:jar:2.1.0
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+  - Jakarta XML Binding API (https://github.com/jakartaee/jaxb-api/jakarta.xml.bind-api) jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.2
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+
+From: 'FasterXML' (http://fasterxml.com/)
+
+  - Jackson module: Jakarta XML Bind Annotations (jakarta.xml.bind) (https://github.com/FasterXML/jackson-modules-base) com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations:bundle:2.17.1
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'jsonwebtoken.io' (https://github.com/jwtk/jjwt)
+
+  - JJWT :: API (https://github.com/jwtk/jjwt/jjwt-api) io.jsonwebtoken:jjwt-api:jar:0.12.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - JJWT :: Impl (https://github.com/jwtk/jjwt/jjwt-impl) io.jsonwebtoken:jjwt-impl:jar:0.12.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - JJWT :: Extensions :: Jackson (https://github.com/jwtk/jjwt/jjwt-jackson) io.jsonwebtoken:jjwt-jackson:jar:0.12.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

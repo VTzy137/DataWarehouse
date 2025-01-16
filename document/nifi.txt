@@ -1,0 +1,10 @@
+./nifi-framework-bundle/nifi-framework/nifi-resources/src/main/resources/bin/nifi.sh run
+
+localhost:8443
+cd /home/shared/nifi-2.0.0-M4
+cd ~/Documents/code/warehouse/nifi-2.0.0-M4
+run: ./bin/nifi.sh start
+    ./bin/nifi.sh stop
+acc: vtzy
+pass: Truong123456
+

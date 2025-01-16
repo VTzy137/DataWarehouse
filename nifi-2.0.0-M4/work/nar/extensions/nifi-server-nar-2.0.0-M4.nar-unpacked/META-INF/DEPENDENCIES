@@ -1,0 +1,57 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-server-nar
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-documentation (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-documentation) org.apache.nifi:nifi-documentation:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-framework-external-resource-utils (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-framework-external-resource-utils) org.apache.nifi:nifi-framework-external-resource-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-framework-nar (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-framework-nar) org.apache.nifi:nifi-framework-nar:nar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-framework-nar-loading-utils (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-framework-nar-loading-utils) org.apache.nifi:nifi-framework-nar-loading-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-jetty (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-web/nifi-jetty) org.apache.nifi:nifi-jetty:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-jetty-configuration (https://nifi.apache.org/nifi-commons/nifi-jetty-configuration) org.apache.nifi:nifi-jetty-configuration:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-ui (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-server-nar-bom/nifi-ui) org.apache.nifi:nifi-ui:war:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-ui-extension (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-web/nifi-ui-extension) org.apache.nifi:nifi-ui-extension:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-web-api (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-server-nar-bom/nifi-web-api) org.apache.nifi:nifi-web-api:war:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-web-content-access (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework/nifi-web/nifi-web-content-access) org.apache.nifi:nifi-web-content-access:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-web-content-viewer (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-server-nar-bom/nifi-web-content-viewer) org.apache.nifi:nifi-web-content-viewer:war:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-web-docs (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-framework-bundle/nifi-framework-nar-bom/nifi-server-nar-bom/nifi-web-docs) org.apache.nifi:nifi-web-docs:war:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Webtide' (https://webtide.com)
+
+  - Core :: Rewrite (https://eclipse.dev/jetty/jetty-core/jetty-rewrite) org.eclipse.jetty:jetty-rewrite:jar:12.0.10
+    License: Eclipse Public License - Version 2.0  (https://www.eclipse.org/legal/epl-2.0/)
+    License: Apache Software License - Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
+

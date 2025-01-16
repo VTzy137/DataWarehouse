@@ -1,0 +1,3 @@
+2025-01-10 10:01:10,585 INFO [main] o.a.n.a.single.user.SingleUserAuthorizer Initializing Authorizer
+2025-01-10 10:01:10,857 INFO [main] o.a.n.a.single.user.SingleUserAuthorizer Configuring Authorizer
+2025-01-10 10:17:17,285 INFO [pool-1-thread-2] o.a.n.a.single.user.SingleUserAuthorizer Destroying Authorizer

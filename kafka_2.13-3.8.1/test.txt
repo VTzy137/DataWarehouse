@@ -1,0 +1,3 @@
+/home/shared/kafka_2.13-3.8.1
+zookeeper: bin/zookeeper-server-start.sh config/zookeeper.properties
+run kafka: bin/kafka-server-start.sh config/server.properties

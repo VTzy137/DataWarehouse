@@ -1,0 +1,77 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-protobuf-services-nar
+
+
+From: 'an unknown organization'
+
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:3.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Guava InternalFutureFailureAccess and InternalFutures (https://github.com/google/guava/failureaccess) com.google.guava:failureaccess:bundle:1.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava) com.google.guava:guava:bundle:33.2.1-jre
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Guava ListenableFuture only (https://github.com/google/guava/listenablefuture) com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - J2ObjC Annotations (https://github.com/google/j2objc/) com.google.j2objc:j2objc-annotations:jar:3.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Protocol Buffers [Core] (https://developers.google.com/protocol-buffers/protobuf-java/) com.google.protobuf:protobuf-java:jar:3.25.3
+    License: BSD-3-Clause  (https://opensource.org/licenses/BSD-3-Clause)
+
+  - KotlinPoet (https://github.com/square/kotlinpoet) com.squareup:kotlinpoet-jvm:jar:1.16.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - wire-runtime (https://github.com/square/wire/) com.squareup.wire:wire-runtime-jvm:jar:4.9.9
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - wire-schema (https://github.com/square/wire/) com.squareup.wire:wire-schema-jvm:jar:4.9.9
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Kotlin Reflect (https://kotlinlang.org/) org.jetbrains.kotlin:kotlin-reflect:jar:1.9.24
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-avro-record-utils (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-record-utils/nifi-avro-record-utils) org.apache.nifi:nifi-avro-record-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-protobuf-services (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-protobuf-bundle/nifi-protobuf-services) org.apache.nifi:nifi-protobuf-services:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-security-socket-ssl (https://nifi.apache.org/nifi-commons/nifi-security-socket-ssl) org.apache.nifi:nifi-security-socket-ssl:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-standard-record-utils (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-record-utils/nifi-standard-record-utils) org.apache.nifi:nifi-standard-record-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-standard-shared-nar (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-standard-shared-nar) org.apache.nifi:nifi-standard-shared-nar:nar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Square, Inc.' (http://squareup.com)
+
+  - JavaPoet (http://github.com/square/javapoet/) com.squareup:javapoet:jar:1.13.0
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+
+  - Apache Avro (https://avro.apache.org) org.apache.avro:avro:bundle:1.11.3
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Apache Commons CSV (https://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.11.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
+

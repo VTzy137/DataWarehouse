@@ -1,0 +1,313 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-gcp-nar
+
+
+From: 'an unknown organization'
+
+  - FlatBuffers Java API (https://github.com/google/flatbuffers) com.google.flatbuffers:flatbuffers-java:bundle:23.5.26
+    License: Apache License V2.0  (https://raw.githubusercontent.com/google/flatbuffers/master/LICENSE)
+
+  - Protocol Buffers [Core] (https://developers.google.com/protocol-buffers/protobuf-java/) com.google.protobuf:protobuf-java:jar:3.25.3
+    License: BSD-3-Clause  (https://opensource.org/licenses/BSD-3-Clause)
+
+  - Protocol Buffers [Util] (https://developers.google.com/protocol-buffers/protobuf-java-util/) com.google.protobuf:protobuf-java-util:jar:3.25.3
+    License: BSD-3-Clause  (https://opensource.org/licenses/BSD-3-Clause)
+
+  - RE2/J (http://github.com/google/re2j) com.google.re2j:re2j:jar:1.7
+    License: Go License  (https://golang.org/LICENSE)
+
+  - Open JSON (https://github.com/tdunning/open-json) com.tdunning:json:jar:1.8
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - io.grpc:grpc-alts (https://github.com/grpc/grpc-java) io.grpc:grpc-alts:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-auth (https://github.com/grpc/grpc-java) io.grpc:grpc-auth:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-googleapis (https://github.com/grpc/grpc-java) io.grpc:grpc-googleapis:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-grpclb (https://github.com/grpc/grpc-java) io.grpc:grpc-grpclb:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-inprocess (https://github.com/grpc/grpc-java) io.grpc:grpc-inprocess:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-netty-shaded (https://github.com/grpc/grpc-java) io.grpc:grpc-netty-shaded:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-protobuf (https://github.com/grpc/grpc-java) io.grpc:grpc-protobuf:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-protobuf-lite (https://github.com/grpc/grpc-java) io.grpc:grpc-protobuf-lite:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-rls (https://github.com/grpc/grpc-java) io.grpc:grpc-rls:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-services (https://github.com/grpc/grpc-java) io.grpc:grpc-services:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-stub (https://github.com/grpc/grpc-java) io.grpc:grpc-stub:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - io.grpc:grpc-xds (https://github.com/grpc/grpc-java) io.grpc:grpc-xds:jar:1.62.2
+    License: Apache 2.0  (https://opensource.org/licenses/Apache-2.0)
+
+  - OpenCensus (https://github.com/census-instrumentation/opencensus-proto) io.opencensus:opencensus-proto:jar:0.2.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Checker Qual (https://checkerframework.org) org.checkerframework:checker-compat-qual:jar:2.5.6
+    License: The MIT License  (http://opensource.org/licenses/MIT)
+
+  - org.conscrypt:conscrypt-openjdk-uber (https://conscrypt.org/) org.conscrypt:conscrypt-openjdk-uber:jar:2.5.2
+    License: Apache 2  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - Eclipse Collections Main Library (https://github.com/eclipse/eclipse-collections/eclipse-collections) org.eclipse.collections:eclipse-collections:jar:11.1.0
+    License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)
+    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
+
+  - Eclipse Collections API (https://github.com/eclipse/eclipse-collections/eclipse-collections-api) org.eclipse.collections:eclipse-collections-api:jar:11.1.0
+    License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)
+    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+
+  - nifi-conflict-resolution (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-conflict-resolution) org.apache.nifi:nifi-conflict-resolution:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-gcp-parameter-providers (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-gcp-bundle/nifi-gcp-parameter-providers) org.apache.nifi:nifi-gcp-parameter-providers:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-gcp-processors (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-gcp-bundle/nifi-gcp-processors) org.apache.nifi:nifi-gcp-processors:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-gcp-services-api-nar (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-standard-services-api-bom/nifi-standard-shared-bom/nifi-gcp-bundle/nifi-gcp-services-api-nar) org.apache.nifi:nifi-gcp-services-api-nar:nar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-json-utils (https://nifi.apache.org/nifi-commons/nifi-json-utils) org.apache.nifi:nifi-json-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-listed-entity (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-listed-entity) org.apache.nifi:nifi-listed-entity:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-migration-utils (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-migration-utils) org.apache.nifi:nifi-migration-utils:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+  - nifi-resource-transfer (https://nifi.apache.org/nifi-bom/nifi-extension-bom/nifi-extension-bundles/nifi-extension-utils/nifi-resource-transfer) org.apache.nifi:nifi-resource-transfer:jar:2.0.0-M4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+From: 'Eclipse Foundation' (https://www.eclipse.org)
+
+  - Jakarta Activation API (https://github.com/jakartaee/jaf-api) jakarta.activation:jakarta.activation-api:jar:2.1.3
+    License: EDL 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+  - Jakarta XML Binding API (https://github.com/jakartaee/jaxb-api/jakarta.xml.bind-api) jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.2
+    License: Eclipse Distribution License - v 1.0  (http://www.eclipse.org/org/documents/edl-v10.php)
+
+
+From: 'FasterXML' (http://fasterxml.com/)
+
+  - Jackson datatype: JSR310 (https://github.com/FasterXML/jackson-modules-java8/jackson-datatype-jsr310) com.fasterxml.jackson.datatype:jackson-datatype-jsr310:bundle:2.17.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'GlassFish Community' (https://javaee.github.io/glassfish)
+
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.3.2
+    License: CDDL + GPLv2 with classpath exception  (https://github.com/javaee/javax.annotation/blob/master/LICENSE)
+
+
+From: 'Google' (http://www.google.com/)
+
+  - Google APIs Client Library for Java (https://github.com/googleapis/google-api-java-client/google-api-client) com.google.api-client:google-api-client:jar:2.4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - BigQuery API v2-rev20240323-2.0.0 (http://nexus.sonatype.org/oss-repository-hosting.html/google-api-services-bigquery) com.google.apis:google-api-services-bigquery:jar:v2-rev20240323-2.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Drive API v3-rev20240521-2.0.0 (http://nexus.sonatype.org/oss-repository-hosting.html/google-api-services-drive) com.google.apis:google-api-services-drive:jar:v3-rev20240521-2.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Cloud Storage JSON API v1-rev20240319-2.0.0 (http://nexus.sonatype.org/oss-repository-hosting.html/google-api-services-storage) com.google.apis:google-api-services-storage:jar:v1-rev20240319-2.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Google' (https://www.google.com/)
+
+  - Apache HTTP transport v2 for the Google HTTP Client Library for Java. (https://github.com/googleapis/google-http-java-client/google-http-client-apache-v2) com.google.http-client:google-http-client-apache-v2:jar:1.44.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google App Engine extensions to the Google HTTP Client Library for Java. (https://github.com/googleapis/google-http-java-client/google-http-client-appengine) com.google.http-client:google-http-client-appengine:jar:1.44.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Jackson 2 extensions to the Google HTTP Client Library for Java. (https://github.com/googleapis/google-http-java-client/google-http-client-jackson2) com.google.http-client:google-http-client-jackson2:jar:1.44.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google OAuth Client Library for Java (https://github.com/googleapis/google-oauth-java-client/google-oauth-client) com.google.oauth-client:google-oauth-client:jar:1.36.0
+    License: The Apache Software License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Google LLC' (http://www.google.com)
+
+  - AutoValue Processor (https://github.com/google/auto/tree/main/value) com.google.auto.value:auto-value:jar:1.10.4
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Google LLC'
+
+  - API Common (https://github.com/googleapis/sdk-platform-java) com.google.api:api-common:jar:2.31.1
+    License: BSD-3-Clause  (https://github.com/googleapis/api-common-java/blob/main/LICENSE)
+
+  - GAX (Google Api eXtensions) for Java (Core) (https://github.com/googleapis/sdk-platform-java) com.google.api:gax:jar:2.48.1
+    License: BSD-3-Clause  (https://github.com/googleapis/gax-java/blob/master/LICENSE)
+
+  - GAX (Google Api eXtensions) for Java (gRPC) (https://github.com/googleapis/sdk-platform-java) com.google.api:gax-grpc:jar:2.48.1
+    License: BSD-3-Clause  (https://github.com/googleapis/gax-java/blob/master/LICENSE)
+
+  - GAX (Google Api eXtensions) for Java (HTTP JSON) (https://github.com/googleapis/sdk-platform-java) com.google.api:gax-httpjson:jar:2.48.1
+    License: BSD-3-Clause  (https://github.com/googleapis/gax-java/blob/master/LICENSE)
+
+  - gapic-google-cloud-storage-v2 (https://github.com/googleapis/java-storage/gapic-google-cloud-storage-v2) com.google.api.grpc:gapic-google-cloud-storage-v2:jar:2.39.0-alpha
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-cloud-bigquerystorage-v1 (https://github.com/googleapis/java-bigquerystorage/grpc-google-cloud-bigquerystorage-v1) com.google.api.grpc:grpc-google-cloud-bigquerystorage-v1:jar:3.5.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-cloud-bigquerystorage-v1beta1 (https://github.com/googleapis/java-bigquerystorage/grpc-google-cloud-bigquerystorage-v1beta1) com.google.api.grpc:grpc-google-cloud-bigquerystorage-v1beta1:jar:0.177.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-cloud-bigquerystorage-v1beta2 (https://github.com/googleapis/java-bigquerystorage/grpc-google-cloud-bigquerystorage-v1beta2) com.google.api.grpc:grpc-google-cloud-bigquerystorage-v1beta2:jar:0.177.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-cloud-pubsublite-v1 (https://github.com/googleapis/java-pubsublite/grpc-google-cloud-pubsublite-v1) com.google.api.grpc:grpc-google-cloud-pubsublite-v1:jar:1.13.6
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-cloud-storage-v2 (https://github.com/googleapis/java-storage/grpc-google-cloud-storage-v2) com.google.api.grpc:grpc-google-cloud-storage-v2:jar:2.39.0-alpha
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - grpc-google-common-protos (https://github.com/googleapis/sdk-platform-java) com.google.api.grpc:grpc-google-common-protos:jar:2.39.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-bigquerystorage-v1 (https://github.com/googleapis/java-bigquerystorage/proto-google-cloud-bigquerystorage-v1) com.google.api.grpc:proto-google-cloud-bigquerystorage-v1:jar:3.5.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-bigquerystorage-v1beta1 (https://github.com/googleapis/java-bigquerystorage/proto-google-cloud-bigquerystorage-v1beta1) com.google.api.grpc:proto-google-cloud-bigquerystorage-v1beta1:jar:0.177.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-bigquerystorage-v1beta2 (https://github.com/googleapis/java-bigquerystorage/proto-google-cloud-bigquerystorage-v1beta2) com.google.api.grpc:proto-google-cloud-bigquerystorage-v1beta2:jar:0.177.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-pubsub-v1 (https://github.com/googleapis/java-pubsub/proto-google-cloud-pubsub-v1) com.google.api.grpc:proto-google-cloud-pubsub-v1:jar:1.111.6
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-pubsublite-v1 (https://github.com/googleapis/java-pubsublite/proto-google-cloud-pubsublite-v1) com.google.api.grpc:proto-google-cloud-pubsublite-v1:jar:1.13.6
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-secretmanager-v1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-secretmanager-v1:jar:2.44.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-secretmanager-v1beta2 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-secretmanager-v1beta2:jar:2.44.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-storage-v2 (https://github.com/googleapis/java-storage/proto-google-cloud-storage-v2) com.google.api.grpc:proto-google-cloud-storage-v2:jar:2.39.0-alpha
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-vision-v1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-vision-v1:jar:3.42.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-vision-v1p1beta1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-vision-v1p1beta1:jar:0.131.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-vision-v1p2beta1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-vision-v1p2beta1:jar:3.42.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-vision-v1p3beta1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-vision-v1p3beta1:jar:0.131.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-cloud-vision-v1p4beta1 (https://github.com/googleapis/google-cloud-java) com.google.api.grpc:proto-google-cloud-vision-v1p4beta1:jar:0.131.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-common-protos (https://github.com/googleapis/sdk-platform-java) com.google.api.grpc:proto-google-common-protos:jar:2.39.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - proto-google-iam-v1 (https://github.com/googleapis/sdk-platform-java) com.google.api.grpc:proto-google-iam-v1:jar:1.34.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - BigQuery (https://github.com/googleapis/java-bigquery) com.google.cloud:google-cloud-bigquery:jar:2.40.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - BigQuery Storage (https://github.com/googleapis/java-bigquerystorage) com.google.cloud:google-cloud-bigquerystorage:jar:3.5.2
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Core (https://github.com/googleapis/sdk-platform-java) com.google.cloud:google-cloud-core:jar:2.38.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Core gRPC (https://github.com/googleapis/sdk-platform-java) com.google.cloud:google-cloud-core-grpc:jar:2.38.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Core HTTP (https://github.com/googleapis/sdk-platform-java) com.google.cloud:google-cloud-core-http:jar:2.38.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Pub/Sub (https://github.com/googleapis/java-pubsub) com.google.cloud:google-cloud-pubsub:jar:1.129.6
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Pub/Sub Lite (https://github.com/googleapis/java-pubsublite) com.google.cloud:google-cloud-pubsublite:jar:1.13.6
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Secret Manager (https://github.com/googleapis/google-cloud-java) com.google.cloud:google-cloud-secretmanager:jar:2.44.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Storage (https://github.com/googleapis/java-storage) com.google.cloud:google-cloud-storage:jar:2.39.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Cloud Vision (https://github.com/googleapis/google-cloud-java) com.google.cloud:google-cloud-vision:jar:3.42.0
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'Google, Inc.' (https://www.google.com)
+
+  - Flogger (https://github.com/google/flogger) com.google.flogger:flogger:jar:0.8
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Flogger System Backend (https://github.com/google/flogger) com.google.flogger:flogger-system-backend:jar:0.8
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Google Logger (https://github.com/google/flogger) com.google.flogger:google-extensions:jar:0.8
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+
+  - Arrow Format (https://arrow.apache.org/arrow-format/) org.apache.arrow:arrow-format:jar:15.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Arrow Memory - Core (https://arrow.apache.org/arrow-memory/arrow-memory-core/) org.apache.arrow:arrow-memory-core:jar:15.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Arrow Memory - Netty (https://arrow.apache.org/arrow-memory/arrow-memory-netty/) org.apache.arrow:arrow-memory-netty:jar:15.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+  - Arrow Vectors (https://arrow.apache.org/arrow-vector/) org.apache.arrow:arrow-vector:jar:15.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+From: 'ThreeTen.org' (https://www.threeten.org)
+
+  - ThreeTen-Extra (https://www.threeten.org/threeten-extra) org.threeten:threeten-extra:jar:1.8.0
+    License: BSD 3-clause  (https://raw.githubusercontent.com/ThreeTen/threeten-extra/main/LICENSE.txt)
+
+  - ThreeTen backport (https://www.threeten.org/threetenbp) org.threeten:threetenbp:jar:1.6.9
+    License: BSD-3-Clause  (https://raw.githubusercontent.com/ThreeTen/threetenbp/main/LICENSE.txt)
+
+
+
+
+

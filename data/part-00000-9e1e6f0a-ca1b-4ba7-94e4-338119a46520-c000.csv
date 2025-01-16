@@ -1,0 +1,739 @@
+Area swiggy,Restaurant city swiggy,Restaurant,Price swiggy,Ratings swiggy,Total ratings,Food type swiggy,Customer address swiggy,Delivery time swiggy,_c0,restaurant type,Ratings zomato,Total ratings zomato,Price zomato,online_order,table booking,Food type zomato,Area zomato,Address zomato
+Koramangala,Bangalore,Tandoor Hut,300.0,4.4,100,"Biryani,Chinese,North Indian,South Indian",5Th Block,59,6058,Casual Dining,2.2,90,750.0,No,No,"North Indian, Chinese",Bannerghatta Road,Bannerghatta Road
+Koramangala,Bangalore,Tunday Kababi,300.0,4.1,100,"Mughlai,Lucknowi",5Th Block,56,6712,Casual Dining,3.8,721,500.0,Yes,No,"North Indian, Rolls, Kebab",Indiranagar,Indiranagar
+Indiranagar,Bangalore,New Punjabi Hotel,250.0,3.9,500,"North Indian,Punjabi,Tandoor,Chinese",80 Feet Road,57,4301,Quick Bites,3.2,393,400.0,Yes,No,"North Indian, Chinese",Indiranagar,Old Airport Road
+Indiranagar,Bangalore,Treat,800.0,4.5,100,"Mughlai,North Indian",100 Feet Road,56,6678,Casual Dining,3.8,60,800.0,Yes,No,"North Indian, Mughlai",Brookefield,Whitefield
+Indiranagar,Bangalore,Chinita Real Mexican Food,1000.0,4.5,500,"Mexican,Beverages,Salads",Double Road,53,1445,Casual Dining,4.4,2658,1200.0,No,No,Mexican,Indiranagar,Indiranagar
+Domlur,Bangalore,Tea Brew,350.0,4.1,100,"American,Italian,Beverages,Continental,Chinese,Pastas,Pizzas,Fast Food",Double Road,57,6145,"Cafe, Casual Dining",4.1,1141,500.0,Yes,No,"Cafe, Continental, Momos, Italian, North Indian",Indiranagar,Indiranagar
+Koramangala,Bangalore,Bangaliana,300.0,4.0,500,Bengali,7Th Block,57,576,Casual Dining,3.0,61,600.0,Yes,No,Bengali,Electronic City,Electronic City
+Koramangala,Bangalore,Aalishan Restaurant & Caterer,290.0,4.3,100,"Mughlai,North Indian",7Th Block,52,109,Casual Dining,3.5,888,650.0,Yes,No,"North Indian, Mughlai","Byresandra,Tavarekere,Madiwala",Koramangala 7th Block
+Domlur,Bangalore,Kerala Pavilion,300.0,4.1,100,"Kerala,Seafood",Domlur Layout,55,3284,Quick Bites,3.8,305,300.0,Yes,No,"Kerala, South Indian, Seafood, Biryani",Koramangala 5th Block,Domlur
+Jayanagar,Bangalore,Nagarjuna Chimney,800.0,4.2,1000,"Seafood,Andhra,Biryani,South Indian,Combo,Desserts,Beverages",3Rd Block,48,4125,Casual Dining,4.0,920,600.0,No,No,"Andhra, Biryani",Basavanagudi,Jayanagar
+Indiranagar,Bangalore,Esplanade,1200.0,4.3,100,"Mughlai,Bengali",I Indirangar,54,2037,Casual Dining,4.3,1563,1000.0,No,No,Bengali,Indiranagar,Indiranagar
+Banashankari,Bangalore,Hotel New Karavali,250.0,3.8,100,"North Indian,Chinese,South Indian",Bsk 1St Stage,53,2725,"Casual Dining, Bar",3.4,8,550.0,Yes,No,"Chinese, Mangalorean, Seafood, North Indian",Kalyan Nagar,Hennur
+Indiranagar,Bangalore,Mamagoto,900.0,4.2,100,"Chinese,Asian,Pan-Asian,Thai,Oriental",Mamagoto,59,3764,Casual Dining,4.4,2558,1600.0,Yes,Yes,"Asian, Thai, Chinese, BBQ, Momos",Indiranagar,Indiranagar
+Aundh,Pune,Hyderabadi Spice,400.0,4.2,1000,"Biryani,Mughlai,North Indian,Chinese",Parihar Chowk,58,2861,Casual Dining,4.0,1369,600.0,Yes,No,"Biryani, North Indian",Electronic City,Electronic City
+Richmond Town,Bangalore,Fanoos,300.0,4.2,500,"Biryani,Tandoor,Kebabs,Barbecue,Fast Food",Hosur Road,33,2069,Quick Bites,3.9,132,400.0,Yes,No,"Arabian, Rolls, North Indian, BBQ",Frazer Town,Frazer Town
+Richmond Town,Bangalore,In Wok,500.0,4.3,100,Chinese,Richmond,44,2912,Casual Dining,3.6,118,500.0,Yes,No,Chinese,Brigade Road,Richmond Road
+Ashok Nagar,Bangalore,Lakeview Milkbar,450.0,4.1,100,"Desserts,Ice Cream,Bakery,Fast Food",Mg Road,31,3501,"Dessert Parlor, Cafe",2.8,40,500.0,No,No,"Desserts, Cafe, Fast Food",Kalyan Nagar,Kalyan Nagar
+Ashok Nagar,Bangalore,C Sharp Kitchen,300.0,2.9,80,"Chinese,Continental,Fast Food",Church Street,33,1041,Casual Dining,3.4,50,600.0,Yes,No,"North Indian, Chinese, European",Brigade Road,Church Street
+Ashok Nagar,Bangalore,Roomali,1000.0,4.4,100,"North Indian,Indian",Church Street,35,5075,Casual Dining,4.0,171,1300.0,No,Yes,North Indian,Brigade Road,Church Street
+Ashok Nagar,Bangalore,Tadka Singh,300.0,4.2,100,"Punjabi,North Indian",Church Street,38,6028,Casual Dining,3.4,946,,No,No,North Indian,Indiranagar,Indiranagar
+Indiranagar,Bangalore,Kund Indian Barbeque,200.0,4.2,100,"Mughlai,North Indian,Biryani,Kebabs,Desserts",1St Stage,58,3462,Casual Dining,4.0,869,1100.0,No,Yes,"North Indian, Mughlai",Indiranagar,Indiranagar
+Kalighat,Kolkata,Tamarind,1100.0,4.4,100,"North Indian,South Indian",Sarat Bose Road Desapriya Park,73,6048,Casual Dining,2.7,227,750.0,Yes,No,"Chinese, North Indian, Continental",Kalyan Nagar,Rammurthy Nagar
+Pulikeshi Nagar,Bangalore,Pathaan Sir,300.0,4.2,100,Fast Food,Coles Road,47,4650,Quick Bites,3.2,33,250.0,Yes,No,"Fast Food, Rolls, Momos",Bannerghatta Road,Bannerghatta Road
+Indiranagar,Bangalore,Chaipatty,200.0,3.9,50,"Fast Food,Beverages,Pizzas,Street Food,Snacks",Hanumanthanagar,56,1295,Cafe,3.0,1275,,No,No,Cafe,Old Airport Road,Indiranagar
+Rajajinagar,Bangalore,The Purple Pan,400.0,4.1,1000,"Mughlai,North Indian,Chinese,Arabian",Dr. Rajkumar Road,56,6505,Casual Dining,4.1,500,600.0,Yes,No,"North Indian, Chinese",Malleshwaram,Rajajinagar
+Ashok Nagar,Bangalore,Truffles,450.0,4.5,1000,"American,Desserts,Continental,Italian",St. Marks Road,29,6700,Cafe,4.5,3568,900.0,No,No,"Cafe, American, Burger, Steak",Brigade Road,St. Marks Road
+Koramangala,Bangalore,Lazeez,500.0,4.2,500,"North Indian,Mughlai",5Th Block,55,3543,Casual Dining,2.4,318,600.0,Yes,No,"North Indian, Mughlai, Biryani",HSR,Koramangala 1st Block
+Deccan Gymkhana,Pune,The Chocolate Room,450.0,2.9,80,"Desserts,Continental,Fast Food",Fc Road,39,6291,Cafe,2.8,43,600.0,Yes,No,"Cafe, Beverages",Electronic City,Electronic City
+Koti,Hyderabad,Grand Hotel,300.0,4.1,10000,"Biryani,Tandoor,Chinese,Indian,Kebabs,Desserts",Abids Road,24,2423,Quick Bites,3.6,57,500.0,Yes,No,"Hyderabadi, Biryani",Marathahalli,Old Airport Road
+Bidhannagar,Kolkata,Balle Balle Dhaba,500.0,4.1,1000,"North Indian,Punjabi,Biryani",Sector 1,59,557,Quick Bites,3.6,195,500.0,Yes,No,"North Indian, Chinese",Kalyan Nagar,Kalyan Nagar
+New Nallakunta,Hyderabad,Bawarchi,300.0,3.9,10000,"Biryani,Tandoor,Chinese,Indian,Desserts,Kebabs,Mughlai",Rtc X Roads,27,638,Quick Bites,3.0,29,400.0,No,No,"North Indian, Chinese",Electronic City,Electronic City
+Karve Nagar,Pune,Cheesiano Pizza,500.0,3.9,100,"Italian,Pizzas,Fast Food",Karvenagar,52,1354,Quick Bites,4.0,199,700.0,Yes,Yes,"Pizza, Italian",Bannerghatta Road,JP Nagar
+Domlur,Bangalore,Venus Biryani,200.0,4.1,500,Biryani,3Rd Cross,49,6853,Quick Bites,3.0,143,200.0,Yes,No,"Biryani, Chinese",Indiranagar,Domlur
+Shivajinagar,Pune,Mainland China,850.0,4.4,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Pyramid Mall,53,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+Malleshwaram,Bangalore,Food Paradise,326.0,3.9,100,"Mughlai,North Indian,Chinese,Fast Food",Malleshwaram,53,2190,Quick Bites,3.3,12,500.0,No,No,"North Indian, Chinese, Bengali, Biryani",Whitefield,Whitefield
+Ashok Nagar,Bangalore,Corner House Ice Cream,250.0,4.7,1000,"Ice Cream,Desserts",Residency Road,31,1575,Dessert Parlor,4.1,219,400.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Ballygunge,Kolkata,Mainland China,850.0,4.5,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Ballygunge,64,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+New Tippasandra,Bangalore,Dal Roti Sabji,150.0,4.5,100,North Indian,80Ft Road,54,1689,Quick Bites,4.1,81,150.0,Yes,No,North Indian,Indiranagar,Indiranagar
+Ashok Nagar,Bangalore,Mainland China,850.0,4.3,100,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Church Street,40,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+Vasanth Nagar,Bangalore,Shezan,600.0,4.3,100,"North Indian,Chinese,Continental,Mughlai",Cunnigham Road,44,5412,Casual Dining,4.1,391,600.0,Yes,No,"Chinese, Continental, North Indian, Mughlai, Steak",Brigade Road,Cunningham Road
+Vasanth Nagar,Bangalore,Dolci Desserts,600.0,4.5,50,"Desserts,Pastas",Cunnigham Road,40,1888,"Cafe, Dessert Parlor",4.3,652,750.0,Yes,No,"Cafe, Desserts",Brigade Road,Cunningham Road
+Deccan Gymkhana,Pune,Subway,350.0,4.4,100,"Fast Food,Healthy Food,Salads,Snacks,Desserts,Beverages",Fc Road,35,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Bandra Area,Mumbai,Smoke House Deli,600.0,4.4,100,"European,Italian,American,Pastas,Salads,Juices,Desserts,Combo",Bandra Area,48,5586,Casual Dining,4.6,2490,1600.0,Yes,No,"European, Italian, Desserts, Salad, Juices, Steak",Brigade Road,Lavelle Road
+Ashok Nagar,Bangalore,Oh! Calcutta,800.0,4.3,100,Bengali,Church Street,36,4468,"Casual Dining, Bar",4.4,1105,1200.0,Yes,Yes,"Bengali, Seafood",Brigade Road,Church Street
+Shankarapura,Bangalore,Polar Bear,300.0,4.5,100,"Desserts,Fast Food",Vv Puram,38,4751,Dessert Parlor,2.8,40,150.0,Yes,No,Ice Cream,Bannerghatta Road,CV Raman Nagar
+Rajajinagar,Bangalore,Kudla Beach,400.0,3.9,20,"North Indian,Chinese,Seafood,South Indian",Dr. Rajkumar Road,59,3446,Quick Bites,3.5,141,400.0,Yes,No,"North Indian, South Indian, Seafood, Chinese",Malleshwaram,Rajajinagar
+Langford Gardens,Bangalore,Rolls Kitchen,200.0,4.4,500,Fast Food,Shanthi Nagar,35,5066,Quick Bites,3.2,7,250.0,Yes,No,"Fast Food, Rolls",Bellandur,Marathahalli
+Koti,Hyderabad,Tibbs Frankie,150.0,4.3,100,Snacks,Hanuman Tekdi Road,29,6636,Quick Bites,2.9,17,200.0,No,No,"Street Food, Rolls",Whitefield,Whitefield
+Kalighat,Kolkata,Petuk,350.0,4.0,20,"Mughlai,Chinese,Fast Food",Near Sujata Sadan Theater Hazra,70,4703,Quick Bites,3.7,78,400.0,Yes,No,"Bengali, North Indian, Chinese, Biryani",Whitefield,Whitefield
+Ashok Nagar,Bangalore,Shiro,1400.0,4.4,100,"Japanese,Asian",Vittal Mallya Road,44,5416,"Fine Dining, Lounge",4.4,2229,3000.0,Yes,Yes,"Japanese, Asian",Brigade Road,Lavelle Road
+Aundh,Pune,Delhi Kitchen,300.0,4.0,100,"Tandoor,North Indian,Biryani,Beverages,Desserts",Dp Road,69,1756,"Takeaway, Delivery",2.9,142,400.0,Yes,No,North Indian,Brookefield,"ITPL Main Road, Whitefield"
+Powai Area,Mumbai,Asia Kitchen By Mainland China,850.0,4.3,100,"Asian,Chinese,Oriental",Powai Area,55,466,"Casual Dining, Bar",4.9,2178,1500.0,Yes,Yes,"Asian, Chinese, Thai, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Alwarpet,Chennai,Benjarong,1500.0,4.6,100,Thai,Ttk Road,68,690,Casual Dining,4.2,858,1800.0,Yes,No,"Thai, Asian",Brigade Road,Ulsoor
+Kotturpuram,Chennai,Ciclo Cafe,1100.0,4.4,1000,"Continental,Italian,Italian-American",Alwarpet,71,1494,"Cafe, Casual Dining",4.3,1269,1000.0,Yes,No,"Cafe, Italian, American",Indiranagar,Indiranagar
+Habsiguda,Hyderabad,Taste Of India,600.0,4.2,20,"North Indian,Chinese,Continental",Habsiguda Main Road,67,6094,Quick Bites,3.1,5,400.0,No,No,"North Indian, Rolls",Bellandur,Bellandur
+Ashok Nagar,Bangalore,Beijing Bites,450.0,4.2,500,Chinese,Richmond Road,33,665,Casual Dining,2.7,128,850.0,No,No,"Chinese, Thai",Banashankari,Banashankari
+Taltala,Kolkata,Subway,350.0,4.3,500,Fast Food  Healthy Food  Salads  Snacks  Desserts  Beverages,Park Street,49,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Santacruz East,Mumbai,Subway,350.0,4.4,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Central Plaza Kalina,29,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Vasanth Nagar,Bangalore,Rolls On Wheels,300.0,4.3,100,Fast Food,Cunnigham Road,38,5069,Quick Bites,2.6,153,300.0,No,No,"Fast Food, Rolls, Momos",Koramangala 4th Block,Koramangala 1st Block
+Thousand Lights,Chennai,Mamagoto,900.0,4.3,100,"Chinese,Asian,Pan-Asian,Thai,Oriental",Nugambakkam,55,3764,Casual Dining,4.4,2558,1600.0,Yes,Yes,"Asian, Thai, Chinese, BBQ, Momos",Indiranagar,Indiranagar
+Redhills,Hyderabad,Rayalaseema Ruchulu,450.0,4.0,500,"South Indian,Biryani,Rayalaseema",Lakdikapul,39,4972,Casual Dining,3.2,112,700.0,Yes,No,"Andhra, North Indian",Malleshwaram,New BEL Road
+Ashok Nagar,Bangalore,Smoor,300.0,4.3,100,"Desserts,Asian,Beverages,Bakery,Italian,Continental,Pizzas,Italian-American",1Mg Road,49,5594,"Cafe, Dessert Parlor",4.2,287,700.0,Yes,No,"Desserts, Cafe, Continental",Malleshwaram,Malleshwaram
+Marol Sakinaka,Mumbai,The Bar Stock Exchange,1300.0,2.9,80,"North Indian,Mexican,Continental,Italian",Andheri East,59,6214,"Pub, Casual Dining",4.2,634,1300.0,No,No,"Continental, Chinese, North Indian, Finger Food",Lavelle Road,St. Marks Road
+Thousand Lights,Chennai,The Marina,1500.0,4.4,100,Seafood,Nugambakkam,49,6447,Casual Dining,4.4,542,1200.0,No,No,"Seafood, Continental, North Indian, South Indian",Indiranagar,Indiranagar
+Santacruz East,Mumbai,Pizza Hut,300.0,3.8,500,"Pizzas,Fast Food",Bkc,33,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Ashok Nagar,Bangalore,Fresh Pressery Cafe,1000.0,4.2,100,"Italian,Salads,Healthy Food,French",Cbd,33,2252,Cafe,4.1,137,1200.0,Yes,No,"Cafe, Healthy Food, Salad, Beverages, Desserts","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Thousand Lights,Chennai,Bombay Brasserie,900.0,4.3,100,Indian,Nugambakkam,48,902,Casual Dining,4.3,555,1800.0,Yes,No,Modern Indian,Bellandur,Bellandur
+Somajiguda,Hyderabad,Kritunga Restaurant,500.0,4.0,1000,"Biryani,Andhra,Rayalaseema,South Indian,North Indian,Chinese",Somajiguda,52,3432,Casual Dining,2.6,330,600.0,No,No,"Andhra, Biryani",Bellandur,Sarjapur Road
+Pulikeshi Nagar,Bangalore,Delicacy,400.0,4.2,500,"Chinese,Thai",Cox Town,56,1771,Casual Dining,3.8,219,500.0,Yes,No,"Chinese, Thai, Momos",Marathahalli,CV Raman Nagar
+Kilpauk,Chennai,Wangs Kitchen,350.0,4.1,100,"Chinese,Fast Food,Asian",Kellys,46,6935,Casual Dining,2.4,438,1000.0,Yes,No,Chinese,Bellandur,HSR
+Rohini,Delhi,Burger King,350.0,4.3,1000,"American,Fast Food",D Mall Twin District Center,35,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Ashok Nagar,Bangalore,Smoke House Deli,800.0,4.5,500,"European,Italian,American,Pastas,Salads,Juices,Desserts,Combo",Lavelle Road,39,5586,Casual Dining,4.6,2490,1600.0,Yes,No,"European, Italian, Desserts, Salad, Juices, Steak",Brigade Road,Lavelle Road
+Prashant Vihar Rohini,Delhi,Subway,350.0,4.1,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Fun City Mall Prashant Vihar,53,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Shyam Bazar,Kolkata,Pizza Hut,350.0,4.1,1000,Fast Food  Pizzas,Shyambazar (218),49,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Langford Gardens,Bangalore,Pizza Hut,600.0,3.8,100,"Pizzas,Fast Food",O'Shngness Road,36,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Anna Nagar,Chennai,Mainland China,850.0,4.3,500,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",5Th Avenue,72,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+Chembur,Mumbai,Singh Saab,600.0,4.1,1000,"North Indian,Chinese,Biryani,Punjabi,Desserts,Pan-Asian,Tandoor,Combo,Beverages,Indian,Grill",Rc Marg,50,5522,Casual Dining,3.7,243,850.0,Yes,No,North Indian,Indiranagar,Indiranagar
+Himayatnagar,Hyderabad,Subway,350.0,4.3,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Himayath Nagar Road,33,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Kasba Peth,Pune,Coconut Grove,1000.0,2.9,80,"Chettinad,North Indian,Mangalorean,Seafood",Ambedkar Bhavan Station Road,37,1541,"Casual Dining, Bar",3.3,97,1100.0,No,No,"South Indian, Chettinad, Kerala, Seafood",Jayanagar,JP Nagar
+Sector 10 Rohini,Delhi,Pind Balluchi,400.0,3.8,100,"Mughlai,North Indian",Metro Walk Mall,40,4714,Casual Dining,4.0,1021,700.0,Yes,Yes,"North Indian, Mughlai",Brigade Road,Brigade Road
+Kothapet,Hyderabad,Kritunga Restaurant,500.0,4.0,1000,"Biryani,Andhra,Rayalaseema,South Indian,North Indian,Chinese",Dilsukhnagar Main Road,49,3432,Casual Dining,2.6,330,600.0,No,No,"Andhra, Biryani",Bellandur,Sarjapur Road
+Koramangala,Bangalore,Bistro Oui,800.0,4.2,100,Continental,5Th Block,59,854,"Cafe, Bar",4.1,400,1200.0,Yes,Yes,"Cafe, Continental, Salad, Steak","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Nungambakkam,Chennai,Kumarakom,450.0,4.3,500,"North Indian,Chinese,Kerala",Parsn Complex,57,3459,Casual Dining,3.8,1166,600.0,Yes,Yes,"Kerala, Seafood, South Indian, North Indian, Chinese","Byresandra,Tavarekere,Madiwala",HSR
+Thousand Lights,Chennai,Little Italy,1200.0,4.3,500,"Pizzas,Salads,Combo,Italian,Mexican,Desserts,Beverages",Wallace Garden,48,3609,Casual Dining,4.2,405,1500.0,Yes,Yes,"Salad, Healthy Food, Italian, Juices, Mexican, Pizza",Kalyan Nagar,Kalyan Nagar
+Himayatnagar,Hyderabad,Eagles Pizza,150.0,3.7,500,Pizzas,Himayathnagar Road,32,1959,Casual Dining,3.6,14,400.0,Yes,No,"Pizza, Italian","Byresandra,Tavarekere,Madiwala",Koramangala 7th Block
+Jayamahal,Bangalore,Five Star Chicken,300.0,4.3,50,Biryani,Jayamahal Extension,46,2130,Quick Bites,2.7,45,300.0,No,No,"Fast Food, Burger",Koramangala 4th Block,Koramangala 6th Block
+Thousand Lights,Chennai,Haagen Dazs,500.0,4.2,50,"Ice Cream,Desserts",Palavakkam,47,2489,Dessert Parlor,3.9,77,800.0,Yes,No,"Ice Cream, Desserts",Brigade Road,Koramangala 7th Block
+Andheri East,Mumbai,Cafe Coffee Day,300.0,3.9,50,Beverages  Snacks  Desserts,Gokul Regency,61,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Poongavanapuram,Chennai,Anjappar,600.0,4.0,50,"North Indian,Chinese,Chettinad,South Indian,Seafood",Egmore,34,382,Casual Dining,2.7,40,650.0,No,No,"Chettinad, South Indian",Jayanagar,JP Nagar
+Rohini,Delhi,Behrouz Biryani,500.0,4.2,500,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Sector 8,38,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Rohini,Delhi,Faasos,200.0,4.1,100,"Combo,Snacks,Beverages,Desserts,Indian",Sector 8,46,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+Richmond Town,Bangalore,Kabab Magic,400.0,3.3,100,"North Indian,Chinese",Hosur Road,32,3129,Casual Dining,3.0,451,500.0,Yes,No,"North Indian, Kebab, Fast Food",Brookefield,Marathahalli
+Purasaiwakkam,Chennai,Tibbs Frankie,100.0,3.8,100,Fast Food,Purasawalkam,34,6636,Quick Bites,2.9,17,200.0,No,No,"Street Food, Rolls",Whitefield,Whitefield
+Santacruz East,Mumbai,Behrouz Biryani,500.0,4.1,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Kalina,34,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Rohini,Delhi,Pizza Hut,350.0,3.6,100,Pizzas,Aggarwal City Plaza (13),37,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Ashok Nagar,Bangalore,Church Street Social,500.0,4.2,100,"Indian,Chinese,South Indian,American,Fast Food,Kebabs,Mughlai,Biryani,Combo",Church Street Road,38,1489,Lounge,4.3,7544,1500.0,Yes,No,"American, North Indian, Chinese, Finger Food, Momos",Brigade Road,Church Street
+Kothapet,Hyderabad,Spicy Hub,500.0,4.0,1000,"North Indian,Chinese",Kothapet - R.K Puram Road,51,5690,Quick Bites,3.0,26,400.0,No,No,North Indian,Bellandur,Bellandur
+Indiranagar,Bangalore,Cafe Terra,299.0,4.3,100,Continental,Double Road First Stage,54,1150,Cafe,2.8,40,700.0,Yes,No,"Cafe, Continental",Basavanagudi,Jayanagar
+Santacruz East,Mumbai,Faasos,200.0,4.2,100,"Combo,Snacks,Beverages,Desserts,Indian",Kalina,35,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+New Tippasandra,Bangalore,Waffle Magic,200.0,4.2,100,"Beverages,Desserts,Continental",2Nd Stage,57,6915,Cafe,4.1,83,700.0,Yes,No,"Cafe, Desserts","Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Kachiguda,Hyderabad,Cafe Coffee Day,300.0,4.5,20,"Beverages,Snacks,Desserts",Kachiguda Railway Station,36,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Basheer Bagh,Hyderabad,Cafe Coffee Day,300.0,4.1,100,Beverages  Snacks  Desserts,Sri Siva Rama Towers,40,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Bentinck St.,Kolkata,Bhojohori Manna,900.0,4.1,100,Bengali,Beside K.C. Das,42,745,Casual Dining,3.7,662,650.0,Yes,No,"Bengali, Mughlai",Bannerghatta Road,JP Nagar
+Indiranagar,Bangalore,Fresh Bites,200.0,4.1,500,"North Indian,South Indian,Chinese,Fast Food,Juices,Tandoor",Indiranagar Double Road,53,2246,Quick Bites,3.3,16,400.0,Yes,No,"Italian, Fast Food","Byresandra,Tavarekere,Madiwala",Koramangala 1st Block
+Khar West,Mumbai,Shiv Sagar,250.0,4.4,500,South Indian  Continental  Beverages  Ice Cream,Khar West Sv Road,56,5417,Casual Dining,2.8,40,800.0,No,No,"South Indian, North Indian, Chinese",Brigade Road,MG Road
+Shaniwar Peth,Pune,Faasos,200.0,4.3,100,"Combo,Snacks,Beverages,Desserts,Indian",Shaniwar Peth,30,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+Indiranagar,Bangalore,Nandhana Palace,500.0,4.1,500,"Biryani,Andhra,South Indian,North Indian",Amarjyothi Layout,58,4167,Casual Dining,4.2,1282,800.0,No,No,"Andhra, Biryani, North Indian, Chinese",New BEL Road,New BEL Road
+Anna Nagar,Chennai,Cafe Arabica,700.0,4.4,500,"Italian,Continental,Arabian,Bakery",Anna Nagarr,60,1070,"Cafe, Bakery",3.8,69,700.0,No,No,"Cafe, Bakery",Bannerghatta Road,Bannerghatta Road
+Koramangala,Bangalore,30 Square,300.0,2.9,80,Chinese,Khb Colony 5Th Block,64,38,Quick Bites,4.2,556,400.0,Yes,No,"Tibetan, Nepalese, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Tangra,Kolkata,Sigree Global Grill,700.0,3.8,20,"North Indian,Biryani",Science City Area,77,5499,"Casual Dining, Bar",4.4,1099,1400.0,No,Yes,"North Indian, BBQ",Kalyan Nagar,Kalyan Nagar
+Banashankari,Bangalore,Szechuan Dragon,500.0,4.1,500,"Chinese,Thai",Mount Joy Road,57,6015,Casual Dining,4.2,1647,600.0,Yes,No,"Chinese, Thai, Momos",Banashankari,Banashankari
+Basavanagudi,Bangalore,Cafe Mondo,500.0,4.4,50,"Pizzas,Italian",Armugam Circle,52,1120,Cafe,3.7,513,600.0,Yes,No,"Cafe, Italian, Beverages",Jayanagar,Basavanagudi
+Domlur,Bangalore,Suryawanshi,600.0,4.1,100,"Maharashtrian,Seafood",Double Road,54,5949,Casual Dining,3.7,16,700.0,Yes,No,"Maharashtrian, Seafood",Bannerghatta Road,Bannerghatta Road
+Shivajinagar,Pune,Pizza Hut,350.0,3.9,100,"Pizzas,Fast Food",Opposite F C College,36,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Thousand Lights,Chennai,Dhaba Estd 1986 Delhi,900.0,4.2,100,"Biryani,Hyderabadi,North Indian,Indian,Tandoor,Punjabi",Ispahani Center,52,1834,"Casual Dining, Bar",4.3,1287,1100.0,Yes,Yes,"BBQ, Mughlai, Biryani",Marathahalli,Marathahalli
+Indiranagar,Bangalore,Dhaba Estd 1986 Delhi,900.0,4.2,100,"Biryani,Hyderabadi,North Indian,Indian,Tandoor,Punjabi",12Th Main,58,1834,"Casual Dining, Bar",4.3,1287,1100.0,Yes,Yes,"BBQ, Mughlai, Biryani",Marathahalli,Marathahalli
+Bidhannagar,Kolkata,Pappu Chaiwalla,200.0,4.3,100,Continental  Fast Food  North Indian  Street Food,Near City Centre,52,4599,Quick Bites,3.1,89,300.0,Yes,No,"North Indian, Momos, Rolls, Fast Food",Koramangala 5th Block,BTM
+Kankurgachi,Kolkata,Hoppipola,1500.0,4.2,20,"Fast Food,Combo,Salads,Pizzas,Italian,Continental,European,Mediterranean,Desserts",Maniktala Main Road,61,2633,Lounge,4.3,1703,1300.0,Yes,No,"Continental, Mediterranean, European",Brigade Road,Church Street
+Ashok Nagar,Bangalore,Hoppipola,600.0,2.9,80,"Fast Food,Combo,Salads,Pizzas,Italian,Continental,European,Mediterranean,Desserts",Church Street,34,2633,Lounge,4.3,1703,1300.0,Yes,No,"Continental, Mediterranean, European",Brigade Road,Church Street
+Park Street Area,Kolkata,Sher-E-Punjab,500.0,4.3,100,"North Indian,Chinese",Opposite Kala Mandir,55,5408,Quick Bites,3.1,22,400.0,Yes,No,"North Indian, Chinese",Koramangala 5th Block,BTM
+Kolkata,Kolkata,Just Baked,250.0,2.9,80,Desserts  Bakery  Sweets,Near Birla High School,54,3088,Bakery,3.4,11,400.0,No,No,"Bakery, Desserts",Frazer Town,Frazer Town
+Behra Enclave Paschim Vihar,Delhi,Pakwan,300.0,3.7,1000,"Mughlai,North Indian,Chinese",Garg Plaza,46,4568,Casual Dining,4.1,289,800.0,Yes,Yes,"North Indian, Chinese, Italian",Malleshwaram,Sadashiv Nagar
+Powai Area,Mumbai,Mahesh Lunch Home,900.0,4.3,100,"Seafood,Chinese,Mangalorean,Biryani",Powai Area,58,3725,Casual Dining,4.1,860,1400.0,Yes,Yes,"Seafood, Mangalorean, North Indian, Chinese",Brigade Road,Residency Road
+Entally,Kolkata,Zam Zam Restaurant,200.0,4.4,1000,"Mughlai,Biryani",Near Frank Anothony Public School,46,7073,Quick Bites,3.1,7,400.0,No,No,"Chinese, North Indian",Kalyan Nagar,Banaswadi
+Koramangala,Bangalore,China Pearl,1100.0,4.5,1000,"Chinese,Asian",6Th Block,64,1431,Casual Dining,4.1,155,1100.0,Yes,No,"Chinese, Momos",Kalyan Nagar,Kalyan Nagar
+Koramangala,Bangalore,Cafe Medley,450.0,3.6,20,"Desserts,American,Continental,Italian,Bakery,Beverages",5Th Block,65,1116,Cafe,4.2,1059,800.0,Yes,No,"Cafe, Continental, Burger","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Pulikeshi Nagar,Bangalore,Aroma Of Asia,400.0,4.2,100,Chinese,Adams Corner,45,432,Quick Bites,3.9,49,400.0,No,No,"Chinese, Momos",MG Road,Frazer Town
+Taltala,Kolkata,Barista,350.0,4.1,20,"Beverages,Snacks,Desserts",Humayun Place,45,614,Cafe,3.2,11,300.0,No,No,Cafe,Indiranagar,CV Raman Nagar
+Chembur,Mumbai,Barista,350.0,4.3,50,"Beverages,Snacks,Desserts,Cafe",Garden Appartment,47,614,Cafe,3.2,11,300.0,No,No,Cafe,Indiranagar,CV Raman Nagar
+Khairtabad,Hyderabad,Barista,350.0,2.9,80,"Beverages,Snacks",Prasad I Max,58,614,Cafe,3.2,11,300.0,No,No,Cafe,Indiranagar,CV Raman Nagar
+New Nallakunta,Hyderabad,Pista House,200.0,4.3,1000,"Bakery,Pizzas,Snacks,Desserts",Chikkadapalli Road,30,4720,Casual Dining,4.0,334,,No,No,"North Indian, Biryani",Frazer Town,Frazer Town
+Ashok Nagar,Bangalore,Leon Grill,400.0,4.4,1000,"Arabian,Beverages,Desserts,American",St Mark'S Rd,32,3578,Quick Bites,4.0,334,500.0,Yes,No,"Fast Food, Healthy Food",Malleshwaram,New BEL Road
+Selimpur,Kolkata,Marhaba,400.0,4.2,50,"Mughlai,Indian,Tandoor,Biryani",Opp. Jodhpur Park Post Office,81,3808,Casual Dining,3.6,42,600.0,Yes,No,"Arabian, Mediterranean, North Indian",Kalyan Nagar,Nagawara
+South Dumdum,Kolkata,Food Junction,300.0,4.0,500,"Indian,Chinese,Tandoor,Biryani,Combo,Snacks",Near Uco Bank (Dakshinpara Branch),81,2180,Quick Bites,3.5,42,400.0,No,No,"North Indian, Chinese, Street Food, Biryani","Byresandra,Tavarekere,Madiwala",BTM
+Koramangala,Bangalore,Royal Treat,193.0,4.1,500,"North Indian,Chinese,Seafood,Biryani",5Th Block Koramangala,54,5108,Casual Dining,4.1,435,500.0,No,No,"North Indian, Chinese, Biryani","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Shivaji Nagar,Bangalore,Eden Park,1000.0,4.2,100,"North Indian,Chinese,Seafood,Andhra,Biryani,Desserts,Jain,Mughlai,South Indian,Coastal,Beverages",Central Bangalore,36,2001,Casual Dining,4.1,612,1100.0,Yes,Yes,"Andhra, Biryani, Chinese, North Indian, Seafood, South Indian",Brigade Road,Cunningham Road
+Jayanagar,Bangalore,Cakewala,450.0,4.3,100,Desserts,Jayanagar,51,1201,Bakery,4.1,230,500.0,Yes,No,"Bakery, Desserts","Byresandra,Tavarekere,Madiwala",JP Nagar
+Malleswaram,Bangalore,Chung Wah,700.0,4.0,500,"Chinese,Snacks",Vyalikawal,49,1484,Casual Dining,2.5,73,800.0,No,No,"Chinese, Momos",Whitefield,"ITPL Main Road, Whitefield"
+Beniapukur,Kolkata,Sanjha Chulha,400.0,4.4,100,"North Indian,Biryani,Indian,Chinese",Opp. Ladies Park,57,5261,Casual Dining,4.0,152,800.0,Yes,Yes,"North Indian, Pizza, Fast Food",Brookefield,Marathahalli
+Rohini,Delhi,Firangi Bake,400.0,4.1,50,"Italian,Mexican,Pastas",Sector 8,46,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Central Banglore,Bangalore,California Burrito,250.0,4.5,1000,"Mexican,American,Salads,Continental,Keto,Healthy Food",Vasanth Nagar,35,1211,Food Court,3.3,9,400.0,No,No,"Mexican, Fast Food",Jayanagar,JP Nagar
+Aundh,Pune,Tea Trails,350.0,2.9,80,Continental,Westend Mall,74,6149,Cafe,2.8,40,600.0,Yes,No,"Continental, Tea, Fast Food, Italian",Koramangala 4th Block,HSR
+Seshadripuram,Bangalore,24/7 - The Lalit Ashok Bangalore,600.0,3.7,20,"American,Asian,Chinese,Continental,North Indian,Pan-Asian",Malleshwaram,55,30,Fine Dining,4.0,344,3000.0,No,Yes,"Continental, North Indian, Italian, Chinese",Malleshwaram,Seshadripuram
+Koramangala,Bangalore,The Rendezvous,600.0,4.0,20,"Continental,Italian,Indian,Chinese",80Ft Road Koramangala,70,6512,Casual Dining,3.7,483,800.0,Yes,No,"Continental, Steak, Chinese, Salad, Desserts, Seafood, Italian","Byresandra,Tavarekere,Madiwala",Koramangala 4th Block
+Shankarapura,Bangalore,Little Cafe,300.0,3.7,20,"Beverages,Chinese,Continental,Desserts,Ice Cream,Italian,Jain",National High School Road,48,3606,Cafe,3.7,54,600.0,Yes,No,"Cafe, Beverages",Banashankari,Basavanagudi
+Koramangala,Bangalore,Little Kolkata,300.0,4.1,20,"North Indian,Bengali,Chinese",5Th Block,59,3611,Quick Bites,3.9,96,500.0,Yes,No,"Bengali, North Indian",Koramangala 6th Block,Ejipura
+Bandra East,Mumbai,Subway,350.0,4.3,100,Fast Food  Salads  Snacks  Desserts  Beverages,The Capital Bandra Kurla Complex,37,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Sivanchetti Gardens,Bangalore,Monsoon,700.0,4.5,20,"Andhra,Asian,Bengali,Biryani,Chettinad,Coastal,Continental,Desserts,Fast Food,Italian,Mughlai,North Indian,Pan-Asian,Seafood,South Indian",M.G Road,50,4011,Food Court,2.8,11,1000.0,No,No,Continental,Bellandur,Bellandur
+Himayatnagar,Hyderabad,Burger King,350.0,4.2,1000,American  Fast Food,Mpm Millennium Mall,35,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Ashok Nagar,Bangalore,Toscano,1200.0,4.3,100,"Italian,Pizzas,Pastas,Continental,Salads,Desserts,Beverages,Combo",Central Bangalore,39,6672,Casual Dining,4.2,1038,1500.0,Yes,Yes,"Italian, Salad",Whitefield,Whitefield
+Indiranagar,Bangalore,Salt Mango Tree,300.0,4.2,100,"Kerala,South Indian,Seafood,Biryani,Indian",Indiranagar,54,5204,Casual Dining,4.1,243,800.0,Yes,Yes,Kerala,Indiranagar,Indiranagar
+Paikpara,Kolkata,Ice & Spice,300.0,3.9,100,"Indian,Chinese,Biryani,North Indian,Combo,Beverages,Desserts",Near Satyanarayan Mistana Bhandar,66,2872,"Takeaway, Delivery",3.0,96,650.0,Yes,No,"Continental, Pizza, Fast Food",Brigade Road,Frazer Town
+Chembur,Mumbai,The J,300.0,4.4,100,"American,Fast Food,Snacks,Desserts",Chembur,45,6398,Quick Bites,4.0,133,450.0,Yes,No,"Fast Food, Beverages",Indiranagar,Church Street
+Nungambakkam,Chennai,The Table,350.0,4.5,50,Desserts,Nungambakkam,55,6559,Bakery,3.8,42,400.0,Yes,No,"Bakery, Desserts",Old Airport Road,Indiranagar
+Kalighat,Kolkata,Drunken Monkey,250.0,4.2,50,"Healthy Food,Beverages,Juices",On Manohar Pukur Crossing,70,1934,"Beverage Shop, Quick Bites",3.1,14,400.0,Yes,No,"Beverages, Fast Food",Indiranagar,CV Raman Nagar
+Santacruz East,Mumbai,Firangi Bake,400.0,2.9,80,"Italian,Mexican,Pastas",Ground Floor Swastik Industrial Estate 178 Vidya Nagri Marg,41,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Shaniwar Peth,Pune,Firangi Bake,400.0,4.4,20,"Italian,Mexican,Pastas",Beside Vinayak Jewellers,38,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Koramangala,Bangalore,Chaska Bun,178.0,4.4,100,Street Food,Koramangala,57,1331,Quick Bites,4.2,166,300.0,Yes,No,Fast Food,"Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Koramangala,Bangalore,Dice N Dine,500.0,4.0,500,"American,Asian,Chinese,Continental,Desserts,Italian,Jain,Mexican",Jyothi Nivas College Road,57,1850,"Casual Dining, Cafe",4.3,1800,900.0,Yes,Yes,"Continental, Cafe, Italian, Fast Food, Steak","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Benson Town,Bangalore,7 Plates,350.0,4.3,500,"Biryani,Chinese,North Indian",Frazer Town,48,63,Casual Dining,3.5,531,600.0,Yes,No,"North Indian, Mughlai, Rolls, Fast Food",Kammanahalli,Kalyan Nagar
+Kilpauk,Chennai,Subway,350.0,4.4,1000,"Fast Food,Salads,Snacks,Desserts,Beverages",Kilpauk,48,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Ramdev Nagar,Ahmedabad,Mainland China,900.0,4.3,50,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",Gulmohar Park,46,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+Gandhi Nagar,Bangalore,Hotel Karavali Beach,300.0,2.9,80,Seafood,Malleshwaram,47,2702,Casual Dining,3.5,19,500.0,Yes,No,"Seafood, Mangalorean, Chinese",Malleshwaram,Seshadripuram
+Navrangpura,Ahmedabad,The Chocolate Room,400.0,3.8,20,"Desserts,Beverages,Pizzas,Snacks,Fast Food",Navrangpura,34,6291,Cafe,2.8,43,600.0,Yes,No,"Cafe, Beverages",Electronic City,Electronic City
+Ellisbridge,Ahmedabad,Behrouz Biryani,500.0,4.2,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Panchvati Ellis Bridge,33,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Kondhwa,Pune,Jashn,500.0,4.0,100,"Indian,Chinese,Italian,American",Salunkhe Vihar Road,66,3019,Casual Dining,3.7,132,750.0,Yes,No,North Indian,Bellandur,Marathahalli
+Adugodi,Bangalore,Salt - Indian Restaurant Bar & Grill,1300.0,4.4,100,"North Indian,Biryani,Thalis,Desserts",Koramangala,56,5202,Casual Dining,4.4,677,1500.0,Yes,Yes,"North Indian, Mughlai, Biryani","Byresandra,Tavarekere,Madiwala",Koramangala 7th Block
+Triplicane,Chennai,Five Star Chicken,350.0,2.9,80,Fast Food,Royepettah,46,2130,Quick Bites,2.7,45,300.0,No,No,"Fast Food, Burger",Koramangala 4th Block,Koramangala 6th Block
+Ellisbridge,Ahmedabad,Cafe Coffee Day,300.0,4.4,100,"Beverages,Snacks,Desserts",Inside Hari Om Towers,32,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Ellisbridge,Ahmedabad,Firangi Bake,400.0,4.2,20,"Italian,Mexican,Pastas",Animesh Complex,38,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Kankurgachi,Kolkata,Soul Cafe,250.0,2.9,80,"Italian,Bakery",Beside Apollo Hospital,60,5627,Cafe,3.9,314,800.0,No,Yes,"Cafe, Continental, Italian",Church Street,MG Road
+Pulikeshi Nagar,Bangalore,The Deagh,500.0,4.1,500,"Indian,Chinese,Mughlai,Seafood",Mm Road,46,6311,Quick Bites,3.7,58,500.0,No,No,"Chinese, North Indian, Arabian",Frazer Town,Frazer Town
+Navrangpura,Ahmedabad,Subway,350.0,4.0,100,"Fast Food,Healthy Food,Salads,Snacks,Desserts,Beverages",Mithakali,29,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Sion,Mumbai,Chef Kitchen,500.0,3.8,20,"Indian,Chinese",Sion,59,1363,Quick Bites,3.7,19,200.0,Yes,No,"North Indian, Biryani, Charcoal Chicken",New BEL Road,New BEL Road
+Ashok Nagar,Bangalore,Nagarjuna,600.0,4.4,1000,"Andhra,South Indian,Biryani,Combo,Beverages,Desserts",Residency Road,32,4124,Casual Dining,4.2,970,800.0,No,No,"Andhra, Biryani",Marathahalli,Marathahalli
+Poongavanapuram,Chennai,Lassi Shop,100.0,3.9,20,Beverages,Periamet,30,3531,Beverage Shop,3.3,10,200.0,Yes,No,"Beverages, Ice Cream",Residency Road,Seshadripuram
+Koramangala,Bangalore,Tall Blonde French,250.0,4.2,20,"American,European",Koramangala,56,6047,Quick Bites,3.6,82,400.0,Yes,No,Fast Food,Marathahalli,Brookefield
+Shivajinagar,Pune,Burger King,350.0,4.2,1000,"American,Fast Food",The Pavillion Mall,54,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Karve Nagar,Pune,Malabar,400.0,3.9,100,"North Indian,Chinese",Kothrud,56,3736,Casual Dining,3.0,159,400.0,Yes,No,South Indian,Indiranagar,Jeevan Bhima Nagar
+Santacruz East,Mumbai,Rolls Mania,200.0,4.2,100,"Indian,Fast Food",Scruz Bandra East - Mumbai,36,5067,Quick Bites,3.7,32,450.0,Yes,No,"Fast Food, Rolls","Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Ashok Nagar,Bangalore,Cafe Azzure,1000.0,2.9,80,"American,Italian",Central Bangalore - Bangalore,47,1072,Cafe,4.2,559,1200.0,Yes,Yes,"Cafe, Continental, Italian, Burger",Kalyan Nagar,Kalyan Nagar
+Ashok Nagar,Bangalore,The Rice Bowl,450.0,4.2,100,Chinese,Lavelle Road,36,6518,"Casual Dining, Bar",4.3,500,1300.0,Yes,Yes,"Chinese, Momos",Brigade Road,Lavelle Road
+Koramangala,Bangalore,Pipabu,250.0,4.0,500,"Pizzas,Italian,American,Continental,Salads,Desserts",4Th Block,59,4719,Casual Dining,3.6,76,750.0,Yes,No,"Continental, Italian, Chinese",Koramangala 7th Block,Koramangala 4th Block
+Jayanagar,Bangalore,Chung Wah Opus,300.0,3.8,100,"Chinese,Pan-Asian",Jayanagar East,47,1486,Casual Dining,3.0,57,650.0,Yes,No,"Chinese, Thai",Bannerghatta Road,JP Nagar
+Seshadripuram,Bangalore,Richie Rich,500.0,4.4,500,"Desserts,Snacks,Chaat,Ice Cream",4Th Phase Yelahanka,36,5027,"Dessert Parlor, Quick Bites",4.0,624,450.0,Yes,No,"Desserts, Beverages, Fast Food, Ice Cream",Brigade Road,Race Course Road
+Elgin,Kolkata,Monkey Bar,1000.0,4.2,50,"North Indian,American,European,Asian",Camac Street,58,4010,Pub,4.3,3848,1400.0,Yes,No,"American, Asian, European, North Indian",Indiranagar,Indiranagar
+Teynampet,Chennai,Ente Keralam,750.0,4.5,100,Kerala,Kasturi Estate,58,2027,Casual Dining,4.0,1095,1300.0,Yes,No,"Kerala, Seafood",Indiranagar,Ulsoor
+Bkc,Mumbai,Chai Point,150.0,4.2,500,"Bakery,Combo,Beverages,Maharashtrian,Snacks,Street Food,South Indian,Punjabi,Fast Food",Bandra Kurla Complex,35,1291,Beverage Shop,3.8,94,250.0,Yes,No,"Fast Food, Beverages",Marathahalli,Marathahalli
+Koregaon Park,Pune,Yummy Momos,200.0,2.9,80,Chinese,Lane No.5 Kp,53,7053,Kiosk,3.2,4,200.0,Yes,No,"Chinese, Tibetan, Fast Food",Basavanagudi,JP Nagar
+Malleshwaram,Bangalore,Tasty Paradise,330.0,3.9,100,"Andhra,Chinese,Mughlai,North Indian,Seafood",Seshadipuram,52,6122,Casual Dining,3.7,98,550.0,Yes,No,"North Indian, Mughlai, Chinese, Beverages",Lavelle Road,Malleshwaram
+Navrangpura,Ahmedabad,Pizza Hut,350.0,4.0,100,"Fast Food,Pizzas",Navrangpura,35,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Koramangala,Bangalore,Lot Like Crepes,600.0,4.4,50,"Desserts,Continental,Cafe,Fast Food",Koramangala 7Th Block,56,3632,"Cafe, Dessert Parlor",4.6,1024,550.0,Yes,No,"Cafe, Desserts, Continental",Jayanagar,Koramangala 7th Block
+Domlur,Bangalore,Le Gateau - The Cake Shop,400.0,4.3,100,Desserts,1St Cross Domlur Layout,66,3562,Delivery,4.4,535,600.0,Yes,No,"Desserts, Bakery",Indiranagar,Old Airport Road
+Shivaji Nagar,Bangalore,Imperial Restaurant,400.0,4.2,100,"Arabian,Chinese,Desserts,Mughlai,North Indian,Seafood,South Indian",Shivajinagar,33,2907,Casual Dining,2.9,238,800.0,Yes,No,"North Indian, Chinese, Biryani, Kebab, Juices",Frazer Town,Shivajinagar
+Nagole,Hyderabad,The Chocolate Room,500.0,3.7,50,Desserts,Arunodaya Nagar Colony,76,6291,Cafe,2.8,43,600.0,Yes,No,"Cafe, Beverages",Electronic City,Electronic City
+Pulikeshi Nagar,Bangalore,Lazio Steaks & More,800.0,4.5,100,"Steakhouse,Pastas,American,Pizzas,Italian,Desserts,Chinese",Frazer Town,54,3548,Casual Dining,3.9,118,1000.0,Yes,No,"Continental, Chinese, Steak",Brigade Road,Frazer Town
+Banjara Hills,Hyderabad,Waffle House,400.0,3.9,20,Cafe  Desserts  Beverages,Raod No 12,55,6913,Dessert Parlor,3.5,29,,No,No,Desserts,Marathahalli,Marathahalli
+Nungambakkam,Chennai,Drunken Monkey,400.0,4.2,100,"Healthy Food,Beverages,Juices",Sterling Road,56,1934,"Beverage Shop, Quick Bites",3.1,14,400.0,Yes,No,"Beverages, Fast Food",Indiranagar,CV Raman Nagar
+Navrangpura,Ahmedabad,Mirch Masala,700.0,4.2,50,"Indian,Mughlai",C G Road,38,3960,Quick Bites,3.4,6,500.0,Yes,No,North Indian,Bannerghatta Road,JP Nagar
+Khokhra,Ahmedabad,Masala Kitchen,450.0,4.2,50,"Indian,Chinese,Continental",Mani Nagar,54,3830,Casual Dining,3.0,4,700.0,No,No,North Indian,Lavelle Road,Brigade Road
+Purasaiwakkam,Chennai,Ritz,650.0,2.9,80,"North Indian,Chinese",Egmore,39,5038,Casual Dining,3.5,43,800.0,No,No,"North Indian, Chinese, Thai, Continental",Electronic City,Electronic City
+Ejipura,Bangalore,Momo Rice Noodles,350.0,4.2,100,"Chinese,Thai",Koramangala,56,3997,Casual Dining,3.8,221,400.0,Yes,No,"Chinese, Momos",Indiranagar,Ejipura
+Shivaji Nagar,Bangalore,Utse Kitchen,500.0,4.2,100,"Chinese,Tibetan,Nepalese,Pan-Asian",Commercial Street,51,6806,Casual Dining,4.2,171,800.0,Yes,No,"Nepalese, Tibetan, Momos",Indiranagar,Commercial Street
+George Town,Chennai,Dindigul Thalappakatti,400.0,3.9,100,"Biryani,Barbecue,South Indian,Chinese,North Indian",N.S.C Bose Road,50,1866,Casual Dining,2.8,40,800.0,Yes,No,"Biryani, Chinese, North Indian, South Indian",Brigade Road,MG Road
+Ashok Nagar,Bangalore,Chung Wah,800.0,4.3,100,Chinese,Residency Cross Road,38,1484,Casual Dining,2.5,73,800.0,No,No,"Chinese, Momos",Whitefield,"ITPL Main Road, Whitefield"
+Ashok Nagar,Bangalore,Brik Oven,1000.0,4.5,100,"Pizzas,Italian,Desserts,Beverages",Church Street,35,971,Cafe,2.8,40,1100.0,No,No,"Cafe, Pizza, Beverages",Indiranagar,Indiranagar
+Purasaiwakkam,Chennai,Ibaco,800.0,4.7,50,"Ice Cream,Desserts",Purasaiwalkam,35,2868,Dessert Parlor,3.6,39,300.0,Yes,No,Desserts,Malleshwaram,Rajajinagar
+Rajajinagar,Bangalore,Sri Maruthi Miltry Hotel,250.0,3.8,500,"Biryani,South Indian,Combo",Rajajinagar,57,5782,Quick Bites,3.8,94,300.0,Yes,No,South Indian,Malleshwaram,Rajajinagar
+Jayanagar,Bangalore,Andhra Ruchulu,500.0,4.2,100,"Andhra,Chettinad,Chinese,Desserts,North Indian,Seafood",3Rd Block,47,359,Casual Dining,4.2,1428,800.0,Yes,Yes,"Andhra, North Indian",Bannerghatta Road,JP Nagar
+Koramangala,Bangalore,Khawa Karpo,178.0,4.6,100,Chinese,Koramangala,53,3310,Quick Bites,4.3,988,350.0,No,No,"Chinese, Tibetan, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Punjagutta,Hyderabad,The Belgian Waffle Co.,200.0,4.5,100,Desserts  Beverages,Next Galleria Mall,66,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Indiranagar,Bangalore,Maravanthe,800.0,4.3,100,Seafood,Indiranagar,54,3806,Casual Dining,3.5,12,650.0,Yes,No,"Mangalorean, Seafood",Brigade Road,Brigade Road
+Kalighat,Kolkata,Kolkata Kitchen,300.0,4.2,20,"Indian,Chinese",Hazra,75,3389,Quick Bites,3.2,231,400.0,Yes,No,"North Indian, Fast Food, Biryani",Electronic City,Electronic City
+Anna Nagar,Chennai,Kings Kitchen,249.0,2.9,80,"Chinese,Kebabs,North Indian",Annanagar,67,3338,Delivery,3.3,7,500.0,Yes,No,"Biryani, North Indian","Byresandra,Tavarekere,Madiwala",Koramangala 1st Block
+Bandra Area,Mumbai,Blue Tokai Coffee Roasters,800.0,4.8,100,"Healthy Food,American,Lebanese,Mediterranean,European,Juices,Middle Eastern",Bandra Area,41,885,Cafe,2.8,40,400.0,Yes,No,"Cafe, Coffee","Byresandra,Tavarekere,Madiwala",Koramangala 8th Block
+Seshadripuram,Bangalore,Happy Hours,300.0,2.9,80,"Desserts,Beverages",Old Bridge Road,53,2542,"Cafe, Dessert Parlor",3.8,24,400.0,No,No,"Cafe, Desserts",Malleshwaram,Seshadripuram
+Ashok Nagar,Bangalore,Amadora Gourmet Ice Cream & Sorbet,450.0,4.5,20,Desserts,Ub City,33,256,Dessert Parlor,2.8,40,500.0,No,No,Desserts,Brookefield,Whitefield
+Ashok Nagar,Bangalore,Sweet Chariot,50.0,2.9,80,Desserts,Brigade Road,36,6003,Bakery,2.7,19,500.0,No,No,"Bakery, Fast Food",New BEL Road,New BEL Road
+Old Malakpet,Hyderabad,Karachi Bakery,400.0,4.2,100,"Bakery,Pizzas,Fast Food,Chinese,Italian,American,Sweets,Desserts,Beverages",Saleem Nagar,38,3209,Bakery,2.8,40,400.0,No,No,"Bakery, Desserts",Church Street,Frazer Town
+Subhash Nagar Petrol Pump,Delhi,Momos Corner,300.0,4.2,500,"Chinese,Pan-Asian",Jail Road,70,4001,Quick Bites,3.1,15,250.0,No,No,"Chinese, Rolls, Momos",HSR,Bommanahalli
+Uttam Nagar,Delhi,Rolls Mania,200.0,3.6,20,Beverages,Main Najafgarh Road,75,5067,Quick Bites,3.7,32,450.0,Yes,No,"Fast Food, Rolls","Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Bandra Area,Mumbai,Copper Chimney,800.0,4.2,50,"North Indian,Indian,Biryani,Punjabi,Kebabs,Grill,Mughlai,Desserts",Bandra Area,42,1574,Casual Dining,4.1,40,1200.0,Yes,Yes,"North Indian, Biryani",Whitefield,Whitefield
+Banjara Hills,Hyderabad,Chai Point,150.0,4.2,500,"Bakery,Combo,Beverages,Maharashtrian,Snacks,Street Food,South Indian,Punjabi,Fast Food",Gvk Mall,57,1291,Beverage Shop,3.8,94,250.0,Yes,No,"Fast Food, Beverages",Marathahalli,Marathahalli
+West Mambalam,Chennai,Fnp Cakes 'N' More,200.0,3.7,50,Desserts,Ashok Nagar,71,2159,Bakery,2.8,40,150.0,No,No,Bakery,Malleshwaram,Malleshwaram
+Koramangala,Bangalore,Sardarji Londonwaley,350.0,4.0,500,"Indian,North Indian,Punjabi,Chinese,Biryani",Koramangala,55,5288,Delivery,2.8,40,450.0,No,No,North Indian,Bannerghatta Road,Bannerghatta Road
+Anna Nagar,Chennai,Ambur Star Briyani,500.0,4.3,1000,Biryani,Near Tower Park,58,294,Casual Dining,3.6,17,500.0,Yes,No,"North Indian, Chinese, Biryani",Indiranagar,Indiranagar
+Bandra Area,Mumbai,Toast & Tonic,900.0,2.9,80,"European,Continental",Bandra Area,51,6662,Casual Dining,4.6,1082,1500.0,No,Yes,"European, Asian",Brigade Road,Richmond Road
+Pulikeshi Nagar,Bangalore,Sharief Bhai,400.0,4.1,1000,"Biryani,North Indian,Kebabs,Mughlai,Grill,Fast Food,Beverages,Combo,Sweets,Desserts",M.M Road,48,5391,Casual Dining,4.3,267,700.0,No,Yes,"Mughlai, Biryani",Frazer Town,Frazer Town
+Vyasarpadi,Chennai,Meat And Eat,400.0,4.2,100,Fast Food,Perambur,48,3884,Quick Bites,2.8,39,500.0,Yes,No,"Fast Food, Burger",Bellandur,Sarjapur Road
+Koramangala,Bangalore,Madeena Hotel,250.0,4.1,1000,"Biryani,Mughlai,Indian,Beverages",5Th Block Kormangala,54,3694,Quick Bites,3.9,50,400.0,Yes,No,"North Indian, Mughlai, Biryani",Bannerghatta Road,Bannerghatta Road
+Camp,Pune,Mahesh Lunch Home,900.0,4.2,100,"Seafood,Indian,Chinese",Camp Area,34,3725,Casual Dining,4.1,860,1400.0,Yes,Yes,"Seafood, Mangalorean, North Indian, Chinese",Brigade Road,Residency Road
+Athwa,Surat,Subway,350.0,4.2,100,"Fast Food,Healthy Food,Salads,Snacks,Desserts,Beverages",Ghod Dod Road,30,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Seshadripuram,Bangalore,Mama Mia!,200.0,2.9,80,"Desserts,Ice Cream",Kumara Park,51,3762,Dessert Parlor,3.9,111,400.0,Yes,No,"Desserts, Cafe",Lavelle Road,Seshadripuram
+Piplod,Surat,Kathi Junction,200.0,4.2,100,"Indian,Mughlai,North Indian,Combo",Safal Square Vesu,55,3239,Quick Bites,2.8,44,400.0,Yes,No,"Rolls, North Indian, Mughlai",Electronic City,Electronic City
+Basavanagudi,Bangalore,Bombay Kulfis,100.0,4.7,100,"North Indian,Desserts,Fast Food",Banashankari Stage I,37,906,Dessert Parlor,3.3,4,200.0,No,No,Ice Cream,Indiranagar,Indiranagar
+Shankarapura,Bangalore,Twiststick House,300.0,4.3,100,"Jain,North Indian,Continental,Fast Food,Italian,Beverages,Thai",Vv Puram,47,6718,Quick Bites,4.1,163,500.0,Yes,No,"Continental, Fast Food, Street Food, Momos",Banashankari,Basavanagudi
+Bandra Area,Mumbai,Punjab Grill,900.0,4.3,100,"North Indian,Indian,Biryani,Punjabi,Kebabs,Mughlai,Desserts",Bandra Area,48,4827,Casual Dining,4.8,650,2000.0,Yes,No,North Indian,Whitefield,Whitefield
+Basavanagudi,Bangalore,J K Fish Land,300.0,4.1,20,"Coastal,Seafood",Basavanagudi,53,2989,Quick Bites,3.6,35,300.0,Yes,No,"Seafood, Mangalorean",Banashankari,Jayanagar
+Ashok Nagar,Bangalore,Chai Point,150.0,4.5,500,"Bakery,Combo,Beverages,Maharashtrian,Snacks,Street Food,South Indian,Punjabi,Fast Food",Church St,36,1291,Beverage Shop,3.8,94,250.0,Yes,No,"Fast Food, Beverages",Marathahalli,Marathahalli
+Ashok Nagar,Bangalore,Subway,350.0,4.4,100,"Fast Food,Salads,Snacks,Desserts,Beverages",Ub City,38,5903,Food Court,3.6,12,600.0,Yes,No,"Salad, Fast Food",Bellandur,Bellandur
+Varachha,Surat,Sher-E-Punjab,300.0,3.9,20,"North Indian,Chinese",Opp Surat Railway Station,43,5408,Quick Bites,3.1,22,400.0,Yes,No,"North Indian, Chinese",Koramangala 5th Block,BTM
+Powai Area,Mumbai,Shalimar,700.0,4.1,100,"Indian,Chinese",Marol,57,5371,Casual Dining,4.0,153,700.0,Yes,No,"North Indian, Chinese, Seafood",Brigade Road,Indiranagar
+Raja Bazar,Kolkata,Lazeez Biryani,250.0,3.5,1000,"Biryani,Mughlai",Opposite Hind Mahal,35,3544,Quick Bites,4.0,49,400.0,Yes,No,"North Indian, Chinese, Mughlai, Hyderabadi",Malleshwaram,New BEL Road
+Athwa,Surat,Pizza Hut,350.0,3.7,100,"Pizzas,Fast Food",Ghod Dod Road,40,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Raja Annamalai Puram,Chennai,Ciclo Life,500.0,4.5,500,"Salads,Continental,Oriental,Beverages",2Nd Main Rd Govindaswamy Nagar,68,1495,Delivery,2.8,40,400.0,No,No,"Salad, Beverages, Juices",Old Airport Road,Indiranagar
+Vastrapur,Ahmedabad,Drunken Monkey,250.0,4.3,20,"Healthy Food,Beverages,Juices",Opp Nehru Park Fountain,39,1934,"Beverage Shop, Quick Bites",3.1,14,400.0,Yes,No,"Beverages, Fast Food",Indiranagar,CV Raman Nagar
+Egmore,Chennai,Brownie Heaven,200.0,4.6,20,Desserts,Egmore,37,981,Dessert Parlor,3.9,16,300.0,Yes,No,Desserts,Brigade Road,Koramangala 5th Block
+Vijayanagar,Bangalore,Swathi Greenland,400.0,4.4,50,"Chinese,North Indian,Desserts,Andhra,Beverages,Seafood,Punjabi,Hyderabadi",Mc Layout,62,5995,"Casual Dining, Bar",3.7,174,800.0,Yes,No,"Andhra, North Indian, Chinese",Rajajinagar,Vijay Nagar
+Bharthana,Surat,Burger King,350.0,4.2,1000,"American,Fast Food",Bhadani Era Vip Road,52,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Ashok Nagar,Delhi,Dilli Darbar,300.0,3.6,20,"Mughlai,Indian",Tilak Nagar,70,1858,Casual Dining,3.4,372,500.0,Yes,No,"North Indian, Chinese, Biryani",Brookefield,Whitefield
+Koregaon Park,Pune,1441 Pizzeria,400.0,3.9,100,"Italian,Pizzas,Pastas,Desserts,Beverages",Koregaon Park,48,13,Casual Dining,4.1,119,800.0,Yes,No,"Pizza, Salad",Basavanagudi,JP Nagar
+Santacruz East,Mumbai,Burger King,350.0,4.2,1000,American,Central Plaza Kalina,33,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Ashok Nagar,Bangalore,Airlines Hotel,500.0,4.3,100,"South Indian,North Indian",Lavelle Road,32,172,Quick Bites,4.0,867,400.0,Yes,No,"South Indian, North Indian, Street Food",Brigade Road,Lavelle Road
+Central Bangalore,Bangalore,Taco Bell,300.0,4.2,100,Mexican,Garuda Mall,63,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Khairtabad,Hyderabad,Indira Darshini,200.0,4.1,500,"Chinese,South Indian,Fast Food,Hyderabadi",Erramanzal Colony Rd,49,2945,Quick Bites,3.1,6,200.0,No,No,"South Indian, Chinese",MG Road,Cunningham Road
+Kalyani Nagar,Pune,Kerala Cafe,800.0,4.0,100,"South Indian,Kerala",Kalyani Nagar,58,3276,Quick Bites,3.2,4,300.0,No,No,"Kerala, South Indian, North Indian",Marathahalli,Kaggadasapura
+Toli Chowki,Hyderabad,Ice Magic,250.0,4.5,100,Pizzas,Tolichowki,68,2884,Quick Bites,3.4,6,250.0,No,No,"Ice Cream, Fast Food, Beverages, Burger, Desserts, Juices",New BEL Road,New BEL Road
+Ellisbridge,Ahmedabad,Burger King,350.0,4.2,1000,"American,Fast Food",3Rd Eye Ii Ellis Bridge Cg Road,33,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Koramangala,Bangalore,Nasi And Mee,1200.0,4.6,100,"Pan-Asian,Singaporean,Malaysian,Japanese,Asian,Chinese,Indonesian",Koramangala,61,4190,Casual Dining,4.4,907,1000.0,Yes,Yes,"Malaysian, Thai, Singaporean, Asian, Chinese, Momos",Whitefield,Whitefield
+Koramangala,Bangalore,Dalma,197.0,4.2,100,"Oriya,Seafood,Thai",Koramangala 6Th Block,60,1692,Casual Dining,3.9,475,600.0,Yes,No,Oriya,"Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Chamrajpet,Bangalore,Shree Mahalakshmi Sweets,200.0,4.1,100,"Sweets,Snacks",Chamrajpet,59,5448,Sweet Shop,3.2,8,100.0,Yes,No,"Mithai, Street Food",Banashankari,Banashankari
+Thousand Lights,Chennai,Nasi And Mee,1200.0,4.5,500,"Pan-Asian,Singaporean,Malaysian,Japanese,Asian,Thai,Chinese,Indonesian",Nungambakkam,50,4190,Casual Dining,4.4,907,1000.0,Yes,Yes,"Malaysian, Thai, Singaporean, Asian, Chinese, Momos",Whitefield,Whitefield
+Royapuram,Chennai,Banana Leaf,300.0,3.8,50,"South Indian,Biryani,Chinese",Royapuram,54,564,Casual Dining,3.5,12,500.0,No,No,Andhra,Indiranagar,Domlur
+Malleswaram,Bangalore,D-Zaprino,300.0,3.9,100,"North Indian,Continental,American,Desserts,Fast Food,Italian,Beverages,Seafood",Malleswaram,63,1953,"Takeaway, Delivery",2.8,40,350.0,Yes,No,"Fast Food, Burger, Pizza",Kalyan Nagar,Nagawara
+Anna Nagar,Chennai,Cheesy Juicy Burgers,450.0,3.9,50,"Fast Food,Continental",Anna Nagar,60,1355,Quick Bites,3.8,18,500.0,Yes,No,"Burger, Fast Food",HSR,HSR
+Umarwada,Surat,Cafe Coffee Day,300.0,4.6,50,"Beverages,Snacks,Desserts",Sahara Darwaja,39,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Kilpauk,Chennai,Juice Junction,150.0,4.6,500,"Juices,Beverages",Kilpauk Garden,54,3072,Beverage Shop,2.8,20,150.0,Yes,No,"Juices, Fast Food","Byresandra,Tavarekere,Madiwala",JP Nagar
+Kondhwa,Pune,Hotel Malabar,400.0,3.3,20,"Chinese,North Indian",Kondhwa,80,2709,Quick Bites,3.8,43,250.0,No,No,Kerala,Marathahalli,Kaggadasapura
+New Magdalla,Surat,Cookie Man,140.0,2.9,80,"Bakery,Desserts,Australian,Snacks,Cafe",Vr Mall Dumas Road,64,1563,Bakery,3.2,5,150.0,Yes,No,Bakery,Brookefield,Whitefield
+Koramangala,Bangalore,Fiero! Pizzeria,400.0,3.9,500,"Pizzas,Italian,Pastas,Desserts,Beverages",Koramangala,57,2097,Quick Bites,4.0,61,400.0,Yes,No,"Italian, Fast Food, Pizza",Koramangala 4th Block,Koramangala 6th Block
+Koramangala,Bangalore,The Bier Library,600.0,4.3,50,"Continental,North Indian,Pizzas,American,Mexican,Italian,Beverages",Narayana Reddy Layout,61,6225,"Microbrewery, Casual Dining",4.3,552,2000.0,Yes,Yes,"Continental, North Indian, Pizza, BBQ",Koramangala 4th Block,Koramangala 6th Block
+Koramangala,Bangalore,Terra Bites,700.0,4.4,20,"Continental,American,Italian,Mexican",Koramangala 4Th Block,61,6168,"Cafe, Casual Dining",4.0,61,700.0,Yes,No,"Cafe, Italian, Continental","Byresandra,Tavarekere,Madiwala",Koramangala 4th Block
+Ashok Nagar,Bangalore,Chianti,1250.0,4.7,50,"Italian,Pizzas,Salads,Pastas,Desserts",Ramanashree Arcade,46,1381,Casual Dining,4.4,280,1500.0,No,Yes,Italian,Church Street,MG Road
+Kodihalli,Bangalore,Chai Days,200.0,4.4,1000,"Beverages,Snacks,Combo,Bakery",100Ft Road,53,1281,Cafe,4.4,105,200.0,Yes,No,"Cafe, Tea, Beverages, Fast Food",Indiranagar,Indiranagar
+Rohini,Delhi,Barista,350.0,3.5,20,"Beverages,Snacks,Desserts",Unity One Mall Rohini,44,614,Cafe,3.2,11,300.0,No,No,Cafe,Indiranagar,CV Raman Nagar
+Srirampura,Bangalore,Karnataka Biryani Point,250.0,4.1,100,Biryani,Rajajinagar,47,3232,Quick Bites,2.8,40,200.0,Yes,No,Biryani,Malleshwaram,Malleshwaram
+Indiranagar,Bangalore,Biryani Khazana,250.0,3.7,50,Biryani,Indiranagar,59,822,"Takeaway, Delivery",3.0,10,600.0,Yes,No,Biryani,Indiranagar,Indiranagar
+Ashok Nagar,Bangalore,The Bar Stock Exchange,800.0,2.9,80,"Chinese,North Indian,Continental,Pan-Asian,Thai",St. Marks Road,39,6214,"Pub, Casual Dining",4.2,634,1300.0,No,No,"Continental, Chinese, North Indian, Finger Food",Lavelle Road,St. Marks Road
+Ashok Nagar,Bangalore,The Flying Squirrel,450.0,2.9,80,Cafe,Central Bangalore,40,6342,Cafe,4.0,24,450.0,No,No,"Cafe, Bakery, Beverages, Burger, Continental",Brigade Road,Brigade Road
+Saki Naka,Mumbai,Supreme Biryani,200.0,3.0,100,"Biryani,Chinese",Marol Sakinaka,48,5945,Delivery,3.3,18,400.0,Yes,No,Biryani,Bellandur,South Bangalore
+Anna Nagar,Chennai,Omleterian,250.0,4.3,50,"Healthy Food,Snacks",Anna Nagar East,67,4494,Delivery,3.3,4,200.0,Yes,No,"American, Continental",Brookefield,Whitefield
+Nungambakkam,Chennai,Crisp Cafe,400.0,4.6,20,"North Indian,Italian,Beverages,Juices,Ice Cream,Pizzas,Desserts,Pastas,Cafe",Kothari Road,58,1614,"Cafe, Casual Dining",4.0,97,1100.0,No,No,"Salad, Cafe, Continental, Steak, Italian, Burger, Desserts, Pizza",Indiranagar,Indiranagar
+Darulshifa,Hyderabad,Pista House,200.0,4.1,1000,Bakery  Pizzas  Haleem,Naya Pool   Charminar,37,4720,Casual Dining,4.0,334,,No,No,"North Indian, Biryani",Frazer Town,Frazer Town
+Wanwadi,Pune,Swad Punjab Da,350.0,4.1,20,"North Indian,Chinese",Shivarkar Road,65,5973,Quick Bites,3.7,41,150.0,Yes,No,North Indian,Bannerghatta Road,BTM
+Annanagar East,Chennai,Silver Spoon,500.0,4.3,100,"North Indian,South Indian,Indian,Grill,Arabian,Kebabs,Tandoor",Anna Nagar East,64,5508,"Casual Dining, Bar",3.3,4,800.0,No,No,"North Indian, Chinese, Continental",Lavelle Road,Majestic
+Agarkar Nagar,Pune,Sagar,550.0,4.6,20,"North Indian,South Indian,Chinese",Camp,31,5165,Casual Dining,3.6,101,500.0,No,No,"South Indian, North Indian, Chinese",Rajajinagar,Vijay Nagar
+Thousand Lights,Chennai,Taco Bell,300.0,4.3,500,Mexican,Express Avenue,53,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Victoria Layout,Bangalore,Hyderabad Biryaani House,499.0,4.3,100,Indian,Central Bangalore,35,2841,Casual Dining,3.5,374,550.0,Yes,No,"Biryani, North Indian, Chinese",Brookefield,Whitefield
+Koramangala,Bangalore,Punjabi Unplugged,300.0,3.9,500,"North Indian,Chinese,Indian,Mughlai",Koramangala 1St Block,54,4863,Quick Bites,2.8,40,500.0,Yes,No,North Indian,Bannerghatta Road,Bannerghatta Road
+Kondhwa,Pune,Biryani Bowl,400.0,3.1,20,"Biryani,North Indian",Paud Road Kothrud,73,806,Kiosk,3.3,10,550.0,No,No,"Biryani, Andhra",Whitefield,Whitefield
+Shaniwar Peth,Pune,The Good Bowl,400.0,4.4,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Shanivarpeth,33,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Santacruz East,Mumbai,The Good Bowl,400.0,4.2,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Bkc Fc,37,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Ellisbridge,Ahmedabad,The Good Bowl,400.0,4.1,100,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",C G Road,30,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Rohini,Delhi,The Good Bowl,400.0,4.2,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Sector 8,40,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Gandhi Nagar,Bangalore,Fishland,500.0,4.4,50,"Seafood,North Indian,Chinese",Majestic,44,2120,Casual Dining,4.2,302,500.0,No,No,"Seafood, North Indian, Chinese",Lavelle Road,Majestic
+Koramangala,Bangalore,Darjeeling Hot Momos,250.0,4.2,100,Chinese,Koramangala,52,1701,Quick Bites,,40,300.0,No,No,"Momos, Fast Food",Koramangala 6th Block,Koramangala 5th Block
+Shivaji Nagar,Hyderabad,Eagles Pizza,150.0,4.0,500,Pizzas,S.P.Road  Secunderabad,63,1959,Casual Dining,3.6,14,400.0,Yes,No,"Pizza, Italian","Byresandra,Tavarekere,Madiwala",Koramangala 7th Block
+Baranagar,Kolkata,Tandoor Box,300.0,4.3,1000,"Tandoor,Kebabs,Combo,Mughlai,North Indian,Thalis",Dumdum,71,6053,Casual Dining,3.5,69,850.0,Yes,No,"Mughlai, North Indian, Biryani",Brookefield,Brookefield
+Alwarpet,Chennai,Gongura,350.0,3.1,20,"Biryani,Andhra",Cenotaph Road,64,2392,"Food Court, Casual Dining",2.6,51,500.0,No,No,"Andhra, North Indian, South Indian",Whitefield,Whitefield
+Rohini,Delhi,Lazeez Biryani,200.0,2.9,80,Indian,Sector-7,46,3544,Quick Bites,4.0,49,400.0,Yes,No,"North Indian, Chinese, Mughlai, Hyderabadi",Malleshwaram,New BEL Road
+J.C.Nagar,Bangalore,Shawarma Time,150.0,4.3,50,Arabian,J C Nagar,48,5402,Quick Bites,3.7,78,300.0,Yes,No,Arabian,Indiranagar,Ulsoor
+New Malakpet,Hyderabad,Taco Bell,300.0,3.8,500,Mexican,L&T Mall Malakpet,37,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Domlur,Bangalore,Andhra Mess,250.0,3.7,100,"Andhra,South Indian,Biryani,Chinese,Hyderabadi",2Nd Main Rd Ak Colony,57,356,Mess,2.8,17,400.0,Yes,No,"Andhra, Biryani, Chinese",Brookefield,Brookefield
+Malleshwaram,Bangalore,Brahmins' Thatte Idli,150.0,4.4,500,"South Indian,Combo",Vyalikaval,48,945,Quick Bites,3.9,126,100.0,Yes,No,South Indian,Rajajinagar,Rajajinagar
+Powai Area,Mumbai,Oh! Calcutta,800.0,4.4,100,Bengali,Powai Area,58,4468,"Casual Dining, Bar",4.4,1105,1200.0,Yes,Yes,"Bengali, Seafood",Brigade Road,Church Street
+Taltala,Kolkata,Silver Spoon,400.0,3.9,100,"Chinese,Tibetan",Mcleod Street,52,5508,"Casual Dining, Bar",3.3,4,800.0,No,No,"North Indian, Chinese, Continental",Lavelle Road,Majestic
+Rohini,Delhi,Biryani Empire,300.0,3.0,20,"Indian,Chinese",Shiva Road Sector 7,38,812,Quick Bites,3.0,8,400.0,Yes,No,Biryani,New BEL Road,New BEL Road
+Shivaji Nagar,Bangalore,Bhagatram Sweets,250.0,3.9,100,"Indian,Chinese,North Indian,Snacks",Central Bangalore,36,707,Quick Bites,3.4,225,300.0,No,No,"Street Food, Mithai",Lavelle Road,Commercial Street
+Malleshwaram,Bangalore,The Fast Food,150.0,4.3,50,Indian,Malleshwaram,61,6332,Quick Bites,3.9,66,150.0,Yes,No,"South Indian, Fast Food",Rajajinagar,Malleshwaram
+Alwarpet,Chennai,Havmor,300.0,4.7,100,"Ice Cream,Desserts",Alwarpet,55,2571,Dessert Parlor,3.5,21,200.0,Yes,No,"Ice Cream, Desserts",Bannerghatta Road,JP Nagar
+Wilson Garden,Bangalore,Karavali Kolimane,400.0,3.7,20,"South Indian,Chinese,Seafood,Tandoor,North Indian",Shantinagar,52,3219,Quick Bites,3.7,28,350.0,Yes,No,"Mangalorean, Chinese, North Indian",Basavanagudi,Wilson Garden
+Shivaji Nagar,Bangalore,Blue Tokai Coffee Roasters,800.0,4.7,50,"Healthy Food,American,Lebanese,Mediterranean,European,Juices,Middle Eastern",Central Bangalore,38,885,Cafe,2.8,40,400.0,Yes,No,"Cafe, Coffee","Byresandra,Tavarekere,Madiwala",Koramangala 8th Block
+Tollygunge,Kolkata,Food Point,150.0,3.4,100,"Biryani,Snacks,Tandoor",Jadavpur Zone,93,2193,Casual Dining,3.2,167,450.0,No,No,North Indian,Brookefield,Whitefield
+Sadashiv Peth,Pune,Rolls Mania,200.0,4.3,100,Fast Food,Swargate,34,5067,Quick Bites,3.7,32,450.0,Yes,No,"Fast Food, Rolls","Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Adajan Patiya,Surat,Behrouz Biryani,500.0,4.4,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Nr Navyug College Rander Road,51,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Central Bangalore,Bangalore,Kadamba Foodline,400.0,2.9,80,South Indian,Central Bangalore,47,3151,Casual Dining,3.7,28,400.0,Yes,No,"Chinese, North Indian, South Indian",Indiranagar,Ulsoor
+Old Washermanpet,Chennai,Spicy Tadka,300.0,4.3,20,"Chinese,Indian,Italian,Mexican",Royapettah,59,5697,Delivery,3.5,47,400.0,No,No,"North Indian, Chinese, Bengali",Electronic City,Electronic City
+Andheri East,Mumbai,Taste Of Kolkata,250.0,3.8,100,"Biryani,North Indian,Fast Food,Juices,Beverages",Sahar Airport Road,50,6097,Quick Bites,3.1,59,400.0,Yes,No,"Bengali, Chinese, Rolls",Bannerghatta Road,BTM
+Indiranagar,Bangalore,Milano Ice Cream,200.0,4.7,500,"Ice Cream,Desserts",Indiranagar,51,3935,Dessert Parlor,4.5,197,400.0,No,No,"Ice Cream, Desserts",Basavanagudi,Jayanagar
+Khokhra,Ahmedabad,Food Zone,200.0,4.3,20,"North Indian,Snacks",Maninagar,47,2206,Quick Bites,3.4,308,300.0,Yes,No,"North Indian, Chinese",Brookefield,Marathahalli
+Ashok Nagar,Bangalore,Crazy Pizza,400.0,2.9,80,"Fast Food,Italian",Magrath Rd Ashok Nagar,48,1597,"Food Court, Quick Bites",3.4,5,400.0,No,No,"Pizza, Fast Food",Rajajinagar,Malleshwaram
+Shivaji Nagar,Bangalore,Royal Restaurant,300.0,3.8,100,"Chinese,North Indian,Tandoor ,indian",Central Bangalore,38,5106,Quick Bites,3.2,7,200.0,No,No,"North Indian, Chinese",Brigade Road,Shivajinagar
+Erandwane,Pune,Slurpy Shakes,200.0,4.4,100,"Beverages,Ice Cream,Desserts",Kothrud,47,5564,Beverage Shop,3.5,8,300.0,Yes,No,Beverages,Brookefield,Whitefield
+Erandwane,Pune,Indiana Burgers,200.0,4.2,50,"American,Fast Food,Beverages,Healthy Food",Kothrud,53,2939,Delivery,3.1,16,300.0,Yes,No,Burger,Marathahalli,Brookefield
+University Area,Ahmedabad,The Chocolate Heaven,300.0,2.9,80,Desserts,Navrangpura,44,6288,"Dessert Parlor, Cafe",2.8,40,600.0,No,No,"Desserts, Cafe",Brigade Road,Commercial Street
+Frazer Town,Bangalore,Hotel Zam Zam,250.0,2.9,80,"Biryani,North Indian,Chinese",Geddalahalli,64,2776,Quick Bites,3.1,30,300.0,Yes,No,"North Indian, Chinese",Frazer Town,Hennur
+Indiranagar,Bangalore,Bangalore Mandarin,800.0,4.3,500,Chinese,Indiranagar,51,589,Casual Dining,4.2,764,1100.0,Yes,No,"Chinese, Seafood",Brookefield,Whitefield
+Mylapore,Chennai,Food Point,200.0,4.2,20,"Juices,Snacks",Mylapore,56,2193,Casual Dining,3.2,167,450.0,No,No,North Indian,Brookefield,Whitefield
+Ashok Nagar,Bangalore,Aubree,800.0,4.3,100,"Desserts,Bakery",Central Bangalore,29,487,"Cafe, Bakery",3.2,5,400.0,Yes,No,"Cafe, Bakery",Residency Road,Shivajinagar
+Purasaiwakkam,Chennai,Faasos,200.0,4.2,100,"Combo,Snacks,Beverages,Desserts,Indian",Purasaiwakkam,46,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+Purasaiwakkam,Chennai,Behrouz Biryani,500.0,4.2,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Purasaiwakkam,48,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Purasaiwakkam,Chennai,Firangi Bake,400.0,4.3,50,"Italian,Mexican,Pastas",Purasaiwakkam,51,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Purasaiwakkam,Chennai,The Good Bowl,400.0,4.2,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Purasaiwakkam,46,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Powai,Mumbai,Chai Point,150.0,4.4,500,Bakery  Combo  Beverages  Maharashtrian  Snacks  Street Food  South Indian  Punjabi  Fast Food,Opp. Nirali Hospital,52,1291,Beverage Shop,3.8,94,250.0,Yes,No,"Fast Food, Beverages",Marathahalli,Marathahalli
+Erandwane,Pune,Behrouz Biryani,500.0,4.2,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Erandwane,45,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Guru Nanak Nagar,Pune,Gelato Italiano,150.0,2.9,80,Desserts,Kumar Pacific Mall,48,2338,Dessert Parlor,2.9,17,200.0,Yes,No,"Ice Cream, Bakery, Desserts",Church Street,Ulsoor
+Thousand Lights,Chennai,Fresh Pressery Cafe,500.0,4.5,500,"Healthy Food,Cafe,Desserts",Royapettah,49,2252,Cafe,4.1,137,1200.0,Yes,No,"Cafe, Healthy Food, Salad, Beverages, Desserts","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Abids,Hyderabad,Faasos,200.0,4.0,50,"Combo,Snacks,Beverages,Desserts",Abids,37,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+Abids,Hyderabad,Behrouz Biryani,500.0,3.8,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Abids,36,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Abids,Hyderabad,Firangi Bake,400.0,3.9,50,"Italian,Mexican,Pastas",Abids,39,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Abids,Hyderabad,The Good Bowl,400.0,3.9,50,North Indian  Punjabi  Biryani  Combo  Chinese  Beverages  Desserts  Jain  Indian  Hyderabadi  Mughlai,Abids,37,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Bidhannagar,Kolkata,Haveli,1200.0,4.0,50,Indian,Salt Lake,73,2569,Casual Dining,3.6,22,300.0,No,No,"North Indian, Chinese",Indiranagar,Thippasandra
+Chembur,Mumbai,Food And You,300.0,2.9,80,"Beverages,Fast Food,Juices",Chembur,56,2167,Quick Bites,3.8,89,300.0,No,No,"North Indian, Gujarati","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+New Malakpet,Hyderabad,Burger King,350.0,4.1,1000,"American,Fast Food",Metro Rail Mall Multiplex,36,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Vastrapur,Ahmedabad,Taco Bell,300.0,3.8,500,Mexican,Ahmedabad One Mall,56,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Alwarpet,Chennai,Grow Fit,300.0,4.2,500,"Healthy Food,North Indian,Combo",Alwarpet,64,2459,Delivery,3.8,36,500.0,Yes,No,"Healthy Food, North Indian, Thai",HSR,HSR
+Powai,Mumbai,Noodle Bar,550.0,2.9,80,Chinese  Continental,Powai,58,4394,Casual Dining,4.0,1070,1400.0,No,Yes,"Chinese, Momos",Whitefield,Whitefield
+Indiranagar,Bangalore,Just Shawarma,180.0,3.9,100,Arabian,Indiranagar,53,3103,Kiosk,3.9,176,300.0,Yes,No,Arabian,Electronic City,Electronic City
+Balavinayagar Nagar,Chennai,Mumbai Kulfi,150.0,4.4,50,"Ice Cream,Snacks,Beverages",Mmda Colony Balavinayagar Nagar,64,4080,Dessert Parlor,3.7,61,100.0,Yes,No,"Ice Cream, Desserts",Electronic City,Electronic City
+Saki Naka,Mumbai,Taco Bell,300.0,3.8,100,Mexican,Pmc Mall,50,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Elgin,Kolkata,Gelato Italiano,150.0,2.9,80,"Desserts,Ice Cream",Emami Market,61,2338,Dessert Parlor,2.9,17,200.0,Yes,No,"Ice Cream, Bakery, Desserts",Church Street,Ulsoor
+Koramangala,Bangalore,154 Breakfast Club,1000.0,4.4,100,"Continental,American",Koramangala,61,15,Cafe,4.0,1509,900.0,Yes,Yes,"Cafe, Continental","Byresandra,Tavarekere,Madiwala",Koramangala 3rd Block
+Kestopur,Kolkata,Desi Chinese,350.0,4.2,100,Chinese,Kestopur,73,1797,Delivery,3.6,37,400.0,Yes,No,"Chinese, North Indian",Marathahalli,East Bangalore
+Navsari Bazaar,Surat,Biryani Junction,155.0,3.0,100,Indian,Athwa,32,821,Quick Bites,2.3,298,450.0,Yes,No,"Biryani, North Indian, Chinese","Byresandra,Tavarekere,Madiwala",Bommanahalli
+Ghatkopar East,Mumbai,The Chocolate Heaven,300.0,3.9,50,"Desserts,Italian,Snacks",Ghatkopar Vikhroli,45,6288,"Dessert Parlor, Cafe",2.8,40,600.0,No,No,"Desserts, Cafe",Brigade Road,Commercial Street
+Koramangala,Bangalore,Lassi Corner,199.0,3.3,20,"Beverages,Ice Cream",Koramangala,53,3520,Beverage Shop,2.8,40,150.0,Yes,No,"Beverages, Desserts",MG Road,Vijay Nagar
+Ashok Nagar,Bangalore,Anjappar,400.0,4.1,100,"Chettinad,Thalis,Biryani,Chinese,Tandoor,South Indian,North Indian",Central Bangalore,37,382,Casual Dining,2.7,40,650.0,No,No,"Chettinad, South Indian",Jayanagar,JP Nagar
+Koramangala,Bangalore,Aramane Donne Biriyani,300.0,4.3,100,Indian,Koramangala,49,419,Quick Bites,3.9,189,300.0,Yes,No,"Biryani, Fast Food",Bannerghatta Road,BTM
+Banashankari,Bangalore,Momoz,350.0,3.8,500,"Chinese,Thai,Seafood,Asian,Combo,Malaysian",Blr_Banashankari,53,4002,Casual Dining,3.9,625,600.0,No,No,"Chinese, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Salt Lake,Kolkata,Food Point,250.0,2.9,80,"Chinese,Tibetan",Salt Lake,61,2193,Casual Dining,3.2,167,450.0,No,No,North Indian,Brookefield,Whitefield
+Salt Lake,Kolkata,Chilli Flakes,300.0,4.0,100,"Chinese,Asian",Salt Lake,57,1413,Quick Bites,3.6,46,500.0,Yes,No,"Fast Food, Italian, Beverages",Banashankari,Banashankari
+Salt Lake,Kolkata,Beijing Bites,300.0,3.7,50,"Chinese,Asian",Salt Lake,58,665,Casual Dining,2.7,128,850.0,No,No,"Chinese, Thai",Banashankari,Banashankari
+Lake Town,Kolkata,Kathi Junction,300.0,4.2,100,"Indian,Fast Food,North Indian",Lake Town,68,3239,Quick Bites,2.8,44,400.0,Yes,No,"Rolls, North Indian, Mughlai",Electronic City,Electronic City
+Indiranagar,Bangalore,Orbis Restaurant,400.0,3.8,500,"North Indian,Biryani,Arabian,Chinese,Snacks,Beverages,Desserts",Indiranagar,51,4526,Casual Dining,3.9,1117,750.0,Yes,Yes,"Arabian, North Indian, Chinese, Salad, Beverages",Brookefield,Whitefield
+Kothrud,Pune,Mitran Da Junction,300.0,4.2,100,"North Indian,Chinese",Kothrud,52,3973,Quick Bites,4.1,320,600.0,Yes,No,North Indian,"Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Koregaon Park,Pune,Drunken Monkey,400.0,4.5,50,"Continental,Healthy Food,Beverages",Kalyani Nagar,52,1934,"Beverage Shop, Quick Bites",3.1,14,400.0,Yes,No,"Beverages, Fast Food",Indiranagar,CV Raman Nagar
+Bandra Area,Mumbai,Yauatcha,2000.0,4.5,100,Chinese,Bandra Area,52,7028,Fine Dining,4.6,2332,2800.0,No,Yes,"Chinese, Asian, Cantonese, Tea",Indiranagar,MG Road
+Nacharam,Hyderabad,Pizza Paradise,300.0,4.3,20,Fast Food,Tarnaka Nacharam & Malkajigiri,73,4734,Quick Bites,3.5,61,500.0,Yes,No,Pizza,Jayanagar,JP Nagar
+Rajajinagar,Bangalore,Juice Shop,150.0,3.8,100,"Juices,Beverages,Desserts,Ice Cream",Basaveshwaranagar,57,3077,Quick Bites,3.3,11,200.0,No,No,"Street Food, Beverages",Lavelle Road,Brigade Road
+Shivajinagar,Pune,Asia Kitchen By Mainland China,850.0,4.5,100,"Asian,Chinese,Oriental",Pyramid Mall,55,466,"Casual Dining, Bar",4.9,2178,1500.0,Yes,Yes,"Asian, Chinese, Thai, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Ballygunge,Kolkata,Asia Kitchen By Mainland China,850.0,4.5,50,"Asian,Chinese,Oriental",Gurusaday Road,66,466,"Casual Dining, Bar",4.9,2178,1500.0,Yes,Yes,"Asian, Chinese, Thai, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Banashankari,Bangalore,Waffle Head,250.0,2.9,80,"Desserts,Beverages",Jayanagar,48,6912,"Dessert Parlor, Beverage Shop",4.0,35,300.0,Yes,No,"Desserts, Beverages, Bakery, Ice Cream",Bannerghatta Road,BTM
+Wanowrie,Pune,Punjabi Dhaba,400.0,2.9,80,North Indian,Wanowrie,65,4838,Dhaba,3.6,79,350.0,No,No,North Indian,Lavelle Road,Majestic
+Ashok Nagar,Bangalore,Kanti Sweets,100.0,4.4,50,Sweets,Central Bangalore,31,3203,"Dessert Parlor, Quick Bites",3.6,20,400.0,Yes,No,"Mithai, Street Food",Church Street,Cunningham Road
+Shivajinagar,Pune,Smoke House Deli,800.0,4.0,50,"European,Italian,American,Pastas,Salads,Juices,Desserts,Combo",Fc Road,49,5586,Casual Dining,4.6,2490,1600.0,Yes,No,"European, Italian, Desserts, Salad, Juices, Steak",Brigade Road,Lavelle Road
+Gandhi Nagar,Bangalore,Basaveshwara Khanavali,200.0,4.2,20,South Indian,Majestic,47,622,Quick Bites,3.3,11,150.0,No,No,South Indian,Bellandur,Bellandur
+Sadashiv Peth,Pune,Lassi Magic,200.0,2.9,80,Beverages,Sadashiv Peth Pune,45,3525,Beverage Shop,3.5,12,150.0,Yes,No,Beverages,Koramangala 7th Block,BTM
+Sampangi Rama Nagar,Bangalore,Tandoori Taal,700.0,4.5,100,Indian,Race Course Road,38,6070,Casual Dining,4.3,1788,900.0,Yes,Yes,"Biryani, North Indian",Indiranagar,Indiranagar
+Sudhama Nagar,Bangalore,New Ambur Biryani,300.0,2.9,80,Biryani,Shantinagar,45,4239,Quick Bites,2.8,40,300.0,No,No,"Biryani, Kebab",Brookefield,Brookefield
+Indiranagar,Bangalore,The Salad Studio,300.0,4.4,100,"Healthy Food,Salads,Cafe,Fast Food,Beverages",Indiranagar,55,6528,Cafe,4.0,107,400.0,Yes,No,"Cafe, Healthy Food, Salad",Bellandur,Bellandur
+Seshadripuram,Bangalore,Mantap Ice Cream,200.0,4.7,20,Ice Cream,Sheshadripuram,44,3799,Dessert Parlor,3.5,7,200.0,No,No,Desserts,Lavelle Road,Majestic
+Koramangala,Bangalore,Drunken Monkey,300.0,2.9,80,"Healthy Food,Beverages,Juices",Koramangala,58,1934,"Beverage Shop, Quick Bites",3.1,14,400.0,Yes,No,"Beverages, Fast Food",Indiranagar,CV Raman Nagar
+Santacruz East,Mumbai,Hare Krishna,250.0,4.4,100,Indian,Kalina Santacruz (E),33,2550,Quick Bites,2.9,16,300.0,No,No,"North Indian, South Indian, Chinese",Rajajinagar,Majestic
+Camp,Pune,Ibaco,800.0,2.9,80,"Ice Cream,Desserts",Camp,35,2868,Dessert Parlor,3.6,39,300.0,Yes,No,Desserts,Malleshwaram,Rajajinagar
+Kiran Nagar,Hyderabad,Barbeque Nation,600.0,3.4,100,"North Indian,Chinese,Biryani",Kothapet,60,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Memnagar,Ahmedabad,Barbeque Nation,600.0,3.9,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Satya One,40,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Athwa,Surat,Barbeque Nation,600.0,3.9,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Parle Point,51,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Kilpauk,Chennai,Rolls On Wheels,200.0,2.9,80,"Ice Cream,Beverages,Fast Food",Kilpauk,51,5069,Quick Bites,2.6,153,300.0,No,No,"Fast Food, Rolls, Momos",Koramangala 4th Block,Koramangala 1st Block
+Rohini,Delhi,Barbeque Nation,600.0,3.5,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Unity One Mall 6Th Floor,44,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Domlur,Bangalore,Barbeque Nation,600.0,3.8,50,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Mg Road Lido Mall,50,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+B.B.D. Bagh,Kolkata,Cafe Coffee Day,300.0,4.2,50,Beverages  Snacks  Desserts,Central Kolkata,44,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Ashok Nagar,Bangalore,Cafe Coffee Day,300.0,2.9,80,"Beverages,Snacks,Desserts",Barton Centre M G Road-Bangalore,38,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Narayanguda,Hyderabad,Old Mumbai Ice Cream,200.0,3.7,20,Ice Cream,Himayath Nagar,28,4472,Dessert Parlor,3.8,41,150.0,Yes,No,Ice Cream,Basavanagudi,Basavanagudi
+Ashok Nagar,Bangalore,Asia Kitchen By Mainland China,850.0,4.3,50,"Asian,Chinese,Oriental",Church Street,46,466,"Casual Dining, Bar",4.9,2178,1500.0,Yes,Yes,"Asian, Chinese, Thai, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Narayan Peth,Pune,Barbeque Nation,600.0,4.0,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Deccan Heights Fourth Floor,45,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Koramangala,Bangalore,The Coorg Food Co.,750.0,4.3,100,South Indian,Koramangala,58,6299,Casual Dining,4.3,473,750.0,Yes,Yes,South Indian,Kalyan Nagar,Kalyan Nagar
+Seshadripuram,Bangalore,Kalmane Koffees,350.0,2.9,80,Cafe,Malleshwaram,53,3178,Cafe,3.6,46,350.0,No,No,Cafe,Brigade Road,Brigade Road
+Thousand Lights,Chennai,Barbeque Nation,600.0,3.6,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Bergamo   Mall,50,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Ashok Nagar,Bangalore,Sanchez,1200.0,4.7,20,"Mexican,Salads",Central Bangalore,45,5237,Lounge,4.3,1028,1500.0,No,No,"Mexican, Tex-Mex",Brigade Road,Lavelle Road
+Ashok Nagar,Bangalore,Sriracha,1600.0,4.0,20,Asian,Central Bangalore,45,5855,Casual Dining,4.3,687,1500.0,No,No,"Thai, Chinese, Indonesian, Asian, Momos",Brigade Road,Lavelle Road
+Indiranagar,Bangalore,Andhra Biryanis,400.0,4.2,100,"Andhra,Biryani,Hyderabadi,Chinese,Tandoor",Indiranagar,54,346,Casual Dining,4.0,108,700.0,Yes,No,"Andhra, Biryani, North Indian",Brookefield,Whitefield
+Banjara Hills,Hyderabad,Slurpy Shakes,200.0,3.9,50,Beverages,Banjara Hills,63,5564,Beverage Shop,3.5,8,300.0,Yes,No,Beverages,Brookefield,Whitefield
+Ashok Nagar,Bangalore,Samosa Party,150.0,4.5,500,"Fast Food,North Indian,Snacks,Street Food,Beverages,Chaat",Central Bangalore,36,5218,Quick Bites,4.1,42,150.0,No,No,"Street Food, Fast Food","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Koregaon Park,Pune,Toscano,1200.0,4.4,100,"Italian,Pizzas,Pastas,Continental,Salads,Desserts,Beverages,Combo,Healthy Food",Koregaon Park,59,6672,Casual Dining,4.2,1038,1500.0,Yes,Yes,"Italian, Salad",Whitefield,Whitefield
+Himayatnagar,Hyderabad,Samosa Singh,100.0,4.0,500,"Fast Food,Snacks,North Indian,Desserts,Beverages,Street Food,Combo",Jawahar Nagar,37,5219,Delivery,3.7,43,150.0,Yes,No,"Street Food, Beverages",Indiranagar,Thippasandra
+Anna Nagar,Chennai,Asia Kitchen By Mainland China,850.0,4.4,20,"Asian,Chinese,Oriental",5Th Avenue,76,466,"Casual Dining, Bar",4.9,2178,1500.0,Yes,Yes,"Asian, Chinese, Thai, Momos","Byresandra,Tavarekere,Madiwala",Koramangala 5th Block
+Thousand Lights,Chennai,Copper Chimney,900.0,4.2,100,"Indian,North Indian,Kebabs,Grill,Biryani",Thousand Lights,47,1574,Casual Dining,4.1,40,1200.0,Yes,Yes,"North Indian, Biryani",Whitefield,Whitefield
+Ea Mall Royapettah,Chennai,Punjab Grill,700.0,4.3,50,"North Indian,Indian,Biryani,Punjabi,Kebabs,Mughlai,Desserts",Express Avenue,54,4827,Casual Dining,4.8,650,2000.0,Yes,No,North Indian,Whitefield,Whitefield
+Perambur,Chennai,Green Pepper,300.0,3.6,20,"Indian,Chinese,Biryani",Perambur,64,2444,Casual Dining,3.8,259,600.0,Yes,No,"Seafood, South Indian, Chinese, Kerala",Indiranagar,Jeevan Bhima Nagar
+New Nallakunta,Hyderabad,Pizza Hut,350.0,3.7,500,Pizzas  Fast Food,Shivam Road,46,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Powai Area,Mumbai,Mainland China,850.0,4.4,100,"Chinese,Asian",Powai Area,57,3728,Casual Dining,4.3,881,1700.0,Yes,Yes,"Chinese, Momos",Basavanagudi,Jayanagar
+Modi Colony,Pune,Chinese Kitchen,300.0,2.9,80,"North Indian,Chinese",Camp,39,1442,Quick Bites,3.8,58,150.0,Yes,No,Chinese,Banashankari,Basavanagudi
+Malleshwaram,Bangalore,Frozen Coast,300.0,2.9,80,"Indian,Snacks,Beverages",Malleshwam 17Th Cross,68,2280,Dessert Parlor,3.9,107,250.0,No,No,"Desserts, Ice Cream",Malleshwaram,Malleshwaram
+Rohini,Delhi,Lazeez,200.0,2.9,80,Fast Food,Rohini,46,3543,Casual Dining,2.4,318,600.0,Yes,No,"North Indian, Mughlai, Biryani",HSR,Koramangala 1st Block
+Beleghata,Kolkata,Behrouz Biryani,500.0,4.2,100,Biryani  Mughlai  Lucknowi  Hyderabadi  Kebabs  North Indian  Persian  Desserts,Beliaghata,55,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Beleghata,Kolkata,Firangi Bake,400.0,4.3,20,"Italian,Mexican,Pastas",Beliaghata,55,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Beleghata,Kolkata,The Good Bowl,400.0,4.3,50,North Indian  Punjabi  Biryani  Combo  Chinese  Beverages  Desserts  Jain  Indian  Hyderabadi  Mughlai,Beliaghata,53,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Jayanagar,Bangalore,Via Milano,800.0,4.5,20,"Pizzas,Italian,European,Mediterranean,Pastas,Continental,Seafood,Middle Eastern,Grill,Greek,Salads,Oriental",Jayanagar,46,6857,Casual Dining,4.2,1617,1500.0,Yes,Yes,"Salad, Italian, Desserts, Pizza","Byresandra,Tavarekere,Madiwala",Koramangala 4th Block
+Parvati Paytha,Pune,Darjeeling Hot Momos,150.0,2.9,80,Chinese,Bibwewadi,54,1701,Quick Bites,,40,300.0,No,No,"Momos, Fast Food",Koramangala 6th Block,Koramangala 5th Block
+Indiranagar,Bangalore,Hot Momos,200.0,2.9,80,Indian,Indiranagar,64,2642,Quick Bites,2.8,40,150.0,No,No,Fast Food,Kalyan Nagar,Hennur
+Himayatnagar,Hyderabad,Brownie Heaven,200.0,2.9,80,Desserts,Himayath Nagar,38,981,Dessert Parlor,3.9,16,300.0,Yes,No,Desserts,Brigade Road,Koramangala 5th Block
+Perambur,Chennai,Lassi Corner,150.0,2.9,80,Beverages,Perambur,63,3520,Beverage Shop,2.8,40,150.0,Yes,No,"Beverages, Desserts",MG Road,Vijay Nagar
+Koramangala,Bangalore,Imperio Restaurant,300.0,3.9,100,"Biryani,Mughlai,North Indian,Tandoor,Kerala,Chinese,Seafood,Combo,Beverages,Desserts",Koramangala,56,2910,Casual Dining,4.2,767,700.0,Yes,Yes,"North Indian, Arabian, Mughlai, Biryani, Seafood, Beverages",Brookefield,Brookefield
+Erandwane,Pune,Food Junction,300.0,2.9,80,Indian,Kothrud,46,2180,Quick Bites,3.5,42,400.0,No,No,"North Indian, Chinese, Street Food, Biryani","Byresandra,Tavarekere,Madiwala",BTM
+Ashok Nagar,Bangalore,Chung Wah Express,450.0,2.9,80,Chinese,Central Bangalore,46,1485,Casual Dining,2.8,94,600.0,Yes,No,"Chinese, Thai, Momos, Vietnamese",Brigade Road,Indiranagar
+Ashok Nagar,Bangalore,Toast & Tonic,900.0,4.3,20,"European,Continental",Ashok Nagar,40,6662,Casual Dining,4.6,1082,1500.0,No,Yes,"European, Asian",Brigade Road,Richmond Road
+Narayanguda,Hyderabad,Chickpet Donne Biryani House,400.0,3.7,100,Indian,Himayath Nagar,28,1397,Casual Dining,3.7,80,600.0,Yes,No,"Biryani, South Indian, Fast Food",Brookefield,Marathahalli
+Kalighat,Kolkata,Sub Spot,200.0,2.9,80,"Healthy Food,Salads,Fast Food",South Kolkata,73,5900,Delivery,3.3,4,400.0,No,No,"Salad, Sandwich",Koramangala 4th Block,Koramangala 6th Block
+Gowlipura,Hyderabad,Homely Kitchen,200.0,3.8,20,North Indian,Kothapet & Dilsukhnagar,53,2621,Delivery,2.8,40,300.0,Yes,No,"North Indian, Chinese",MG Road,Indiranagar
+Ashok Nagar,Bangalore,Tree Tops Bar & Kitchen,800.0,2.9,80,"Indian,Fast Food,Pastas,Desserts",Central Bangalore,38,6683,"Casual Dining, Bar",4.4,108,1000.0,No,Yes,"North Indian, Chinese, Continental, Italian",Brigade Road,Lavelle Road
+Jayanagar,Bangalore,Taiki,800.0,4.0,100,"Pan-Asian,Japanese,Korean,Thai,Sushi,Beverages,Asian,Chinese",Jayanagar,55,6030,Casual Dining,2.8,40,1000.0,Yes,Yes,"Asian, Japanese, Korean, Thai, Sushi",Indiranagar,Indiranagar
+Andheri East,Mumbai,Lazeez,350.0,4.1,50,North Indian  Mughlai,Andheri East,60,3543,Casual Dining,2.4,318,600.0,Yes,No,"North Indian, Mughlai, Biryani",HSR,Koramangala 1st Block
+Erandwane,Pune,Mad Over Donuts,200.0,4.1,100,"Desserts,Sweets,Bakery",Erandwane,38,3690,Dessert Parlor,3.1,17,450.0,Yes,No,"Bakery, Desserts, Beverages",Bannerghatta Road,Bannerghatta Road
+Banjara Hills,Hyderabad,Onesta,200.0,3.6,1000,"Italian,Desserts,Pizzas,American,Snacks",Anr Center Banjara Hills,58,4509,"Casual Dining, Cafe",4.3,355,600.0,Yes,Yes,"Pizza, Cafe, Italian",Malleshwaram,Basaveshwara Nagar
+Chembur,Mumbai,99 Pancakes,300.0,4.1,100,Desserts  Beverages,Chembur,46,76,Dessert Parlor,4.1,41,150.0,Yes,No,"Desserts, Ice Cream",Brigade Road,Church Street
+Kothrud,Pune,Madurai Idly Shop,150.0,4.2,1000,"South Indian,Chinese",Kothrud,57,3705,Quick Bites,2.1,193,200.0,No,No,South Indian,Sarjapur Road,Sarjapur Road
+Ashok Nagar,Bangalore,The Pizza Bakery,700.0,4.4,500,"Italian,Pizzas,Pastas,Desserts",Central Bangalore,36,6496,Casual Dining,4.8,1724,1200.0,Yes,Yes,"Italian, Pizza, Beverages",Indiranagar,Indiranagar
+Park Street Area,Kolkata,Moti Mahal Delux,700.0,4.3,100,"Indian,Seafood,Chinese,North Indian,Bengali",Central Kolkata,54,4033,Casual Dining,4.0,547,1000.0,Yes,Yes,"North Indian, Mughlai",Bellandur,HSR
+Koramangala,Bangalore,Chinese Kitchen,300.0,4.1,500,"Chinese,Indian",Koramangala,65,1442,Quick Bites,3.8,58,150.0,Yes,No,Chinese,Banashankari,Basavanagudi
+Aundh,Pune,99 Pancakes,300.0,2.9,80,"Beverages,Desserts",Aundh,62,76,Dessert Parlor,4.1,41,150.0,Yes,No,"Desserts, Ice Cream",Brigade Road,Church Street
+Nagarathpete,Bangalore,Atithi Satkaar,350.0,2.9,80,Indian,Majestic,46,480,Quick Bites,3.2,8,150.0,No,No,South Indian,Lavelle Road,Majestic
+Ballygunge,Kolkata,Blue Tokai Coffee Roasters,400.0,4.5,100,"Healthy Food,American,Lebanese,Mediterranean,European,Juices,Middle Eastern",South Kolkata,57,885,Cafe,2.8,40,400.0,Yes,No,"Cafe, Coffee","Byresandra,Tavarekere,Madiwala",Koramangala 8th Block
+Chamrajpet,Bangalore,Kolkata Famous Kati Roll,99.0,2.9,80,"Snacks,Fast Food,Beverages",Basavanagudi,52,3380,Kiosk,3.3,7,100.0,No,No,"Fast Food, Rolls",Sarjapur Road,Bellandur
+Rohini,Delhi,Hyderabadi Dum Biryani,250.0,3.4,50,"Biryani,North Indian",Rohini,35,2860,Quick Bites,3.7,23,300.0,No,No,Biryani,Whitefield,Whitefield
+Anna Nagar West Extension,Chennai,Kobe Sizzlers,500.0,4.5,20,"Chinese,Continental,Fast Food",Annanagar,89,3372,Casual Dining,4.0,398,1500.0,Yes,No,"American, Continental, Fast Food, Steak",Kalyan Nagar,Nagawara
+Bidhannagar,Kolkata,Safe House,200.0,3.4,20,"Continental,Pizzas,Chinese",Salt Lake,64,5162,"Bar, Casual Dining",4.1,1372,900.0,No,Yes,"Continental, North Indian, Chinese, Finger Food",HSR,HSR
+Manicktala,Kolkata,Swad Restaurant,200.0,4.4,100,"Indian,Chinese,Tandoor,Fast Food,Biryani",Burrabazar,41,5976,Casual Dining,3.7,115,500.0,Yes,No,"North Indian, Chinese, Seafood",Jayanagar,BTM
+Powai Area,Mumbai,Papacream,350.0,4.7,20,Ice Cream  Desserts,Marol Sakinaka,63,4596,Dessert Parlor,3.7,17,350.0,Yes,No,"Desserts, Ice Cream",Bannerghatta Road,JP Nagar
+Saki Naka,Mumbai,Samosa Singh,100.0,4.1,100,"North Indian,Fast Food,Snacks,Desserts,Beverages,Street Food,Combo",Andheri Kurka Road,49,5219,Delivery,3.7,43,150.0,Yes,No,"Street Food, Beverages",Indiranagar,Thippasandra
+Rajajinagar,Bangalore,Green Chilly,300.0,4.3,100,"Chinese,North Indian,Indian",Malleshwaram,62,2435,Quick Bites,3.6,29,350.0,Yes,No,"North Indian, Chinese",Malleshwaram,Rajajinagar
+Tiruvalleeswarar Nagar,Chennai,Monkey Bar,1400.0,2.9,80,"North Indian,American,European,Asian",Vr Chennai Clock Tower Street,91,4010,Pub,4.3,3848,1400.0,Yes,No,"American, Asian, European, North Indian",Indiranagar,Indiranagar
+Narayanguda,Hyderabad,1441 Pizzeria,400.0,4.1,500,"Italian,Pizzas,Pastas,Desserts,Beverages",Himayath Nagar,33,13,Casual Dining,4.1,119,800.0,Yes,No,"Pizza, Salad",Basavanagudi,JP Nagar
+Vesu,Surat,1441 Pizzeria,800.0,3.7,20,"Italian,Pizzas,Pastas,Fast Food,Desserts,Beverages",Piplod,63,13,Casual Dining,4.1,119,800.0,Yes,No,"Pizza, Salad",Basavanagudi,JP Nagar
+Purasaiwakkam,Chennai,Mad Over Donuts,200.0,4.0,50,"Desserts,Sweets,Bakery",Purasaiwakkam,47,3690,Dessert Parlor,3.1,17,450.0,Yes,No,"Bakery, Desserts, Beverages",Bannerghatta Road,Bannerghatta Road
+Kothrud,Pune,Punjabi Kitchen,250.0,2.9,80,"North Indian,Indian",Kothrud,56,4848,Quick Bites,2.8,68,500.0,Yes,No,North Indian,Whitefield,Whitefield
+Thousand Lights,Chennai,Cookie Man,200.0,2.9,80,"Australian,Bakery,Snacks",Royapettah,52,1563,Bakery,3.2,5,150.0,Yes,No,Bakery,Brookefield,Whitefield
+Sampangi Rama Nagar,Bangalore,Kudla - Hotel Ramanashree,1500.0,2.9,80,"Mangalorean,Seafood,South Indian,Desserts",Central Bangalore,38,3445,Casual Dining,4.1,353,1200.0,Yes,Yes,"South Indian, Andhra, Chinese",Basavanagudi,Richmond Road
+Central Bangalore,Bangalore,Haagen Dazs,600.0,4.4,20,Ice Cream,Phoenix Arcade,32,2489,Dessert Parlor,3.9,77,800.0,Yes,No,"Ice Cream, Desserts",Brigade Road,Koramangala 7th Block
+Andheri East,Mumbai,Kusum Rolls,200.0,3.8,50,Indian,Marol Naka,46,3469,Quick Bites,3.5,21,300.0,No,No,Street Food,New BEL Road,New BEL Road
+Bidhannagar,Kolkata,Namak,800.0,4.2,100,"North Indian,Chinese,Oriental,Italian,Biryani,Kebabs,Healthy Food,Desserts,Beverages",Salt Lake,59,4139,Quick Bites,3.1,5,650.0,Yes,No,"North Indian, Chinese",Kalyan Nagar,Nagawara
+Anna Nagar,Chennai,Kerala Kitchen,200.0,4.0,100,"South Indian,Chinese",Annanagar,67,3279,Quick Bites,3.1,32,200.0,No,No,"Kerala, South Indian",Lavelle Road,Brigade Road
+Toli Chowki,Hyderabad,Baithak,450.0,3.7,20,"Continental,Beverages",Tolichowki,71,530,"Casual Dining, Bar",4.2,1383,1100.0,No,No,"Continental, North Indian, Mughlai",HSR,HSR
+Lake Town,Kolkata,Bangaliana,200.0,3.8,20,"Indian,North Indian",Lake Town,88,576,Casual Dining,3.0,61,600.0,Yes,No,Bengali,Electronic City,Electronic City
+Basavanagudi,Bangalore,The Cake House,280.0,4.3,20,"Indian,Bakery,Sweets",Basavanagudi,54,6265,Bakery,3.7,29,300.0,Yes,No,"Bakery, Desserts",Brigade Road,Ulsoor
+Basavanagudi,Bangalore,Mumbai Xpress,300.0,4.1,20,"Chaat,Street Food,Fast Food",Basavanagudi,50,4083,Quick Bites,2.8,92,350.0,Yes,No,"Fast Food, Street Food",Sarjapur Road,Bellandur
+Malleshwaram,Bangalore,Hotel Moonlight,500.0,4.1,100,"Indian,Chinese,Biryani,Tandoor",Malleshwaram,53,2721,Casual Dining,3.9,115,500.0,No,No,"Chinese, North Indian",Malleshwaram,Malleshwaram
+Sarthana,Surat,Captain Egg,200.0,2.9,80,"Indian,Oriental,Continental",Sarthana,59,1229,Food Court,4.1,18,400.0,No,No,Fast Food,Whitefield,Whitefield
+Koregaon Park,Pune,Oakleaf,1000.0,2.9,80,"North Indian,Italian",Koregaon Park,54,4447,Casual Dining,3.9,40,2000.0,Yes,No,"Asian, Continental, North Indian, Italian",Brookefield,Whitefield
+Central Bangalore,Bangalore,Aligarh House,400.0,3.8,100,"Biryani,Mughlai,Kebabs,North Indian,Desserts,Beverages,Combo",Vasantha Nagar,40,234,Delivery,4.4,98,400.0,Yes,No,"North Indian, Biryani, Awadhi, Mughlai","Byresandra,Tavarekere,Madiwala",Koramangala
+Majestic,Bangalore,Punjabi Dhaba,350.0,2.9,80,Punjabi,Majestic,45,4838,Dhaba,3.6,79,350.0,No,No,North Indian,Lavelle Road,Majestic
+Somajiguda & Khairtabad,Hyderabad,Biryanis And More,350.0,3.9,100,"Biryani,Chinese,Tandoor",Somajiguda & Khairtabad,49,844,Casual Dining,4.0,618,750.0,Yes,No,"Biryani, North Indian, Chinese, Andhra, South Indian",Banashankari,Jayanagar
+Annanagar,Chennai,The Sandwich Club,150.0,2.9,80,"Fast Food,Chaat,Juices,Beverages",Annanagar,73,6532,Quick Bites,3.9,88,250.0,Yes,No,Fast Food,"Byresandra,Tavarekere,Madiwala",HSR
+Shantinagar,Bangalore,Faasos,200.0,4.1,100,"Combo,Snacks,Beverages,Desserts,Indian",Residency Road,34,2051,Delivery,3.8,101,500.0,Yes,No,"North Indian, Biryani, Fast Food",Brigade Road,Vasanth Nagar
+Shantinagar,Bangalore,Behrouz Biryani,500.0,4.3,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Residency Road,48,664,Delivery,3.9,114,650.0,Yes,No,Biryani,MG Road,Residency Road
+Shantinagar,Bangalore,Firangi Bake,400.0,4.5,20,"Italian,Mexican,Pastas",Residency Road,45,2106,Delivery,3.8,53,600.0,Yes,No,"Mexican, Italian",Rajajinagar,Rajajinagar
+Shantinagar,Bangalore,The Good Bowl,400.0,4.2,20,"North Indian,Biryani,Chinese,Asian,Pastas,Desserts",Residency Road,39,6362,"Takeaway, Delivery",2.8,40,500.0,Yes,No,"Italian, North Indian, Biryani",Rajajinagar,Jayanagar
+Central Bangalore,Bangalore,Biryani Trip,400.0,4.2,100,"Biryani,Hyderabadi,Indian",Central Bangalore,32,842,Delivery,2.8,40,400.0,Yes,No,Biryani,Brigade Road,Indiranagar
+Central Kolkata,Kolkata,Aalishan Restaurant & Caterer,200.0,2.9,80,"Biryani,Indian,Desserts",Central Kolkata,47,109,Casual Dining,3.5,888,650.0,Yes,No,"North Indian, Mughlai","Byresandra,Tavarekere,Madiwala",Koramangala 7th Block
+Basavanagudi,Bangalore,Nisarga Garden,200.0,4.1,100,"North Indian,South Indian,Chaat,Beverages",Basavanagudi,56,4377,Quick Bites,4.0,89,300.0,No,No,"South Indian, Chinese, Street Food, Juices",Brigade Road,Infantry Road
+Paldi & Ambawadi,Ahmedabad,Banana Leaf,500.0,3.9,50,South Indian,Paldi & Ambawadi,45,564,Casual Dining,3.5,12,500.0,No,No,Andhra,Indiranagar,Domlur
+Central Bangalore,Bangalore,Snack House,300.0,4.2,50,"Fast Food,Street Food",Central Bangalore,40,5599,Quick Bites,3.8,22,200.0,Yes,No,"Fast Food, Momos",Brigade Road,Indiranagar
+Indiranagar,Bangalore,Onesta,200.0,3.9,500,"Italian,Desserts,Pizzas,American,Snacks",Cmh Road,57,4509,"Casual Dining, Cafe",4.3,355,600.0,Yes,Yes,"Pizza, Cafe, Italian",Malleshwaram,Basaveshwara Nagar
+Kurla,Mumbai,Smoor,300.0,4.0,20,Bakery,Kurla,42,5594,"Cafe, Dessert Parlor",4.2,287,700.0,Yes,No,"Desserts, Cafe, Continental",Malleshwaram,Malleshwaram
+Central Bangalore,Bangalore,Slurpy Shakes,150.0,2.9,80,"Beverages,Ice Cream,Desserts",Central Bangalore,45,5564,Beverage Shop,3.5,8,300.0,Yes,No,Beverages,Brookefield,Whitefield
+Kidderpore,Kolkata,Red Chilli Restaurant,300.0,2.9,80,"Chinese,Seafood",Kidderpore,97,4990,Quick Bites,3.2,93,350.0,Yes,No,"North Indian, Chinese",Bannerghatta Road,Bannerghatta Road
+Perambur,Chennai,Chai World,250.0,4.4,50,"Beverages,Snacks",Perambur,52,1294,Quick Bites,3.5,18,300.0,Yes,No,"Tea, Beverages, Sandwich, Fast Food",Bellandur,Sarjapur Road
+Kausar Baugh Nibm Road,Pune,Hyderabadi Biryani House,150.0,2.2,20,"Biryani,Thalis,Indian,Desserts",Undri,77,2858,Quick Bites,2.8,40,300.0,No,No,Biryani,"Byresandra,Tavarekere,Madiwala",BTM
+Central Bangalore,Bangalore,Bullet Biryani,280.0,4.4,20,"Biryani,Hyderabadi,Mughlai",Central Bangalore,38,1003,"Takeaway, Delivery",3.2,9,300.0,Yes,No,Biryani,"Byresandra,Tavarekere,Madiwala",BTM
+Central Bangalore,Bangalore,Big Bites,400.0,2.9,80,Fast Food,Central Bangalore,53,760,Quick Bites,3.6,21,200.0,No,No,"Chinese, Fast Food",Basavanagudi,Jayanagar
+Tarnaka Nacharam & Malkajigiri,Hyderabad,Kritunga Restaurant,500.0,3.7,500,"Biryani,Rayalaseema,Andhra,South Indian",Tarnaka Nacharam & Malkajigiri,59,3432,Casual Dining,2.6,330,600.0,No,No,"Andhra, Biryani",Bellandur,Sarjapur Road
+Tarnaka Nacharam & Malkajigiri,Hyderabad,Punjabi Tadka,250.0,2.9,80,"Indian,Punjabi,Fast Food",Tarnaka Nacharam & Malkajigiri,77,4857,Casual Dining,2.3,203,400.0,No,No,"North Indian, Chinese",Marathahalli,Marathahalli
+Esplanade,Kolkata,Burger King,350.0,4.3,1000,American  Fast Food,New Market,42,1016,Food Court,3.5,21,600.0,No,No,"Burger, Fast Food, Beverages",Bellandur,Bellandur
+Kachiguda,Hyderabad,Pizza Hut,300.0,2.9,80,Pizzas,Ph Kachiguda Hyderabad,34,4729,Casual Dining,2.7,434,750.0,Yes,No,"Pizza, Fast Food",Kalyan Nagar,Kalyan Nagar
+Central Bangalore,Bangalore,Taste Of Tibet,250.0,4.6,50,Chinese,Central Bangalore,39,6102,Quick Bites,4.0,336,300.0,No,No,"Tibetan, Chinese, Momos",Brigade Road,Brigade Road
+Charminar,Hyderabad,Cravings,250.0,2.9,80,"Fast Food,Snacks",Charminar,58,1591,Quick Bites,3.7,139,400.0,Yes,No,"North Indian, Chinese, Rolls",Bannerghatta Road,Bannerghatta Road
+Royapettah,Chennai,Indiana Burgers,200.0,4.6,50,"American,Desserts",Royapettah,54,2939,Delivery,3.1,16,300.0,Yes,No,Burger,Marathahalli,Brookefield
+Central Kolkata,Kolkata,Biryani Hub,199.0,2.9,80,Biryani,Central Kolkata,76,818,Quick Bites,3.2,87,600.0,Yes,No,"North Indian, South Indian, Biryani",Kalyan Nagar,Nagawara
+Camp,Pune,Malabar Restaurant,300.0,2.9,80,Indian,Camp,36,3746,Quick Bites,3.6,19,400.0,No,No,"Kerala, Fast Food, Beverages",Electronic City,Electronic City
+Viman Nagar,Pune,Biryani Trip,350.0,2.9,80,Biryani,Viman Nagar,70,842,Delivery,2.8,40,400.0,Yes,No,Biryani,Brigade Road,Indiranagar
+Malleshwaram,Bangalore,Karnataka Bhel House,100.0,4.2,50,"Chaat,Snacks",Malleshwaram,54,3230,Quick Bites,3.9,65,100.0,No,No,Street Food,Jayanagar,Jayanagar
+Ashok Nagar,Bangalore,Karavali Family Restaurant,200.0,4.1,50,"Mangalorean,Seafood,Chinese,Coastal",Residency Road,35,3214,Casual Dining,3.5,90,500.0,Yes,No,"Seafood, Biryani, South Indian, North Indian, Chinese",Banashankari,Jayanagar
+Majestic,Bangalore,Hotel Annapoorna,450.0,4.5,100,"Biryani,Andhra",Majestic,38,2653,Quick Bites,3.2,9,400.0,Yes,No,"South Indian, Chinese, North Indian, Seafood",Bannerghatta Road,Bannerghatta Road
+Majestic,Bangalore,Udupi Sri Krishna Bhavan,200.0,2.9,80,South Indian,Majestic,39,6745,Quick Bites,4.1,238,600.0,No,No,South Indian,Banashankari,Basavanagudi
+Indiranagar,Bangalore,Mahesh Lunch Home,1000.0,4.1,50,"Indian,Seafood,Oriental",Indiranagar,62,3725,Casual Dining,4.1,860,1400.0,Yes,Yes,"Seafood, Mangalorean, North Indian, Chinese",Brigade Road,Residency Road
+Powai,Mumbai,Spicy Tadka,300.0,4.3,50,Chinese  North Indian  Biryani  Sweets,Powai,52,5697,Delivery,3.5,47,400.0,No,No,"North Indian, Chinese, Bengali",Electronic City,Electronic City
+Perambur,Chennai,Chatar Patar,300.0,2.9,80,"Fast Food,Street Food",Perambur,71,1332,Quick Bites,3.6,65,300.0,No,No,"Fast Food, Street Food",Jayanagar,Banashankari
+Aundh,Pune,Taco Bell,300.0,3.9,100,Mexican,Westend Mall,79,6026,Quick Bites,3.7,168,600.0,Yes,No,"Mexican, American, Fast Food",Bannerghatta Road,Bannerghatta Road
+Royapettah,Chennai,Smoor,300.0,4.7,50,"Bakery,Beverages",Royapettah,51,5594,"Cafe, Dessert Parlor",4.2,287,700.0,Yes,No,"Desserts, Cafe, Continental",Malleshwaram,Malleshwaram
+Kothrud,Pune,Feast India Co.,1000.0,2.9,80,"Indian,Oriental",Kothrud,53,2087,Casual Dining,4.2,133,1500.0,Yes,No,"Awadhi, Bengali, North Indian",Brigade Road,Cunningham Road
+Salt Lake,Kolkata,Delicacy,300.0,4.4,100,"North Indian,Chinese,Tandoor",Salt Lake,70,1771,Casual Dining,3.8,219,500.0,Yes,No,"Chinese, Thai, Momos",Marathahalli,CV Raman Nagar
+Lower Parel Area,Mumbai,1441 Pizzeria,500.0,3.9,100,Italian  Pizzas  Pastas  Desserts  Beverages,Matunga Police Station,58,13,Casual Dining,4.1,119,800.0,Yes,No,"Pizza, Salad",Basavanagudi,JP Nagar
+Rohini,Delhi,Taste Of Nawaabs,650.0,2.9,80,"Biryani,Indian",Rohini,53,6099,Casual Dining,3.5,324,600.0,Yes,No,"North Indian, Mughlai",Kalyan Nagar,Banaswadi
+Powai,Mumbai,Biryani Bowl,500.0,4.2,20,Biryani  Beverages,Powai,61,806,Kiosk,3.3,10,550.0,No,No,"Biryani, Andhra",Whitefield,Whitefield
+Prahlad Nagar,Ahmedabad,Food Town,200.0,2.9,80,"Fast Food,Pizzas,Snacks",Prahlad Nagar,48,2203,Delivery,3.2,5,200.0,Yes,No,Chinese,MG Road,Indiranagar
+Powai,Mumbai,Nawabi Kitchen,500.0,2.9,80,"Indian,Tandoor,Mughlai,Seafood,North Indian,Biryani",Powai,57,4215,Casual Dining,2.8,40,600.0,No,No,"North Indian, Chinese",Brookefield,Brookefield
+Powai,Mumbai,Spice Affair,500.0,2.9,80,"North Indian,Indian,Chinese,Tandoor",Powai,52,5666,Casual Dining,3.6,28,600.0,No,No,"North Indian, Chinese",Marathahalli,Marathahalli
+Powai,Mumbai,Urban Spice,500.0,2.9,80,"North Indian,Indian,Chinese,Tandoor",Powai,54,6793,Casual Dining,3.6,23,800.0,Yes,No,"North Indian, Chinese, Continental",Koramangala 4th Block,Ejipura
+Powai,Mumbai,Double Decker,300.0,2.9,80,Indian  Chinese  Tandoor  Seafood,Powai,52,1914,"Bar, Casual Dining",4.3,2651,1300.0,No,Yes,"Continental, North Indian",Brigade Road,Brigade Road
+Nallakunta & Vidyanagar,Hyderabad,Biryani Trip,350.0,4.4,50,Biryani,Nallakunta & Vidyanagar,39,842,Delivery,2.8,40,400.0,Yes,No,Biryani,Brigade Road,Indiranagar
+Nallakunta & Vidyanagar,Hyderabad,Snack House,180.0,4.9,20,"Fast Food,Snacks",Nallakunta & Vidyanagar,39,5599,Quick Bites,3.8,22,200.0,Yes,No,"Fast Food, Momos",Brigade Road,Indiranagar
+Magarpatta,Pune,Knight Riders,300.0,2.9,80,"Chinese,Continental,Indian,Biryani,Italian,Desserts",Magarpatta,74,3369,Bar,2.4,25,1000.0,No,No,"Chinese, European",Indiranagar,Domlur
+Kothrud,Pune,Papacream,350.0,5.0,20,Ice Cream,Kothrud,52,4596,Dessert Parlor,3.7,17,350.0,Yes,No,"Desserts, Ice Cream",Bannerghatta Road,JP Nagar
+South Kolkata,Kolkata,Hakuna Matata,200.0,2.9,80,"Chinese,Indian",South Kolkata,79,2497,"Casual Dining, Bar",4.5,2781,1200.0,No,No,"North Indian, Asian, Seafood, Chinese",Bannerghatta Road,JP Nagar
+Central Bangalore,Bangalore,Hotel Green Tara,300.0,2.9,80,"Chinese,Tibetan",Central Bangalore,36,2686,Casual Dining,3.9,39,500.0,No,No,"Chinese, Tibetan, Momos",Brigade Road,Brigade Road
+Koramangala,Bangalore,Papacream,350.0,2.9,80,Ice Cream,Koramangala,59,4596,Dessert Parlor,3.7,17,350.0,Yes,No,"Desserts, Ice Cream",Bannerghatta Road,JP Nagar
+Knk- Nungambakam (Cds)- Chennai,Chennai,Cafe Coffee Day,300.0,2.9,80,"Beverages,Snacks,Desserts",Knk- Nungambakam (Cds)- Chennai,51,1085,Cafe,2.3,30,900.0,No,No,"Cafe, Fast Food",Brookefield,Brookefield
+Indiranagar,Bangalore,Cafe Imroze,300.0,2.9,80,"Chinese,Seafood,Continental",Indiranagar,62,1104,"Cafe, Casual Dining",3.6,95,650.0,Yes,No,"Cafe, Burger, Italian, Fast Food",Brigade Road,Infantry Road
+Frazer Town,Bangalore,Food Corner,250.0,2.9,80,"North Indian,Arabian,Snacks,Biryani",Frazer Town,50,2173,Quick Bites,3.3,7,250.0,No,No,"North Indian, Chinese, Fast Food",Frazer Town,RT Nagar
+Swargate,Pune,Wok N Roll,1.0,2.9,80,"Chinese,Snacks",Swargate,39,6982,Quick Bites,3.9,82,400.0,Yes,No,"Chinese, Momos",Kalyan Nagar,Nagawara
+Sion Bhakti Park,Mumbai,Eat Repeat,260.0,2.9,80,"Fast Food,Beverages",Sion Bhakti Park,52,1976,Quick Bites,3.9,101,150.0,Yes,No,South Indian,Banashankari,Basavanagudi
+Sion Bhakti Park,Mumbai,Sandwich Hub,200.0,2.9,80,"Fast Food,Beverages",Sion Bhakti Park,52,5244,Quick Bites,3.4,11,300.0,Yes,No,"Fast Food, Sandwich","Byresandra,Tavarekere,Madiwala",Jayanagar
+Koregaon Park,Pune,Happy Singh,300.0,2.9,80,"North Indian,Fast Food,Chinese,Mughlai",Koregaon Park,51,2546,Casual Dining,3.8,507,900.0,Yes,No,"Chinese, North Indian",Brookefield,Whitefield
+Powai,Mumbai,Biryani House,500.0,2.9,80,Biryani  Beverages,Powai,57,817,Casual Dining,3.5,11,600.0,Yes,No,"Andhra, Biryani, Chinese, North Indian",Bellandur,Bellandur
+Powai,Mumbai,Biryani Point,500.0,2.9,80,Biryani  Beverages,Powai,58,834,Quick Bites,3.2,7,250.0,No,No,Biryani,"Byresandra,Tavarekere,Madiwala",Bommanahalli
+Bandra East,Mumbai,Barbeque Nation,600.0,2.9,80,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Kalina,37,610,Casual Dining,3.8,32,1600.0,No,No,"North Indian, European, Mediterranean, BBQ, Kebab",Brookefield,Whitefield
+Powai,Mumbai,Hyderabadi Dum Biryani,500.0,2.9,80,Biryani  Beverages,Powai,57,2860,Quick Bites,3.7,23,300.0,No,No,Biryani,Whitefield,Whitefield
+Nibm Post Office Road,Pune,Kolkata Kitchen,400.0,2.9,80,"North Indian,Tandoor,Fast Food",Kondhwa,73,3389,Quick Bites,3.2,231,400.0,Yes,No,"North Indian, Fast Food, Biryani",Electronic City,Electronic City
+Basavanagudi,Bangalore,Nisarga Restaurant,300.0,2.9,80,"North Indian,Chinese,Snacks",Basavanagudi,53,4379,Quick Bites,3.3,6,350.0,No,No,"Mangalorean, Chinese, North Indian, Seafood",Lavelle Road,Majestic
+Sainik Vihar Pritampura,Delhi,Tandoori Junction,350.0,2.9,80,"North Indian,Tandoor,Thalis,Beverages",Rohini,48,6066,Quick Bites,3.9,81,400.0,Yes,No,"North Indian, Chinese, Biryani",Brookefield,Marathahalli
+Kestopur,Kolkata,Biryani Bowl,400.0,2.9,80,"Biryani,Indian",Lake Town,87,806,Kiosk,3.3,10,550.0,No,No,"Biryani, Andhra",Whitefield,Whitefield
+Rohini,Delhi,Handi Biryani,350.0,2.9,80,"Biryani,Chinese,Beverages",Rohini,39,2522,Quick Bites,3.9,84,300.0,Yes,No,"Hyderabadi, Biryani",Brookefield,Marathahalli
+Banashankari,Bangalore,Desi Khana,300.0,2.9,80,"North Indian,Chinese,Thalis",Banashankari,68,1811,Quick Bites,2.8,40,300.0,Yes,No,"North Indian, Chinese",Brookefield,Whitefield
+Himayath Nagar,Hyderabad,Silver Spoon,160.0,2.9,80,Snacks  Combo,Himayath Nagar,37,5508,"Casual Dining, Bar",3.3,4,800.0,No,No,"North Indian, Chinese, Continental",Lavelle Road,Majestic
+Annanagar,Chennai,Nasi And Mee,1200.0,5.0,20,"Pan-Asian,Singaporean,Malaysian,Japanese,Asian,Chinese,Indonesian",Annanagar,70,4190,Casual Dining,4.4,907,1000.0,Yes,Yes,"Malaysian, Thai, Singaporean, Asian, Chinese, Momos",Whitefield,Whitefield
+Koramangala,Bangalore,Uday Sweets,100.0,3.9,50,Fast Food,5Th Block,49,6725,Sweet Shop,3.5,33,250.0,Yes,No,"Mithai, Fast Food",Koramangala 4th Block,Koramangala 6th Block
+Koramangala,Bangalore,Madurai Idly Shop,150.0,4.3,500,South Indian,6Th Block,54,3705,Quick Bites,2.1,193,200.0,No,No,South Indian,Sarjapur Road,Sarjapur Road
+Koramangala,Bangalore,Sree Krishna Kafe,137.0,4.5,500,South Indian,1St Block,57,5718,Quick Bites,3.7,55,200.0,Yes,No,South Indian,Brookefield,Whitefield
+Film Nagar,Hyderabad,Little Italy,1200.0,4.1,100,"Pizzas,Salads,Combo,Italian,Mexican,Desserts,Beverages",Road No 92,71,3609,Casual Dining,4.2,405,1500.0,Yes,Yes,"Salad, Healthy Food, Italian, Juices, Mexican, Pizza",Kalyan Nagar,Kalyan Nagar
+Basheer Bagh,Hyderabad,Cream Stone,350.0,4.4,1000,"Ice Cream,Desserts,Beverages,Ice Cream Cakes",Liberty Road,27,1605,Dessert Parlor,4.0,78,500.0,Yes,No,"Desserts, Beverages",Brigade Road,Frazer Town
+Malleshwaram,Bangalore,Veena Stores,100.0,4.5,1000,South Indian,Margosa Road,56,6832,Quick Bites,4.5,2407,150.0,Yes,No,South Indian,Malleshwaram,Malleshwaram
+Ashok Nagar,Bangalore,Green Theory,1000.0,4.3,50,"Italian,Continental,Healthy Food",Residency Road,39,2445,"Casual Dining, Cafe",4.2,2838,800.0,Yes,Yes,"Italian, Salad, Healthy Food, Cafe, Asian, Desserts, Pizza",Brigade Road,Residency Road
+Malleshwaram,Bangalore,Punjab Mail,300.0,4.1,100,"North Indian,Punjabi,Thalis,Chinese,Combo,Snacks",Margosa Road,53,4829,Casual Dining,3.8,323,650.0,Yes,No,"North Indian, Chinese, Beverages",Malleshwaram,Malleshwaram
+Basavanagudi,Bangalore,Harshi Super Sandwich,100.0,3.7,20,"Snacks,Fast Food,Chaat",East Anjaneya Temple Road,55,2555,Quick Bites,3.8,148,150.0,No,No,"Fast Food, Street Food",Banashankari,Basavanagudi
+Gandhi Bazaar,Bangalore,Vidyarthi Bhavan,150.0,4.3,1000,South Indian,Gandhi Bazar,49,6861,Quick Bites,4.4,4460,150.0,No,No,South Indian,Banashankari,Basavanagudi
+Ashok Nagar,Bangalore,Mad Over Donuts,200.0,4.2,50,"Desserts,Sweets,Bakery",Magrath Road,51,3690,Dessert Parlor,3.1,17,450.0,Yes,No,"Bakery, Desserts, Beverages",Bannerghatta Road,Bannerghatta Road
+Camp,Pune,Coffee House,250.0,4.4,100,"North Indian,Chinese,South Indian,Fast Food",Next To Dorabjee'S,32,1544,Quick Bites,3.3,6,150.0,No,No,South Indian,Lavelle Road,Majestic
+Ashok Nagar,Bangalore,Juice Junction,150.0,4.5,100,"Juices,Fast Food",Ashok Nagar,31,3072,Beverage Shop,2.8,20,150.0,Yes,No,"Juices, Fast Food","Byresandra,Tavarekere,Madiwala",JP Nagar
+Saki Naka,Mumbai,Mad Over Donuts,200.0,4.5,100,"Desserts,Sweets,Bakery",Pheonix Market City,46,3690,Dessert Parlor,3.1,17,450.0,Yes,No,"Bakery, Desserts, Beverages",Bannerghatta Road,Bannerghatta Road
+Malleshwaram,Bangalore,Mint Masala,375.0,4.2,100,"North Indian,Chinese,Continental",Bashyam Circle,57,3953,Casual Dining,2.8,252,1000.0,No,No,"North Indian, Chinese",Church Street,Infantry Road
+Chennai,Chennai,Gangotree,300.0,4.5,1000,"Street Food,Desserts,Fast Food",Cathedral Road,50,2326,Quick Bites,3.8,50,150.0,No,No,Street Food,Church Street,Race Course Road
+Thousand Lights,Chennai,Krispy Kreme,170.0,4.5,500,"Desserts,Beverages",Express Avenue Mall,47,3430,Dessert Parlor,3.4,10,300.0,Yes,No,"Desserts, Beverages",Koramangala 6th Block,Koramangala 6th Block
+Vasanth Nagar,Bangalore,Hotel Chandrika,300.0,4.3,100,"North Indian,Chinese,Andhra,Biryani,Desserts,Ice Cream,South Indian,Beverages",Cunnigham Road,37,2661,Casual Dining,3.8,207,400.0,Yes,No,"South Indian, North Indian, Chinese, Street Food",Church Street,Cunningham Road
+Jayanagar,Bangalore,New Shanthi Sagar,400.0,4.1,500,"North Indian,Chinese,Fast Food",Rv Road,51,4316,Casual Dining,2.7,39,550.0,No,No,"South Indian, North Indian, Chinese, Beverages",Malleshwaram,Sadashiv Nagar
+Vasanth Nagar,Bangalore,Mudpipe Cafe,500.0,4.2,20,"Mexican,Continental",Cunningham Road,46,4062,Cafe,3.9,727,800.0,Yes,Yes,"Cafe, Continental, North Indian",Bannerghatta Road,JP Nagar
+Indiranagar,Bangalore,Paratha Plaza,250.0,4.4,100,North Indian,2Nd Stage,53,4620,Quick Bites,3.0,96,300.0,Yes,No,"North Indian, Chinese","Byresandra,Tavarekere,Madiwala",BTM
+Shivajinagar,Pune,Shiv Sagar,300.0,4.2,100,"North Indian,South Indian,Chinese,Fast Food",Jm Road,37,5417,Casual Dining,2.8,40,800.0,No,No,"South Indian, North Indian, Chinese",Brigade Road,MG Road
+Cox Town,Bangalore,Manjit Da Dhaba,350.0,4.5,1000,North Indian,Frazer Town,51,3794,Quick Bites,4.3,783,300.0,Yes,No,North Indian,Brigade Road,Frazer Town
+Ballygunge,Kolkata,Chatar Patar,200.0,4.3,100,"Street Food,Indian,Beverages,Chaat,Combo,Pastas,Snacks",Opposite Tivoli Court,65,1332,Quick Bites,3.6,65,300.0,No,No,"Fast Food, Street Food",Jayanagar,Banashankari
+Basavanagudi,Bangalore,Kamat Bugle Rock,400.0,4.4,100,"North Indian,South Indian",Basavangudi,57,3184,Quick Bites,3.9,543,300.0,Yes,No,"South Indian, Fast Food",Banashankari,Basavanagudi
+Camp,Pune,Sukh Sagar,400.0,4.4,20,"North Indian,Chinese",Nucleus Mallcamp,36,5917,Casual Dining,2.7,182,450.0,Yes,No,"North Indian, South Indian, Chinese, Beverages",Kalyan Nagar,Kammanahalli
+Guru Nanak Nagar,Pune,Chaat Bazaar,200.0,2.9,80,Fast Food,Kumar Pacific Mall,52,1261,Quick Bites,3.7,34,300.0,Yes,No,Street Food,Brookefield,Whitefield
+Ghatkopar East,Mumbai,Pavilion,550.0,4.3,50,"North Indian,Chinese",Vallabh Baug Lane,50,4666,Casual Dining,3.7,34,700.0,Yes,No,"North Indian, Chinese",Malleshwaram,Yeshwantpur
+Bandra East,Mumbai,Celebrations 365,400.0,4.3,50,"North Indian,Chinese,South Indian,Continental",Bandra East,42,1254,Dessert Parlor,3.3,4,350.0,Yes,No,"Desserts, Ice Cream",Brookefield,Brookefield
+Golpark,Kolkata,Banana Leaf,200.0,4.4,1000,South Indian,Near Vivekananda Park,72,564,Casual Dining,3.5,12,500.0,No,No,Andhra,Indiranagar,Domlur
+Santacruz East,Mumbai,Natural Ice Cream,150.0,4.7,100,Ice Cream,Kalina Market Santacruz East,27,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Ashok Nagar,Bangalore,Natural Ice Cream,150.0,4.7,100,Ice Cream,Near Sbi,31,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Ghatkopar East,Mumbai,The Chocolate Room,250.0,3.9,20,"Fast Food,Desserts,Italian,Mexican",M G Road Opp. Kotak Mahindra Bank Ghatkopar East,48,6291,Cafe,2.8,43,600.0,Yes,No,"Cafe, Beverages",Electronic City,Electronic City
+Kodihalli,Bangalore,Smoodies,140.0,4.2,50,"Snacks,Healthy Food,Juices,Beverages,Desserts",Indira Nagar,60,5592,Beverage Shop,3.7,22,300.0,Yes,No,Juices,Indiranagar,Old Airport Road
+Koramangala,Bangalore,Sukh Sagar,400.0,4.3,100,South Indian,5Th A Block,57,5917,Casual Dining,2.7,182,450.0,Yes,No,"North Indian, South Indian, Chinese, Beverages",Kalyan Nagar,Kammanahalli
+Saki Naka,Mumbai,Shiv Sagar,200.0,4.3,50,"North Indian,Beverages,South Indian,Fast Food,Chinese",Pheonix Market City,48,5417,Casual Dining,2.8,40,800.0,No,No,"South Indian, North Indian, Chinese",Brigade Road,MG Road
+Saki Naka,Mumbai,Natural Ice Cream,150.0,4.4,50,Desserts,Pheonix Market City,50,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Shivajinagar,Pune,Natural Ice Cream,150.0,4.7,100,Ice Cream,Opp. Tata Home Finance,28,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Shivajinagar,Pune,Frozen Bottle,250.0,4.7,50,"Beverages,Ice Cream,Desserts",Fc Road,29,2279,Beverage Shop,2.8,40,400.0,Yes,No,"Beverages, Desserts",HSR,Sarjapur Road
+Shivajinagar,Pune,Falahaar,250.0,4.3,100,"Fast Food,Beverages,American,Pizzas",Shivaji Nagar,35,2063,Quick Bites,3.9,154,200.0,No,No,"North Indian, Street Food",Koramangala 4th Block,Koramangala 6th Block
+Jayanagar,Bangalore,Jalpaan,650.0,4.4,100,"Desserts,Italian,Jain,Mexican",7Th Block,54,3007,Casual Dining,3.9,675,900.0,Yes,Yes,"North Indian, Continental",Malleshwaram,Rajajinagar
+Ambawadi,Ahmedabad,The Belgian Waffle Co.,200.0,4.2,100,"Desserts,Beverages",Panjra Pole,39,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Taltala,Kolkata,Natural Ice Cream,150.0,4.8,100,Ice Cream,Park Street,43,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Sampangiram Nagar,Bangalore,Savi Sagar,300.0,4.2,20,"Beverages,Chinese,Fast Food,Jain,North Indian,South Indian",Malleshwaram,55,5304,Casual Dining,3.7,136,450.0,Yes,No,"North Indian, South Indian, Chinese, Street Food, Beverages",Lavelle Road,Malleshwaram
+Chetpet,Chennai,Shree Mithai,250.0,4.5,1000,"Desserts,Street Food,Chaat",Chetpet,37,5452,Quick Bites,3.5,11,,No,No,"Desserts, Street Food, Mithai",Old Airport Road,Indiranagar
+Navrangpura,Ahmedabad,Natural Ice Cream,150.0,4.8,100,Ice Cream,Shree Krishna Centre Near Mithakhali Six Road,30,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Anna Nagar,Chennai,Roll Over,300.0,4.1,100,"Desserts,Beverages,Pan-Asian,Snacks",Anna Nagar,62,5058,Dessert Parlor,3.8,75,350.0,Yes,No,Desserts,Rajajinagar,Basaveshwara Nagar
+Somajiguda,Hyderabad,Punjabi Paratha House,200.0,4.0,500,Punjabi  North Indian,Somajiguda,47,4851,Delivery,2.8,40,300.0,No,No,North Indian,Bellandur,Sarjapur Road
+Ashok Nagar,Bangalore,Frozen Bottle,250.0,3.8,20,"Beverages,Ice Cream,Desserts",Main Guard Cross Road,34,2279,Beverage Shop,2.8,40,400.0,Yes,No,"Beverages, Desserts",HSR,Sarjapur Road
+Gandhi Nagar,Bangalore,South Ruchis Square,500.0,4.2,50,"Biryani,Chinese,Desserts,Fast Food,Jain,North Indian,South Indian",Majestic,48,5645,Casual Dining,4.3,1033,850.0,Yes,Yes,"North Indian, South Indian, Chinese",Malleshwaram,Race Course Road
+Indiranagar,Bangalore,Green G Juice Bar,200.0,4.2,20,"Beverages,Continental,Desserts",Hal 2Nd Stage,60,2437,Beverage Shop,3.5,37,200.0,Yes,No,"Beverages, Juices, Ice Cream",Indiranagar,Indiranagar
+Basavanagudi,Bangalore,Gokul Veg,500.0,4.3,500,"North Indian,Jain,Indian,Beverages,Desserts",Basavanagudi,53,2378,Casual Dining,3.8,469,750.0,Yes,No,"North Indian, Chinese, Beverages",Banashankari,Basavanagudi
+Paldi,Ahmedabad,China Hut,400.0,4.0,50,"North Indian,Chinese",Paldi,33,1429,Kiosk,3.8,56,500.0,No,No,Chinese,Church Street,Frazer Town
+Anna Nagar,Chennai,Lassi Shop,100.0,4.3,100,"Beverages,Ice Cream,Desserts,Fast Food,Juices,North Indian,American,Snacks,Bakery",Opp K3 Police Station,53,3531,Beverage Shop,3.3,10,200.0,Yes,No,"Beverages, Ice Cream",Residency Road,Seshadripuram
+Pulikeshi Nagar,Bangalore,Cream Stone,400.0,4.3,100,"Ice Cream,Desserts,Beverages",61 Mm Road,45,1605,Dessert Parlor,4.0,78,500.0,Yes,No,"Desserts, Beverages",Brigade Road,Frazer Town
+Santacruz East,Mumbai,Baskin Robbins,350.0,4.7,50,"Ice Cream,Desserts",Opposite Mumbai University Main Gate,29,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+3Rd Block Jayanagar,Bangalore,Hari Super Sandwich,100.0,4.0,1000,"Fast Food,Chaat,Snacks,Pizzas,North Indian,Indian",3Rd Block,42,2551,Quick Bites,3.9,13,100.0,Yes,No,"Sandwich, Fast Food",Bannerghatta Road,BTM
+Sudhama Nagar,Bangalore,Bombay Kulfi,100.0,3.9,50,"Desserts,Ice Cream",Sudhamnagar,38,905,Dessert Parlor,3.4,33,150.0,Yes,No,"Desserts, Ice Cream",Sarjapur Road,Sarjapur Road
+Himayatnagar,Hyderabad,Bombay Kulfis,100.0,4.4,20,Ice Cream,Himayatnagar,29,906,Dessert Parlor,3.3,4,200.0,No,No,Ice Cream,Indiranagar,Indiranagar
+Basavanagudi,Bangalore,Chai Mane,100.0,3.7,20,"Fast Food,Snacks,Beverages",Basavanagudi,47,1288,"Beverage Shop, Quick Bites",3.2,6,100.0,No,No,"Beverages, Sandwich",Basavanagudi,Basavanagudi
+Jogupalya,Bangalore,Popat,200.0,4.4,100,"Fast Food,North Indian",Doddaiah Layout Halasuru,48,4762,Quick Bites,3.2,41,300.0,Yes,No,North Indian,Brigade Road,Indiranagar
+Kachiguda,Hyderabad,Ibaco,800.0,4.2,50,"Ice Cream,Desserts",Barkatpura,28,2868,Dessert Parlor,3.6,39,300.0,Yes,No,Desserts,Malleshwaram,Rajajinagar
+Ashok Nagar,Bangalore,Ibaco,800.0,4.7,20,Desserts,Opp. To Brigade Towers,38,2868,Dessert Parlor,3.6,39,300.0,Yes,No,Desserts,Malleshwaram,Rajajinagar
+Periyamet,Chennai,Bombay Kulfi,150.0,4.6,100,"Ice Cream,Desserts",Vepery,28,905,Dessert Parlor,3.4,33,150.0,Yes,No,"Desserts, Ice Cream",Sarjapur Road,Sarjapur Road
+Koramangala,Bangalore,Sri Krishna Sagar,126.0,4.2,1000,"South Indian,North Indian,Fast Food,Beverages,Jain",6Th Block,53,5768,Casual Dining,3.2,119,400.0,Yes,No,"North Indian, Chinese",Banashankari,Banashankari
+Egmore,Chennai,Hotel Aradhana,350.0,4.2,20,"South Indian,Chinese,North Indian",Egmore,34,2654,Quick Bites,3.7,51,300.0,Yes,No,North Indian,Bannerghatta Road,Bannerghatta Road
+Ashok Nagar,Bangalore,Hari Super Sandwich,100.0,4.0,100,Fast Food,Brigade Road,30,2551,Quick Bites,3.9,13,100.0,Yes,No,"Sandwich, Fast Food",Bannerghatta Road,BTM
+Malleshwaram,Bangalore,Malleshwaram Holige Mane,120.0,4.4,100,"Desserts,South Indian,Sweets",Sampige Road,54,3755,Quick Bites,3.5,7,200.0,No,No,South Indian,Malleshwaram,Malleshwaram
+Malleshwaram,Bangalore,La Heaven,384.0,4.1,100,"Desserts,Bakery,Beverages",Sampige Road,58,3490,"Bakery, Dessert Parlor",3.8,87,400.0,Yes,No,"Bakery, Desserts",Malleshwaram,Malleshwaram
+Bandra East,Mumbai,Baskin Robbins,350.0,4.5,50,Desserts  Ice Cream,Bandra East,34,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Ellisbridge,Ahmedabad,Treat,350.0,4.5,20,Indian,Ellis Bridge,34,6678,Casual Dining,3.8,60,800.0,Yes,No,"North Indian, Mughlai",Brookefield,Whitefield
+T. Nagar,Chennai,Goli Vada Pav No 1,100.0,4.1,100,"Maharashtrian,North Indian,Fast Food,Street Food",Habibullah Road,60,2388,Quick Bites,3.4,7,200.0,Yes,No,Street Food,Electronic City,Electronic City
+Sivanchetti Gardens,Bangalore,Sagar Delicacy,300.0,4.3,100,"North Indian,South Indian,Chinese",Ulsoor,51,5167,Casual Dining,3.9,87,500.0,Yes,No,"North Indian, Chinese, Fast Food, Street Food",Brigade Road,Ulsoor
+Indiranagar,Bangalore,Srinidhi Sagar,200.0,4.0,50,"South Indian,North Indian,Indian,Chinese,Beverages,Desserts",Hal 2Nd Stage,61,5848,Quick Bites,3.4,83,300.0,No,No,"South Indian, North Indian, Chinese",Rajajinagar,Vijay Nagar
+Domlur,Bangalore,Srinidhi Sagar Deluxe,200.0,3.9,100,"South Indian,North Indian,Indian,Chinese,Beverages,Desserts",Domlur,54,5849,Quick Bites,3.6,108,40.0,Yes,No,"South Indian, North Indian, Chinese",Koramangala 4th Block,Domlur
+Indiranagar,Bangalore,Srinidhi Sagar Food Line,400.0,2.9,80,"Chinese,South Indian,North Indian",Double Road,55,5850,Quick Bites,3.7,129,40.0,Yes,No,"South Indian, North Indian, Chinese",Brigade Road,Indiranagar
+Victoria Layout,Bangalore,Krispy Kreme,170.0,4.7,100,"Desserts,Beverages",Ground Floor Campbell Rd Xavier Layout,33,3430,Dessert Parlor,3.4,10,300.0,Yes,No,"Desserts, Beverages",Koramangala 6th Block,Koramangala 6th Block
+Ambawadi,Ahmedabad,Khana Khazana,250.0,3.9,50,"Indian,Chinese",Satellite - Nehrunagar Cross Road,33,3306,Delivery,3.7,22,400.0,Yes,No,North Indian,Bannerghatta Road,Bannerghatta Road
+Ashok Nagar,Bangalore,Baskin Robbins,400.0,4.4,50,Desserts,Triumph Towers,35,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Basavanagudi,Bangalore,South Kitchen,150.0,4.5,100,"Fast Food,South Indian",Basavanagudi,53,5641,Quick Bites,4.3,275,100.0,Yes,No,South Indian,Banashankari,Basavanagudi
+Maninagar,Ahmedabad,Kota Kachori,300.0,4.2,50,"Fast Food,Desserts,Beverages",Maninagar,36,3414,Quick Bites,4.3,3605,400.0,Yes,No,"Street Food, Desserts, North Indian, Mithai, Rajasthani","Byresandra,Tavarekere,Madiwala",Koramangala 6th Block
+Jayanagar,Bangalore,Rajathadri Food Fort,350.0,4.4,1000,"Chinese,South Indian,North Indian,Desserts,Fast Food",Jayanagar,47,4931,Casual Dining,4.0,465,600.0,Yes,No,"South Indian, North Indian, Chinese, Street Food",Banashankari,Jayanagar
+Indiranagar,Bangalore,Imli,400.0,3.8,100,"North Indian,Punjabi",Indiranagar,52,2903,Casual Dining,3.8,1837,900.0,Yes,No,"North Indian, Street Food",Indiranagar,Indiranagar
+Athwa,Surat,The Belgian Waffle Co.,270.0,4.5,100,"Desserts,Beverages",Ghod Dod Road,38,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Vijayanagar,Bangalore,Flodeis,400.0,2.9,80,"Continental,Desserts,Beverages,Snacks",3Rd Cross,64,2152,Dessert Parlor,3.4,10,300.0,Yes,No,"Desserts, Ice Cream, Beverages",Rajajinagar,Vijay Nagar
+Bhatha,Surat,The Chocolate Room,300.0,4.0,20,"Continental,Italian,Beverages",Helios The Business,52,6291,Cafe,2.8,43,600.0,Yes,No,"Cafe, Beverages",Electronic City,Electronic City
+Vip Road,Surat,Pizza Da Dhaba,220.0,2.9,80,"Italian,Fast Food",Vesu,49,4727,Quick Bites,2.9,57,400.0,Yes,No,"Fast Food, Pizza",Bannerghatta Road,Bannerghatta Road
+Pashan,Pune,Tea Villa Cafe,800.0,4.3,20,"Continental,Mediterranean,Italian,Desserts,Beverages",Baner,65,6150,"Cafe, Casual Dining",4.2,656,800.0,No,Yes,"Cafe, Continental, Mediterranean, Italian, Desserts",Jayanagar,Jayanagar
+Indiranagar,Bangalore,Sri Krishna Sweets,200.0,4.7,50,Sweets,Ground Floor 13 Th Cross Cmh Road,48,5769,Sweet Shop,3.7,22,250.0,Yes,No,Mithai,Jayanagar,Basavanagudi
+Shivaji Nagar,Hyderabad,Sri Krishna Sweets,200.0,4.3,50,Sweets,No 1 1 92  R P Road  Secunderabad,57,5769,Sweet Shop,3.7,22,250.0,Yes,No,Mithai,Jayanagar,Basavanagudi
+Chembur,Mumbai,Sri Krishna Sweets,200.0,4.4,100,Sweets,Kasi Niketan Govandi Road N.G. Acharya Marg,44,5769,Sweet Shop,3.7,22,250.0,Yes,No,Mithai,Jayanagar,Basavanagudi
+New Magdalla,Surat,Kailash Parbat,300.0,3.6,50,"Punjabi,Snacks,Chinese,Beverages",Food Court Vr Mall,65,3159,Food Court,2.6,84,400.0,No,No,North Indian,Brookefield,Whitefield
+Vesu,Surat,The Pancake Story,300.0,4.8,20,"Desserts,Beverages",Prime Shoppers Vesu,58,6480,Dessert Parlor,4.6,117,300.0,Yes,No,"Desserts, Beverages","Byresandra,Tavarekere,Madiwala",Koramangala 1st Block
+Ganganagar,Bangalore,Vishnu Garden,251.0,4.4,1000,"Chinese,South Indian,North Indian",R.T. Nagar,53,6894,Quick Bites,4.0,163,400.0,Yes,No,South Indian,Malleshwaram,RT Nagar
+Andheri East,Mumbai,99 Pancakes,300.0,4.4,50,"Desserts,Beverages",Andheri East,45,76,Dessert Parlor,4.1,41,150.0,Yes,No,"Desserts, Ice Cream",Brigade Road,Church Street
+Indiranagar,Bangalore,Burma Burma,1300.0,4.5,100,"Pan-Asian,Burmese",Indiranagar,61,1022,Casual Dining,4.7,1594,1500.0,Yes,No,"Asian, Burmese",Indiranagar,Indiranagar
+Santacruz East,Mumbai,The Belgian Waffle Co.,200.0,4.5,100,"Desserts,Beverages",Kalina,37,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Koyambedu,Chennai,Dosa Corner,150.0,4.1,50,"South Indian,North Indian",Thiruveni Complex,85,1907,Quick Bites,2.8,40,200.0,Yes,No,South Indian,Bellandur,Sarjapur Road
+Bidhannagar,Kolkata,Waffle Square,200.0,2.9,80,Desserts,Sector 5,75,6916,"Dessert Parlor, Beverage Shop",3.9,24,300.0,Yes,No,"Desserts, Beverages, Ice Cream",Brookefield,Marathahalli
+Maninagar,Ahmedabad,Hungry Birds,400.0,3.5,50,Indian,Near Bank Of Baroda,45,2818,Delivery,3.2,6,300.0,Yes,No,Chinese,Brigade Road,Koramangala 7th Block
+Sardar Colony,Ahmedabad,Lazeez,250.0,4.1,100,"Indian,Chinese",Naranpura,39,3543,Casual Dining,2.4,318,600.0,Yes,No,"North Indian, Mughlai, Biryani",HSR,Koramangala 1st Block
+Chamrajpet,Bangalore,By 2 Coffee,100.0,4.4,100,South Indian,Chamarajpet,45,1030,Quick Bites,3.7,28,100.0,Yes,No,South Indian,Basavanagudi,Basavanagudi
+Athwa,Surat,Sardarji Ka Dhaba,250.0,3.2,20,Punjabi,Bhatar,28,5286,Quick Bites,4.0,750,250.0,Yes,No,North Indian,"Byresandra,Tavarekere,Madiwala",Hosur Road
+New Tippasandra,Bangalore,New Krishna Sagar,100.0,4.1,50,"South Indian,North Indian,Chinese,Snacks",Indiranagar,59,4280,Casual Dining,4.0,51,400.0,Yes,No,"North Indian, Chinese, South Indian, Street Food",Kalyan Nagar,HBR Layout
+Khairtabad,Hyderabad,Kamat Hotel,500.0,4.3,1000,"North Indian,South Indian,Fast Food",Secretariat Road,37,3185,Casual Dining,3.6,60,450.0,No,No,"North Indian, South Indian, Chinese",Brigade Road,Shivajinagar
+Adajan,Surat,99 Pancakes,500.0,4.5,100,"Desserts,Beverages",Nr Star Bazar,45,76,Dessert Parlor,4.1,41,150.0,Yes,No,"Desserts, Ice Cream",Brigade Road,Church Street
+Malleshwaram,Bangalore,Sai Cafe Veg,250.0,4.3,100,South Indian,10Th Cross Rd,54,5181,Quick Bites,3.5,11,250.0,No,No,Fast Food,Malleshwaram,Malleshwaram
+Basavanagudi,Bangalore,Roti Ghar,400.0,4.1,1000,"Chinese,South Indian,North Indian,Desserts,Fast Food,Beverages,Mughlai",Gandhi Bazar Main Road,48,5080,Casual Dining,3.9,750,500.0,Yes,No,"North Indian, Chinese, South Indian",Banashankari,Basavanagudi
+Pitam Pura,Delhi,Dosa Corner,250.0,4.1,50,"Chinese,South Indian",Nsp,56,1907,Quick Bites,2.8,40,200.0,Yes,No,South Indian,Bellandur,Sarjapur Road
+Rohini,Delhi,New Punjabi Dhaba,300.0,3.3,50,North Indian,Rohini,47,4299,Quick Bites,3.9,782,300.0,Yes,No,"North Indian, Chinese",Bellandur,HSR
+Shivaji Nagar,Bangalore,Bhartiya Jalpan,270.0,4.3,500,"North Indian,Fast Food,Punjabi,Beverages,Desserts",Commercial Street,40,729,Casual Dining,2.8,40,700.0,No,No,"North Indian, Street Food",Lavelle Road,Commercial Street
+Koramangala,Bangalore,Yum In My Tum,200.0,3.9,500,"Chinese,Continental,Beverages,Pizzas,Italian,North Indian,Pastas,Desserts,Tibetan,Healthy Food",Koramangala,54,7042,Quick Bites,4.1,92,300.0,Yes,No,"Chinese, Continental, Fast Food, Healthy Food",Bannerghatta Road,BTM
+Jayanagar,Bangalore,Tea Villa Cafe,1000.0,4.2,50,"Chinese,Continental,Desserts,Fast Food,Italian,Mexican,Pan-Asian",Jayanagar,50,6150,"Cafe, Casual Dining",4.2,656,800.0,No,Yes,"Cafe, Continental, Mediterranean, Italian, Desserts",Jayanagar,Jayanagar
+Shanti Nagar,Bangalore,The Bangalore Cafe,400.0,4.1,100,"North Indian,Chaat,Chinese,Pizzas,Desserts",4 Kh Road,40,6212,Casual Dining,4.1,473,800.0,No,Yes,"Modern Indian, North Indian, Pizza, Continental, Beverages",Brigade Road,Shanti Nagar
+Kachiguda,Hyderabad,Lassi Shop,100.0,3.1,50,"Juices,Ice Cream",Kachiguda,31,3531,Beverage Shop,3.3,10,200.0,Yes,No,"Beverages, Ice Cream",Residency Road,Seshadripuram
+Kadugondanahalli,Bangalore,Vijayalakshmi Veg,100.0,4.3,100,"Chinese,South Indian,Fast Food",Nagavara Main Road,56,6868,Quick Bites,2.8,40,200.0,No,No,South Indian,Malleshwaram,Malleshwaram
+Cambridge Layout,Bangalore,Sendhoor Coffee,200.0,4.3,1000,"South Indian,Indian,Beverages",Indiranagar,46,5334,Quick Bites,3.9,49,150.0,No,No,"Coffee, Street Food",Indiranagar,Indiranagar
+Seshadripuram,Bangalore,Purani Dehli,300.0,3.7,50,"North Indian,Combo,Snacks,Chinese,Sweets,Beverages",Malleshwaram,63,4867,Food Court,2.6,60,600.0,Yes,No,"North Indian, Street Food",Whitefield,Whitefield
+Navrangpura,Ahmedabad,Jay Bhavani Vadapav,150.0,3.8,100,"Fast Food,Snacks,Combo,American,Pizzas,Beverages",C G Road,36,3025,Quick Bites,3.4,26,150.0,Yes,No,"Maharashtrian, Street Food",Rajajinagar,Seshadripuram
+Katraj,Pune,Chill Out,300.0,4.0,20,"Fast Food,Street Food,Beverages",Bibwewadi,67,1407,Beverage Shop,3.4,9,150.0,No,No,"Beverages, Juices",Indiranagar,Thippasandra
+Basavanagudi,Bangalore,Antarastriya,200.0,2.9,80,"Chinese,Tibetan,Mexican,Italian-American",Basavanagudi,53,394,Quick Bites,3.9,461,200.0,Yes,No,"Chinese, Fast Food, Momos",Malleshwaram,Malleshwaram
+Gudimalkapur,Hyderabad,Sri Udupi Grand,300.0,4.2,100,South Indian  Chinese  Indian,Mehdipatnam,50,5818,Quick Bites,2.8,40,200.0,No,No,"South Indian, North Indian, Chinese",Brigade Road,Brigade Road
+Armane Nagar,Bangalore,Sattvam,1200.0,4.2,100,"Chinese,South Indian,North Indian,Continental,Desserts,Italian",Rajajinagar,52,5300,Casual Dining,4.3,353,1200.0,No,No,"North Indian, South Indian",Bannerghatta Road,JP Nagar
+Jayanagar,Bangalore,Patio 805,300.0,3.5,20,"Pan-Asian,Fast Food,Cafe",Jayanagar,53,4658,Casual Dining,4.0,370,1200.0,Yes,Yes,"Thai, Vietnamese, Asian, Chinese",Jayanagar,Jayanagar
+T. Nagar,Chennai,Frozen Bottle,250.0,4.2,100,"Beverages,Ice Cream,Desserts",Kodambakkam High Road,69,2279,Beverage Shop,2.8,40,400.0,Yes,No,"Beverages, Desserts",HSR,Sarjapur Road
+Chamrajpet,Bangalore,Karnataka Bhel House,100.0,4.4,500,Chaat,Chamrajpet,37,3230,Quick Bites,3.9,65,100.0,No,No,Street Food,Jayanagar,Jayanagar
+Piplod,Surat,Baskin Robbins,200.0,2.9,80,"Desserts,Ice Cream",Rahul Raj Mall,39,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Nampally,Hyderabad,Cream Stone,250.0,4.4,1000,Ice Cream  Desserts  Beverages  Ice Cream Cakes,Nampally,31,1605,Dessert Parlor,4.0,78,500.0,Yes,No,"Desserts, Beverages",Brigade Road,Frazer Town
+West Mambalam,Chennai,Lassi Shop,99.0,4.2,500,"Desserts,Ice Cream",Ashok Nagar T. Nagar,67,3531,Beverage Shop,3.3,10,200.0,Yes,No,"Beverages, Ice Cream",Residency Road,Seshadripuram
+Shivaji Nagar,Bangalore,Sreeraj Lassi Bar,250.0,4.2,20,"Juices,Desserts",Shivajinagar,35,5724,Beverage Shop,3.9,61,150.0,Yes,No,"Beverages, Desserts",Basavanagudi,Shanti Nagar
+Ashok Nagar,Bangalore,Sattuani,200.0,2.9,80,"North Indian,Chinese",Ashok Nagar,36,5299,Quick Bites,3.5,9,250.0,No,No,"Bihari, North Indian, Fast Food",Brigade Road,St. Marks Road
+Basavanagudi,Bangalore,Asha Sweets Center,1000.0,4.3,100,Indian,Gandhi Bazar,47,457,"Sweet Shop, Quick Bites",4.1,57,200.0,Yes,No,"Mithai, Street Food",Indiranagar,Indiranagar
+Aundh,Pune,Cream Stone,200.0,4.1,50,"Ice Cream,Desserts,Beverages",Aundh,65,1605,Dessert Parlor,4.0,78,500.0,Yes,No,"Desserts, Beverages",Brigade Road,Frazer Town
+Andheri East,Mumbai,Smoodies,140.0,4.2,50,"Snacks,Healthy Food,Juices,Beverages,Desserts",Powai,52,5592,Beverage Shop,3.7,22,300.0,Yes,No,Juices,Indiranagar,Old Airport Road
+Begumpet,Hyderabad,Bakingo,300.0,4.2,500,Bakery  Desserts  Beverages  Snacks,Secunderabad,57,552,Bakery,3.4,6,500.0,Yes,No,"Bakery, Desserts",Whitefield,Marathahalli
+Indiranagar,Bangalore,Habibi Falafel,300.0,4.3,1000,"Arabian,Mediterranean,Lebanese,Fast Food,Middle Eastern",Indiranagar,57,2491,Quick Bites,4.3,219,300.0,Yes,No,"Lebanese, Middle Eastern","Byresandra,Tavarekere,Madiwala",Koramangala 1st Block
+Shankarapura,Bangalore,The Belgian Waffle Co.,200.0,4.5,100,"Desserts,Beverages",V V Puram,40,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Ashok Nagar,Bangalore,Chaatimes,150.0,4.4,20,"Chaat,Beverages",Ulsoor,34,1269,Quick Bites,3.4,8,200.0,Yes,No,"Street Food, Fast Food",Bannerghatta Road,Bannerghatta Road
+Indiranagar,Bangalore,Halli Mane Rotti,200.0,4.1,50,South Indian,Indiranagar,60,2510,Quick Bites,3.4,8,150.0,No,No,South Indian,Indiranagar,Indiranagar
+Shanti Nagar,Bangalore,Adithya Tiffin Centre,200.0,2.9,80,North Indian,Shantinagar,46,146,"Takeaway, Delivery",2.8,40,200.0,No,No,North Indian,Brigade Road,Shanti Nagar
+Aundh,Pune,Desi Flavours,200.0,2.9,80,"Fast Food,Desserts,Ice Cream,Beverages",Aundh,71,1807,Quick Bites,3.9,121,400.0,Yes,No,"North Indian, Chinese, Biryani","Byresandra,Tavarekere,Madiwala",Koramangala 1st Block
+Chickpet,Bangalore,Lassi Shop,200.0,2.9,80,"Juices,Fast Food",Htm Dargha  Majestic,46,3531,Beverage Shop,3.3,10,200.0,Yes,No,"Beverages, Ice Cream",Residency Road,Seshadripuram
+Malleshwaram,Bangalore,Asha Food Camp,250.0,4.5,500,"Indian,Beverages,Biryani,Chinese,Desserts,Ice Cream,Juices,Tandoor,North Indian,Street Food,Chaat,South Indian",Malleshwaram,54,456,Casual Dining,4.0,137,700.0,No,Yes,"Desserts, North Indian, Chinese",Rajajinagar,Rajajinagar
+Egmore,Chennai,Sri Krishna Sweets,200.0,4.4,50,"Sweets,Snacks,Street Food",Egmore,35,5769,Sweet Shop,3.7,22,250.0,Yes,No,Mithai,Jayanagar,Basavanagudi
+Ashok Nagar,Bangalore,Go Native,600.0,4.2,100,"Healthy Food,Jain,North Indian,South Indian",Central Bangalore,38,2368,"Casual Dining, Cafe",2.8,40,800.0,No,No,"Healthy Food, Cafe, Beverages",HSR,HSR
+Vasanth Nagar,Bangalore,The Food Corner,150.0,4.5,20,"Chinese,North Indian",Starbucks Cbd,38,6344,Quick Bites,2.8,40,400.0,Yes,No,"North Indian, Chinese",Frazer Town,RT Nagar
+Shanti Nagar,Bangalore,Paratha House,200.0,2.9,80,North Indian,Shantinagar,45,4615,Quick Bites,3.6,33,350.0,Yes,No,"North Indian, Chinese",Electronic City,Electronic City
+Chamrajpet,Bangalore,Sri Sai Cafe,150.0,4.3,20,Fast Food,Basavanagudi,52,5800,Quick Bites,3.5,10,200.0,Yes,No,South Indian,Banashankari,Basavanagudi
+Teynampet,Chennai,Cream Stone,300.0,4.6,100,"Ice Cream,Desserts,Beverages",Alwarpet,53,1605,Dessert Parlor,4.0,78,500.0,Yes,No,"Desserts, Beverages",Brigade Road,Frazer Town
+Gulbai Tekra,Ahmedabad,1441 Pizzeria,400.0,4.3,100,"Italian,Pizzas,Pastas,Fast Food,Desserts,Beverages",Navrangpura,38,13,Casual Dining,4.1,119,800.0,Yes,No,"Pizza, Salad",Basavanagudi,JP Nagar
+Jayanagar,Bangalore,Parimala Sweets,200.0,2.9,80,"Snacks,Sweets",Jayanagar,54,4633,Sweet Shop,3.5,14,200.0,No,No,"Mithai, Street Food",Banashankari,Banashankari
+Kothrud,Pune,Singh Saab,200.0,4.0,500,"Indian,Snacks,Punjabi,Street Food,Desserts,Beverages",Kothrud,52,5522,Casual Dining,3.7,243,850.0,Yes,No,North Indian,Indiranagar,Indiranagar
+Koramangala,Bangalore,Chaat Street,200.0,4.2,100,"Fast Food,Snacks,Chaat,Street Food,Beverages,Combo,North Indian,Indian,Maharashtrian,Rajasthani",Btm,58,1267,Kiosk,3.9,293,250.0,Yes,No,"Street Food, North Indian",Koramangala 5th Block,Koramangala 6th Block
+Kachiguda,Hyderabad,Lassi Corner,150.0,4.1,100,"Hyderabadi,Desserts,Fast Food",Barkathpura,28,3520,Beverage Shop,2.8,40,150.0,Yes,No,"Beverages, Desserts",MG Road,Vijay Nagar
+Himayatnagar,Hyderabad,The Belgian Waffle Co.,200.0,4.4,500,"Desserts,Beverages",Zee Plaza,39,6221,Dessert Parlor,3.7,15,350.0,Yes,No,"Desserts, Beverages",New BEL Road,Sahakara Nagar
+Memnagar,Ahmedabad,Lassi Ghar,100.0,4.1,20,Beverages,Vastrapur,46,3523,Beverage Shop,2.8,40,150.0,Yes,No,"Beverages, Ice Cream, Juices, Sandwich",Bannerghatta Road,Bannerghatta Road
+Kilpauk,Chennai,Jalsa,500.0,2.9,80,"Chaat,Beverages",Kilpauk,49,3008,Casual Dining,4.1,775,800.0,Yes,Yes,"North Indian, Mughlai, Chinese",Banashankari,Banashankari
+Malleshwaram,Bangalore,New Agarwal Bhavan,150.0,4.2,100,"Bakery,Sweets,Snacks",Malleshwaram,51,4237,"Quick Bites, Sweet Shop",4.1,253,400.0,Yes,No,"North Indian, Chinese, Street Food, Mithai",Malleshwaram,Yeshwantpur
+Egmore,Chennai,Delhi Highway,300.0,4.7,100,Indian,Egmore,45,1753,Casual Dining,4.4,3423,1500.0,Yes,Yes,"North Indian, Mughlai",MG Road,Indiranagar
+Basavanagudi,Bangalore,Hotel Dwarka,200.0,4.4,1000,South Indian,Basavanagudi,52,2670,Quick Bites,4.2,253,250.0,No,No,South Indian,Banashankari,Basavanagudi
+Kankurgachi,Kolkata,Baskin Robbins,250.0,4.4,100,Desserts  Ice Cream,Kankurgachi,37,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Jayanagar - 3Rd Block,Bangalore,Sri Udupi Food Hub,199.0,4.3,500,"South Indian,North Indian,Indian,Chinese,Fast Food,Combo,Chaat,Ice Cream,Desserts,Beverages",Jayanagar,47,5817,Casual Dining,2.8,40,500.0,No,No,"South Indian, North Indian, Chinese, Beverages",Indiranagar,Domlur
+Banjara Hills,Hyderabad,Krispy Kreme,170.0,4.3,100,Desserts  Beverages,G V K  One   Mall,54,3430,Dessert Parlor,3.4,10,300.0,Yes,No,"Desserts, Beverages",Koramangala 6th Block,Koramangala 6th Block
+Rohini,Delhi,Natural Ice Cream,150.0,4.4,50,Ice Cream,Sector 8,35,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Ashok Nagar,Bangalore,Cold Stone Creamery,200.0,4.0,50,"Ice Cream,Desserts,Beverages",Garuda Mall,48,1555,Dessert Parlor,3.9,99,400.0,Yes,No,"Ice Cream, Desserts",Bannerghatta Road,Bannerghatta Road
+Jayanagar,Bangalore,Davanagere Benne Dose,120.0,4.1,100,South Indian,4Th Block Jayanagar,49,1713,Quick Bites,3.9,106,150.0,Yes,No,South Indian,"Byresandra,Tavarekere,Madiwala",HSR
+Malleshwaram,Bangalore,Swathi Restaurant,300.0,4.3,20,Indian,Sheshadripuram,52,5997,Casual Dining,3.8,34,600.0,No,No,"Chinese, North Indian, South Indian",Rajajinagar,Seshadripuram
+Bidhannagar,Kolkata,Frozen Bottle,250.0,4.1,20,"Beverages,Ice Cream,Desserts",Sector-2,65,2279,Beverage Shop,2.8,40,400.0,Yes,No,"Beverages, Desserts",HSR,Sarjapur Road
+Abids,Hyderabad,Natural Ice Cream,150.0,4.3,100,Ice Cream,Abids,33,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Santacruz East,Mumbai,Burma Burma,1000.0,4.6,100,"Asian,Burmese",Scruz Bandra East,52,1022,Casual Dining,4.7,1594,1500.0,Yes,No,"Asian, Burmese",Indiranagar,Indiranagar
+Rithala Rohini,Delhi,Bakingo,300.0,4.3,500,"Bakery,Desserts,Beverages,Snacks",Rohini,38,552,Bakery,3.4,6,500.0,Yes,No,"Bakery, Desserts",Whitefield,Marathahalli
+Rabindra Sarovar,Kolkata,The Spice Factory,250.0,3.4,50,"North Indian,Beverages",Jadavpur,85,6545,Casual Dining,3.1,29,550.0,Yes,No,"North Indian, Mughlai, Chinese",HSR,HSR
+Chetpet,Chennai,Kailash Parbat,300.0,4.1,500,"Fast Food,North Indian,Street Food",Chetpet,55,3159,Food Court,2.6,84,400.0,No,No,North Indian,Brookefield,Whitefield
+Himayatnagar,Hyderabad,Baskin Robbins,300.0,4.5,100,"Desserts,Ice Cream",Wajihuddin,27,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Armane Nagar,Bangalore,Kailash Parbat,300.0,4.2,500,"Fast Food,North Indian,Street Food",Sadashivnagar,53,3159,Food Court,2.6,84,400.0,No,No,North Indian,Brookefield,Whitefield
+Himayatnagar,Hyderabad,Frozen Bottle,250.0,3.8,100,"Beverages,Ice Cream,Desserts",Rk Saboo Plaza,32,2279,Beverage Shop,2.8,40,400.0,Yes,No,"Beverages, Desserts",HSR,Sarjapur Road
+Rohini,Delhi,Baskin Robbins,250.0,3.8,20,"Desserts,Ice Cream",Rohini Rk,38,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Uppal,Hyderabad,Baskin Robbins,250.0,4.0,20,Desserts  Ice Cream,Nacharam,61,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Navrangpura,Ahmedabad,Baskin Robbins,250.0,3.7,20,"Desserts,Ice Cream",C G Road,36,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Burrabazar,Kolkata,Baskin Robbins,250.0,4.5,100,"Desserts,Ice Cream",Kolkata Municipal Corporation,35,627,Dessert Parlor,2.9,20,250.0,Yes,No,"Ice Cream, Desserts",Malleshwaram,Rajajinagar
+Rohini,Delhi,The Paratha Company,200.0,3.4,20,North Indian,Rohini,47,6482,Delivery,4.2,402,400.0,Yes,No,North Indian,Brookefield,Whitefield
+Domlur,Bangalore,Sri Ganesha Fruit Juice Centre,100.0,2.9,80,"Juices,Beverages",Indiranagar,63,5754,Beverage Shop,3.2,17,100.0,Yes,No,"Juices, Beverages",Indiranagar,Domlur
+Kailash Plaza,Mumbai,Ice Cream Works,300.0,2.9,80,"Ice Cream,Desserts",Ghatkopar Vikhroli,52,2878,Dessert Parlor,3.8,83,300.0,Yes,No,"Ice Cream, Ice Cream",Indiranagar,Indiranagar
+Tolichowki,Hyderabad,Bombay Kulfis,100.0,2.9,80,Desserts,Tolichowki,65,906,Dessert Parlor,3.3,4,200.0,No,No,Ice Cream,Indiranagar,Indiranagar
+Vastrapur,Ahmedabad,Vanilla Sky,300.0,2.9,80,Chinese,Vastrapur,51,6823,Lounge,4.6,766,1200.0,No,Yes,"Chinese, Continental, North Indian, Finger Food",HSR,HSR
+Jayanagar,Bangalore,Bikaner Sweets,99.0,3.7,20,Sweets,Jayanagar,50,777,Sweet Shop,3.7,63,150.0,Yes,No,"Mithai, Street Food",New BEL Road,Sahakara Nagar
+Umra Jakat,Surat,Natural Ice Cream,150.0,4.6,100,Ice Cream,Umra Jakat,44,4194,Dessert Parlor,4.1,119,150.0,No,No,"Ice Cream, Desserts",Frazer Town,Frazer Town
+Kothrud,Pune,Big Mishra Pedha,120.0,2.9,80,"Sweets,Chaat,Juices",Kothrud,58,768,Sweet Shop,2.9,23,250.0,Yes,No,Mithai,Banashankari,Jayanagar
+Athwa,Surat,Waffle House,300.0,2.9,80,Desserts,Athwa,38,6913,Dessert Parlor,3.5,29,,No,No,Desserts,Marathahalli,Marathahalli
+Kodambakkam,Chennai,Paratha Point,350.0,2.9,80,North Indian,Kodambakkam,72,4621,Quick Bites,2.8,40,250.0,Yes,No,"North Indian, Chinese",Brookefield,"ITPL Main Road, Whitefield"
+T Nagar,Chennai,Jalpaan,600.0,2.9,80,"North Indian,Chinese,Thai,Indian,Desserts,Beverages",T Nagar,90,3007,Casual Dining,3.9,675,900.0,Yes,Yes,"North Indian, Continental",Malleshwaram,Rajajinagar
+Sagrampuraathwa,Surat,Laziz Pizza,300.0,2.9,80,"Pizzas,Fast Food,Pastas",Athwa,35,3550,Quick Bites,2.8,40,400.0,Yes,No,"Fast Food, Burger, Pizza",HSR,HSR
+Kothrud,Pune,South Kitchen,150.0,2.9,80,South Indian,Kothrud,65,5641,Quick Bites,4.3,275,100.0,Yes,No,South Indian,Banashankari,Basavanagudi
+Central Bangalore,Bangalore,Bangarpet Chats,110.0,2.9,80,Chaat,Central Bangalore,37,597,Quick Bites,2.8,40,80.0,No,No,Street Food,Kalyan Nagar,Kammanahalli

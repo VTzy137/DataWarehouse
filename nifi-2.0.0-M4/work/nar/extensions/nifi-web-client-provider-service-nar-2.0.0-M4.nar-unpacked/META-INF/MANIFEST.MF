@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache NiFi Nar Maven Plugin 2.0.0
+Build-Jdk-Spec: 21
+Nar-Id: nifi-web-client-provider-service-nar
+Nar-Group: org.apache.nifi
+Nar-Version: 2.0.0-M4
+Nar-Dependency-Group: org.apache.nifi
+Nar-Dependency-Id: nifi-standard-shared-nar
+Nar-Dependency-Version: 2.0.0-M4
+Build-Tag: nifi-2.0.0-M4-RC1
+Build-Branch: UNKNOWN
+Build-Revision: 19c5be0
+Build-Timestamp: 2024-06-27T22:41:47Z
+Clone-During-Instance-Class-Loading: false
+

@@ -1,0 +1,24 @@
+- switch postgresql:
+	sudo -i -u postgres
+	
+- goto postgresql: 
+	psql
+- create database:
+	createuser --interactive
+- use user:
+	-u <\user-name>
+- open database:
+	\c <\database-name>
+- quit:
+	\q
+- list database:
+	\dt
+- change owner:
+	ALTER TABLE <table_name> OWNER TO <owner_name>;
+- \l: list database
+
+
+user: truong
+database: newdatabase
+
+usr: postgres, pass Truong123 
